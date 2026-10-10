@@ -1,0 +1,16 @@
+GLOBAL AIRPORT NETWORK - GRAPH SUMMARY
+=============================================
+
+Number of airport vertices: 6072
+Number of unique directed route edges: 37042
+Directed graph density: 0.001005
+Number of weakly connected components: 2822
+Largest weak component size: 3231
+Number of strongly connected components: 2863
+Largest strong component size: 3190
+Number of isolated airports: 2815
+Number of pendant airports (1 neighbour): 747
+Average in-degree: 6.100461
+Average out-degree: 6.100461
+Maximum in-degree: 238
+Maximum out-degree: 239

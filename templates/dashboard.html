@@ -1,0 +1,637 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Global Airport &amp; Flight Route Network Explorer</title>
+<link rel="stylesheet" href="lib/leaflet/leaflet.css">
+<style>
+:root{
+  --bg:#0a0f1a;
+  --panel:#0f1625;
+  --panel-2:#131c2f;
+  --line:#1e2a41;
+  --text:#e6edf7;
+  --muted:#8996ad;
+  --accent:#38d9ef;
+  --accent-ink:#04222a;
+  --warm:#f6c177;
+  --radius:12px;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--text);font:14px/1.45 var(--sans);overflow:hidden}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* ---------- layout ---------- */
+.app{height:100%;display:grid;grid-template-rows:auto 1fr;gap:12px;padding:12px}
+.top{display:grid;grid-template-columns:1fr minmax(260px,460px) 1fr;align-items:center;gap:16px;padding:2px 4px}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
+.brand svg{flex:none;color:var(--accent)}
+.brand h1{font-size:16px;font-weight:650;margin:0;letter-spacing:.1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stats{display:flex;justify-content:flex-end;gap:22px}
+.stat{text-align:right}
+.stat b{display:block;font:600 17px/1.1 var(--mono);font-variant-numeric:tabular-nums}
+.stat span{font-size:11px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
+
+.main{min-height:0;display:grid;grid-template-columns:248px minmax(0,1fr) 300px;gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px;min-height:0}
+.side{display:flex;flex-direction:column;gap:18px;overflow:auto}
+.label{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 10px}
+.mapwrap{position:relative;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;min-height:320px;background:#0b1220}
+#map{position:absolute;inset:0;background:#0b1220}
+
+/* ---------- search ---------- */
+.search{position:relative}
+.search input{width:100%;height:40px;padding:0 44px 0 40px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--text);font:inherit}
+.search input::placeholder{color:var(--muted)}
+.search input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(56,217,239,.15)}
+.search .ico{position:absolute;left:13px;top:11px;color:var(--muted);pointer-events:none}
+.search kbd{position:absolute;right:10px;top:9px;font:11px var(--mono);color:var(--muted);border:1px solid var(--line);border-radius:5px;padding:2px 6px}
+.results{position:absolute;z-index:1200;left:0;right:0;top:46px;background:var(--panel-2);border:1px solid var(--line);border-radius:10px;overflow:hidden;box-shadow:0 14px 34px rgba(0,0,0,.45);display:none}
+.results.open{display:block}
+.results li{list-style:none;display:flex;gap:12px;align-items:baseline;padding:9px 14px;cursor:pointer}
+.results ul{margin:0;padding:0}
+.results li[aria-selected="true"],.results li:hover{background:rgba(56,217,239,.1)}
+.results .code{font:600 13px var(--mono);color:var(--accent);width:34px;flex:none}
+.results .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.results .ct{color:var(--muted);font-size:12px;margin-left:auto;white-space:nowrap}
+.results .none{padding:12px 14px;color:var(--muted)}
+
+/* ---------- controls ---------- */
+.regions{display:flex;flex-direction:column;gap:4px}
+.region{display:flex;align-items:center;gap:10px;width:100%;padding:7px 10px;border-radius:8px;border:1px solid transparent;background:transparent;text-align:left}
+.region:hover{background:var(--panel-2)}
+.region .sw{width:10px;height:10px;border-radius:50%;flex:none;background:var(--c);box-shadow:0 0 0 3px color-mix(in srgb,var(--c) 22%,transparent)}
+.region .n{margin-left:auto;font-size:12px;color:var(--muted)}
+.region[aria-pressed="false"]{opacity:.45}
+.region[aria-pressed="false"] .sw{background:transparent;box-shadow:inset 0 0 0 2px var(--c)}
+
+.range-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px}
+.range-head .v{font:600 13px var(--mono);color:var(--accent)}
+input[type=range]{width:100%;accent-color:var(--accent);margin:0}
+.hint{margin:8px 0 0;font-size:12px;color:var(--muted)}
+
+.switch{display:flex;align-items:center;justify-content:space-between;width:100%;background:none;border:0;padding:0}
+.switch .track{width:38px;height:22px;border-radius:99px;background:#26324a;position:relative;transition:background .15s}
+.switch .track::after{content:"";position:absolute;top:3px;left:3px;width:16px;height:16px;border-radius:50%;background:#cbd5e6;transition:transform .15s}
+.switch[aria-checked="true"] .track{background:var(--accent)}
+.switch[aria-checked="true"] .track::after{transform:translateX(16px);background:var(--accent-ink)}
+
+.seg{display:grid;grid-template-columns:repeat(3,1fr);background:var(--bg);border:1px solid var(--line);border-radius:9px;padding:3px;gap:3px}
+.seg button{border:0;background:transparent;border-radius:6px;padding:6px 0;font-size:12.5px;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--panel-2);color:var(--text);box-shadow:inset 0 0 0 1px var(--line)}
+
+.how{margin-top:auto;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+.how i{display:inline-block;vertical-align:middle;margin-right:4px}
+
+/* ---------- right panel ---------- */
+.hubs{display:flex;flex-direction:column;gap:2px}
+.hub{display:grid;grid-template-columns:34px 1fr 40px;gap:10px;align-items:center;width:100%;padding:7px 8px;border:0;border-radius:8px;background:transparent;text-align:left}
+.hub:hover,.hub.linked{background:var(--panel-2)}
+.hub .code{font:600 13px var(--mono)}
+.hub .bar{height:6px;border-radius:99px;background:var(--bg);overflow:hidden}
+.hub .bar i{display:block;height:100%;border-radius:99px;background:var(--c)}
+.hub .v{font:12px var(--mono);color:var(--muted);text-align:right}
+.hub .city{grid-column:2 / 4;font-size:11.5px;color:var(--muted);margin-top:-6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.insp-head{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.insp-code{font:700 30px/1 var(--mono);color:var(--warm);letter-spacing:.02em}
+.x{border:1px solid var(--line);background:var(--panel-2);border-radius:8px;width:30px;height:30px;line-height:1;color:var(--muted)}
+.x:hover{color:var(--text)}
+.insp-name{font-weight:600;margin:10px 0 2px}
+.insp-sub{color:var(--muted);font-size:13px}
+.pill{display:inline-flex;align-items:center;gap:7px;margin-top:10px;font-size:12px;color:var(--muted)}
+.pill i{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:16px 0}
+.kpi{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px}
+.kpi b{display:block;font:650 20px/1.1 var(--mono);font-variant-numeric:tabular-nums}
+.kpi span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.rank{font-size:13px;color:var(--muted);margin:0 0 16px}
+.rank b{color:var(--text);font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--panel-2);border-radius:8px;padding:5px 9px;font-size:12.5px}
+.chip:hover{border-color:var(--accent)}
+.chip b{font:600 12px var(--mono);color:var(--accent);margin-right:6px}
+.more{margin:8px 0 0;font-size:12px;color:var(--muted)}
+
+/* ---------- map bits ---------- */
+.leaflet-container{background:#0b1220;font:inherit}
+.leaflet-control-zoom a{background:var(--panel)!important;color:var(--text)!important;border-color:var(--line)!important}
+.leaflet-control-zoom a:hover{background:var(--panel-2)!important}
+.leaflet-bar{border:1px solid var(--line)!important;box-shadow:none!important}
+.leaflet-control-attribution{background:rgba(10,15,26,.75)!important;color:var(--muted)!important;font-size:10px}
+.leaflet-control-attribution a{color:#9fb0cc!important}
+.leaflet-tooltip{background:var(--panel-2);color:var(--text);border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,.4);padding:5px 9px}
+.leaflet-tooltip-top:before{border-top-color:var(--line)}
+.tt b{font-family:var(--mono);color:var(--accent);margin-right:6px}
+.tt span{color:var(--muted)}
+.count-badge{position:absolute;z-index:500;left:12px;bottom:12px;background:rgba(10,15,26,.82);border:1px solid var(--line);border-radius:8px;padding:5px 10px;font-size:12px;color:var(--muted);pointer-events:none}
+.count-badge b{color:var(--text);font-family:var(--mono)}
+
+/* ---------- about button + modal ---------- */
+.about-btn{height:34px;padding:0 14px;border-radius:9px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:13px;align-self:center}
+.about-btn:hover{border-color:var(--accent);color:var(--accent)}
+.stats{align-items:center}
+.modal{position:fixed;inset:0;z-index:3000;background:rgba(4,8,15,.72);display:none;align-items:center;justify-content:center;padding:20px}
+.modal.open{display:flex}
+.sheet{width:min(760px,100%);max-height:90vh;overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px 24px}
+.sheet h2{margin:0;font-size:18px}
+.sheet .sub{color:var(--muted);margin:4px 0 18px;font-size:13px}
+.sheet h3{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:22px 0 10px}
+.sheet-head{display:flex;justify-content:space-between;align-items:flex-start}
+.facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.fact{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.fact b{display:block;font:650 18px/1.15 var(--mono);font-variant-numeric:tabular-nums}
+.fact span{font-size:11.5px;color:var(--muted)}
+.dist{display:grid;grid-template-columns:54px 1fr 52px;gap:8px 10px;align-items:center;font-size:12.5px}
+.dist .bar{height:10px;background:var(--bg);border-radius:99px;overflow:hidden}
+.dist .bar i{display:block;height:100%;background:var(--accent);border-radius:99px}
+.dist .v{font-family:var(--mono);color:var(--muted);text-align:right}
+.flow{border-collapse:separate;border-spacing:3px;width:100%;font-size:12px}
+.flow th{font-weight:500;color:var(--muted);padding:4px 6px;text-align:center}
+.flow th.row{text-align:right;white-space:nowrap}
+.flow td{text-align:center;padding:8px 4px;border-radius:6px;font-family:var(--mono);background:rgba(56,217,239,var(--a));color:var(--text)}
+.note{font-size:12px;color:var(--muted);margin:8px 0 0}
+
+/* ---------- small screens ---------- */
+@media (max-width:1100px){
+  .main{grid-template-columns:230px minmax(0,1fr)}
+  .right{grid-column:1 / -1}
+  body{overflow:auto}.app{height:auto}.mapwrap{min-height:480px}
+}
+@media (max-width:720px){
+  .top{grid-template-columns:1fr}.stats{justify-content:flex-start}.stat{text-align:left}
+  .main{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header class="top">
+    <div class="brand">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5" cy="6" r="2.2"/><circle cx="19" cy="5" r="2.2"/><circle cx="12" cy="18" r="2.2"/><path d="M7 6.5 17 5.3M6.2 8 11 16M17.8 7 13 16"/></svg>
+      <h1>Global Airport &amp; Flight Route Explorer</h1>
+    </div>
+
+    <div class="search">
+      <svg class="ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Search airport, city or code…" aria-label="Search airports"
+             role="combobox" aria-expanded="false" aria-controls="results">
+      <kbd aria-hidden="true">/</kbd>
+      <div class="results" id="results" role="listbox"><ul></ul></div>
+    </div>
+
+    <div class="stats"><div class="stats" id="stats"></div><button class="about-btn" id="aboutBtn" aria-haspopup="dialog">About this graph</button></div>
+  </header>
+
+  <div class="main">
+
+    <aside class="card side" aria-label="Filters">
+      <section>
+        <p class="label">Regions</p>
+        <div class="regions" id="regions"></div>
+      </section>
+
+      <section>
+        <div class="range-head"><p class="label" style="margin:0">Minimum connections</p><span class="v num" id="minVal">8</span></div>
+        <input id="minConn" type="range" min="1" max="100" value="8" aria-label="Minimum connections">
+        <p class="hint" id="minHint"></p>
+      </section>
+
+      <section>
+        <button class="switch" id="routesSwitch" role="switch" aria-checked="true">
+          <span>Flight routes</span><span class="track"></span>
+        </button>
+      </section>
+
+      <section>
+        <p class="label">Map style</p>
+        <div class="seg" id="basemaps">
+          <button data-b="dark" aria-pressed="true">Dark</button>
+          <button data-b="sat" aria-pressed="false">Satellite</button>
+          <button data-b="street" aria-pressed="false">Streets</button>
+        </div>
+      </section>
+
+      <p class="how">Dot size shows how many airports are directly connected. Lines show routes between the busiest hubs &mdash; select any airport to see all of its routes.</p>
+    </aside>
+
+    <div class="mapwrap">
+      <div id="map" aria-label="Map of airports and flight routes"></div>
+      <div class="count-badge" id="badge"></div>
+    </div>
+
+    <aside class="card side right" id="right" aria-live="polite"></aside>
+  </div>
+</div>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <div class="sheet">
+    <div class="sheet-head">
+      <div><h2 id="mTitle">About this graph</h2>
+      <p class="sub">Airports are vertices; a route between two airports is an edge. Data: OpenFlights.</p></div>
+      <button class="x" id="mClose" aria-label="Close">&times;</button>
+    </div>
+    <h3>Graph facts</h3><div class="facts" id="facts"></div>
+    <h3>How many airports have how many connections?</h3><div class="dist" id="dist"></div>
+    <p class="note">Most airports are small (few links) while a few dozen hubs have 100+. A skewed, hub-dominated network.</p>
+    <h3>Routes between regions (from &darr; to &rarr;)</h3><div id="flow"></div>
+    <p class="note">Darker cells carry more routes. The diagonal shows routes that stay inside a region.</p>
+  </div>
+</div>
+
+<script src="lib/leaflet/leaflet.js"></script>
+<script>
+/* ============================================================
+   DATA (generated by visualize_network.py)
+   ============================================================ */
+const DATA = /*__DATA__*/null;
+
+/* ============================================================
+   SETUP
+   ============================================================ */
+const REGION_COLORS = ["#4cc9f0","#f4a261","#ef6f6c","#a78bfa","#5eead4","#b8e06a"];
+const HUB_COUNT = 60;                 // hubs whose mutual routes form the default overview
+const A = DATA.airports.map((r, i) => ({
+  i, code:r[0], name:r[1], city:r[2], country:r[3],
+  lat:r[4], lon:r[5], region:r[6], conn:r[7], out:r[8], inn:r[9]
+}));
+const adj = A.map(() => []);
+DATA.pairs.forEach(([a, b]) => { adj[a].push(b); adj[b].push(a); });
+
+const state = {
+  regionOn: DATA.regions.map(() => true),
+  minConn: 8,
+  routes: true,
+  basemap: "dark",
+  selected: null,
+};
+
+const $ = (s) => document.querySelector(s);
+const fmt = (n) => n.toLocaleString("en-US");
+const esc = (s) => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const label = (a) => a.city && a.city !== a.name ? `${a.city}, ${a.country}` : a.country;
+
+/* ---------- header stats ---------- */
+$("#stats").innerHTML = [
+  [fmt(DATA.stats.airports), "Airports"],
+  [fmt(DATA.stats.routes), "Routes"],
+  [DATA.stats.giantPct + "%", "In main network"],
+].map(([v, l]) => `<div class="stat"><b>${v}</b><span>${l}</span></div>`).join("");
+
+/* ============================================================
+   MAP
+   ============================================================ */
+const map = L.map("map", {
+  center:[25, 15], zoom:2, minZoom:2, maxZoom:10,
+  worldCopyJump:true, zoomControl:false, preferCanvas:true,
+  zoomSnap:0.5,
+});
+L.control.zoom({position:"topleft"}).addTo(map);
+
+const BASEMAPS = {
+  dark:   L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+            {attribution:"Tiles &copy; Esri", maxZoom:16, maxNativeZoom:16}),
+  sat:    L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+            {attribution:"Tiles &copy; Esri", maxZoom:18}),
+  street: L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+            {attribution:"&copy; OpenStreetMap contributors", maxZoom:19}),
+};
+BASEMAPS.dark.addTo(map);
+
+const canvas = L.canvas({padding:0.4});
+const hubLayer     = L.layerGroup().addTo(map);   // overview routes between top hubs
+const airportLayer = L.layerGroup().addTo(map);   // airport dots
+const focusLayer   = L.layerGroup().addTo(map);   // selected airport + its routes
+
+/* Curved route: quadratic Bezier bending towards the nearer pole. */
+function arc(a, b) {
+  let lon2 = b.lon;
+  if (lon2 - a.lon > 180) lon2 -= 360;
+  if (lon2 - a.lon < -180) lon2 += 360;
+  const dx = lon2 - a.lon, dy = b.lat - a.lat;
+  const d = Math.hypot(dx, dy);
+  const bend = Math.min(0.22, 0.12 + d / 900) * d;
+  const mx = (a.lon + lon2) / 2, my = (a.lat + b.lat) / 2;
+  const nx = -dy / (d || 1), ny = dx / (d || 1);
+  const sign = (my + ny * bend) > my === (my >= 0) ? 1 : -1;   // bow away from the equator
+  const cx = mx + nx * bend * sign, cy = my + ny * bend * sign;
+  const steps = Math.max(8, Math.min(40, Math.round(d / 4)));
+  const pts = [];
+  for (let s = 0; s <= steps; s++) {
+    const t = s / steps, u = 1 - t;
+    pts.push([u*u*a.lat + 2*u*t*cy + t*t*b.lat, u*u*a.lon + 2*u*t*cx + t*t*lon2]);
+  }
+  return pts;
+}
+
+const visible = (a) => state.regionOn[a.region] && a.conn >= state.minConn;
+
+function drawAirports() {
+  airportLayer.clearLayers();
+  let shown = 0;
+  // small first, so big hubs paint on top
+  for (let k = A.length - 1; k >= 0; k--) {
+    const a = A[k];
+    if (!visible(a)) continue;
+    shown++;
+    const m = L.circleMarker([a.lat, a.lon], {
+      renderer:canvas, radius:2 + Math.sqrt(a.conn) * 0.42,
+      color:"#0a0f1a", weight:1,
+      fillColor:REGION_COLORS[a.region], fillOpacity:0.88,
+    });
+    m.bindTooltip(`<div class="tt"><b>${esc(a.code)}</b><span>${esc(a.city || a.name)}</span></div>`,
+                  {direction:"top", offset:[0,-4], opacity:1});
+    m.on("click", () => select(a.i, false));
+    m.on("mouseover", () => linkHub(a.i, true));     // brushing: map -> hub list
+    m.on("mouseout",  () => linkHub(a.i, false));
+    m.addTo(airportLayer);
+  }
+  $("#badge").innerHTML = `<b>${fmt(shown)}</b> airports shown`;
+  $("#minHint").textContent = `${fmt(shown)} airports have ${state.minConn}+ connections.`;
+}
+
+function drawHubRoutes() {
+  hubLayer.clearLayers();
+  if (!state.routes) return;
+  const faint = state.selected !== null;
+  DATA.pairs.forEach(([i, j]) => {
+    if (i >= HUB_COUNT || j >= HUB_COUNT) return;
+    const a = A[i], b = A[j];
+    if (!state.regionOn[a.region] || !state.regionOn[b.region]) return;
+    L.polyline(arc(a, b), {
+      renderer:canvas, color:"#8fa3c7", weight:0.8,
+      opacity:faint ? 0.06 : 0.3, interactive:false,
+    }).addTo(hubLayer);
+  });
+}
+
+function drawFocus() {
+  focusLayer.clearLayers();
+  if (state.selected === null) return null;
+  const s = A[state.selected];
+  const all = [[s.lat, s.lon]];
+  adj[s.i].forEach(j => {
+    const n = A[j];
+    const pts = arc(s, n);
+    all.push(...pts);
+    if (state.routes) {
+      L.polyline(pts, {renderer:canvas, color:"#f6c177", weight:1.1, opacity:0.55, interactive:false}).addTo(focusLayer);
+    }
+    L.circleMarker([n.lat, n.lon], {
+      renderer:canvas, radius:2.5 + Math.sqrt(n.conn) * 0.35, color:"#0a0f1a", weight:1,
+      fillColor:REGION_COLORS[n.region], fillOpacity:0.95,
+    }).bindTooltip(`<div class="tt"><b>${esc(n.code)}</b><span>${esc(n.city || n.name)}</span></div>`,
+                   {direction:"top", offset:[0,-4], opacity:1})
+      .on("click", () => select(n.i, false)).addTo(focusLayer);
+  });
+  L.circleMarker([s.lat, s.lon], {
+    renderer:canvas, radius:9, color:"#f6c177", weight:2.5,
+    fillColor:REGION_COLORS[s.region], fillOpacity:1,
+  }).bindTooltip(`<div class="tt"><b>${esc(s.code)}</b><span>${esc(s.city || s.name)}</span></div>`,
+                 {direction:"top", offset:[0,-8], opacity:1}).addTo(focusLayer);
+  return all;
+}
+
+/* ============================================================
+   RIGHT PANEL  (top hubs  <->  airport inspector)
+   ============================================================ */
+const brushLayer = L.layerGroup().addTo(map);       // ring shown when hovering a hub row
+function linkHub(i, on) {
+  const row = document.querySelector(`.hub[data-i="${i}"]`);
+  if (row) row.classList.toggle("linked", on);
+}
+function brushAirport(i, on) {                       // brushing: hub list -> map
+  brushLayer.clearLayers();
+  if (!on) return;
+  const a = A[i];
+  L.circleMarker([a.lat, a.lon], {renderer:canvas, radius:12, color:"#f6c177", weight:2.5, fill:false, interactive:false}).addTo(brushLayer);
+}
+
+function renderHubs() {
+  const list = A.filter(a => state.regionOn[a.region]).slice(0, 10);   // A is sorted by connections
+  const max = list.length ? list[0].conn : 1;
+  $("#right").innerHTML = `
+    <section>
+      <p class="label">Top hubs</p>
+      <div class="hubs">${list.map(a => `
+        <button class="hub" data-i="${a.i}" style="--c:${REGION_COLORS[a.region]}" title="${esc(a.name)}">
+          <span class="code">${esc(a.code)}</span>
+          <span class="bar"><i style="width:${(a.conn / max * 100).toFixed(1)}%"></i></span>
+          <span class="v">${a.conn}</span>
+          <span class="city">${esc(label(a))}</span>
+        </button>`).join("") || `<p class="hint">No regions selected.</p>`}
+      </div>
+      <p class="hint">Ranked by directly connected airports. Click a hub to explore it.</p>
+    </section>`;
+  document.querySelectorAll(".hub").forEach(b => {
+    b.onclick = () => select(+b.dataset.i, true);
+    b.onmouseenter = () => brushAirport(+b.dataset.i, true);
+    b.onmouseleave = () => brushAirport(0, false);
+    b.onfocus = b.onmouseenter; b.onblur = b.onmouseleave;
+  });
+}
+
+function renderInspector() {
+  const a = A[state.selected];
+  const rank = a.i + 1;                                  // A is sorted by connections
+  const nb = adj[a.i].map(j => A[j]).sort((x, y) => y.conn - x.conn);
+  const top = nb.slice(0, 8);
+  $("#right").innerHTML = `
+    <section>
+      <div class="insp-head">
+        <div class="insp-code">${esc(a.code)}</div>
+        <button class="x" id="closeInsp" aria-label="Close airport details">&times;</button>
+      </div>
+      <div class="insp-name">${esc(a.name)}</div>
+      <div class="insp-sub">${esc(label(a))}</div>
+      <div class="pill" style="--c:${REGION_COLORS[a.region]}"><i></i>${esc(DATA.regions[a.region])}</div>
+
+      <div class="kpis">
+        <div class="kpi"><b>${a.conn}</b><span>Linked</span></div>
+        <div class="kpi"><b>${a.out}</b><span>Outbound</span></div>
+        <div class="kpi"><b>${a.inn}</b><span>Inbound</span></div>
+      </div>
+      <p class="rank">Ranks <b>#${fmt(rank)}</b> of ${fmt(A.length)} airports by connections.</p>
+
+      <p class="label">Busiest links</p>
+      <div class="chips">${top.map(n => `<button class="chip" data-i="${n.i}" title="${esc(n.name)}"><b>${esc(n.code)}</b>${esc(n.city || n.country)}</button>`).join("")}</div>
+      ${nb.length > top.length ? `<p class="more">+ ${nb.length - top.length} more shown on the map</p>` : ""}
+    </section>`;
+  $("#closeInsp").onclick = () => select(null);
+  document.querySelectorAll(".chip").forEach(b => b.onclick = () => select(+b.dataset.i, true));
+}
+
+/* ============================================================
+   SELECTION
+   ============================================================ */
+function select(i, fit) {
+  state.selected = i;
+  const pts = drawFocus();
+  drawHubRoutes();
+  if (i === null) {
+    renderHubs();
+    history.replaceState(null, "", location.pathname);
+    return;
+  }
+  renderInspector();
+  history.replaceState(null, "", "#" + A[i].code);
+  if (fit && pts) {
+    map.flyToBounds(L.latLngBounds(pts), {padding:[50, 50], maxZoom:5, duration:0.8});
+  }
+}
+
+/* ============================================================
+   FILTER CONTROLS
+   ============================================================ */
+const regionsEl = $("#regions");
+regionsEl.innerHTML = DATA.regions.map((r, k) => `
+  <button class="region" data-k="${k}" aria-pressed="true" style="--c:${REGION_COLORS[k]}">
+    <span class="sw"></span><span>${r}</span><span class="n num">${fmt(DATA.regionCounts[k])}</span>
+  </button>`).join("");
+regionsEl.querySelectorAll(".region").forEach(b => b.onclick = () => {
+  const k = +b.dataset.k;
+  state.regionOn[k] = !state.regionOn[k];
+  b.setAttribute("aria-pressed", state.regionOn[k]);
+  refresh();
+});
+
+let sliderTimer;
+$("#minConn").oninput = (e) => {
+  state.minConn = +e.target.value;
+  $("#minVal").textContent = state.minConn;
+  clearTimeout(sliderTimer);
+  sliderTimer = setTimeout(refresh, 40);
+};
+
+$("#routesSwitch").onclick = (e) => {
+  state.routes = !state.routes;
+  e.currentTarget.setAttribute("aria-checked", state.routes);
+  drawHubRoutes(); drawFocus();
+};
+
+$("#basemaps").querySelectorAll("button").forEach(b => b.onclick = () => {
+  map.removeLayer(BASEMAPS[state.basemap]);
+  state.basemap = b.dataset.b;
+  BASEMAPS[state.basemap].addTo(map).bringToBack();
+  $("#basemaps").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+});
+
+function refresh() {
+  drawAirports();
+  drawHubRoutes();
+  if (state.selected === null) renderHubs();
+}
+
+/* ============================================================
+   SEARCH
+   ============================================================ */
+const q = $("#q"), results = $("#results"), ul = results.querySelector("ul");
+let hits = [], cursor = -1;
+
+function score(a, t) {
+  const code = a.code.toLowerCase(), city = a.city.toLowerCase(),
+        name = a.name.toLowerCase(), country = a.country.toLowerCase();
+  if (code === t) return 100;
+  if (code.startsWith(t)) return 80;
+  if (city.startsWith(t)) return 70;
+  if (name.startsWith(t)) return 60;
+  if (city.includes(t) || name.includes(t)) return 40;
+  if (country.startsWith(t)) return 25;
+  return 0;
+}
+
+function renderResults() {
+  ul.innerHTML = hits.length
+    ? hits.map((a, k) => `<li role="option" data-i="${a.i}" aria-selected="${k === cursor}">
+        <span class="code">${esc(a.code)}</span><span class="nm">${esc(a.name)}</span><span class="ct">${esc(label(a))}</span></li>`).join("")
+    : `<li class="none">No matching airport</li>`;
+  results.classList.add("open");
+  q.setAttribute("aria-expanded", "true");
+  ul.querySelectorAll("li[data-i]").forEach(li =>
+    li.onmousedown = (e) => { e.preventDefault(); choose(+li.dataset.i); });
+}
+function closeResults() { results.classList.remove("open"); q.setAttribute("aria-expanded", "false"); }
+function choose(i) { closeResults(); q.value = ""; q.blur(); select(i, true); }
+
+q.addEventListener("input", () => {
+  const t = q.value.trim().toLowerCase();
+  if (!t) return closeResults();
+  hits = A.map(a => [score(a, t), a]).filter(x => x[0] > 0)
+          .sort((x, y) => y[0] - x[0] || y[1].conn - x[1].conn).slice(0, 7).map(x => x[1]);
+  cursor = hits.length ? 0 : -1;
+  renderResults();
+});
+q.addEventListener("keydown", (e) => {
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    if (!hits.length) return;
+    e.preventDefault();
+    cursor = (cursor + (e.key === "ArrowDown" ? 1 : -1) + hits.length) % hits.length;
+    renderResults();
+  } else if (e.key === "Enter" && hits[cursor]) {
+    choose(hits[cursor].i);
+  } else if (e.key === "Escape") {
+    closeResults(); q.blur();
+  }
+});
+q.addEventListener("blur", closeResults);
+document.addEventListener("keydown", (e) => {
+  if (e.key === "/" && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+  if (e.key === "Escape" && state.selected !== null && document.activeElement !== q) select(null);
+});
+
+/* ============================================================
+   ABOUT THIS GRAPH (modal)
+   ============================================================ */
+const modal = $("#modal");
+function buildAbout() {
+  const st = DATA.stats;
+  const facts = [
+    [fmt(st.allAirports), "vertices (airports, finite)"],
+    [fmt(st.routes), "directed edges (routes)"],
+    [st.density.toFixed(5), "density"],
+    [st.avgConn, "avg. connections per airport"],
+    [fmt(st.airports) + " (" + st.giantPct + "%)", "in the main connected component"],
+    [fmt(st.isolated), "isolated (no routes)"],
+    [fmt(st.pendant), "pendant (exactly 1 neighbour)"],
+    [st.maxConn, "most connections (top hub)"],
+  ];
+  $("#facts").innerHTML = facts.map(([v, l]) => `<div class="fact"><b>${v}</b><span>${l}</span></div>`).join("");
+
+  const db = DATA.degreeBuckets, mx = Math.max(...db.counts);
+  $("#dist").innerHTML = db.labels.map((l, k) => `
+    <span class="num">${l}</span><span class="bar"><i style="width:${(db.counts[k] / mx * 100).toFixed(1)}%"></i></span><span class="v">${fmt(db.counts[k])}</span>`).join("");
+
+  const fl = DATA.flow, fmax = Math.max(...fl.flat());
+  const short = ["Europe", "Asia", "Africa", "N. America", "S. America", "Oceania"];
+  $("#flow").innerHTML = `<table class="flow"><tr><th></th>${short.map(r => `<th>${r}</th>`).join("")}</tr>` +
+    fl.map((row, i) => `<tr><th class="row">${short[i]}</th>` +
+      row.map(v => `<td style="--a:${(0.05 + 0.75 * Math.sqrt(v / fmax)).toFixed(2)}">${fmt(v)}</td>`).join("") + "</tr>").join("") + "</table>";
+}
+let lastFocus = null;
+function openAbout() { lastFocus = document.activeElement; modal.classList.add("open"); $("#mClose").focus(); }
+function closeAbout() { modal.classList.remove("open"); if (lastFocus) lastFocus.focus(); }
+buildAbout();
+$("#aboutBtn").onclick = openAbout;
+$("#mClose").onclick = closeAbout;
+modal.addEventListener("mousedown", (e) => { if (e.target === modal) closeAbout(); });
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && modal.classList.contains("open")) closeAbout(); });
+
+/* ============================================================
+   START
+   ============================================================ */
+refresh();
+const fromHash = A.find(a => a.code === location.hash.slice(1).toUpperCase());
+if (fromHash) select(fromHash.i, true);
+window.addEventListener("load", () => map.invalidateSize());
+</script>
+</body>
+</html>

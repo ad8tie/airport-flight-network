@@ -1,0 +1,2816 @@
+IATA,Airport,City,Country,In_Degree,Out_Degree,Total_Degree,Weak_Component_Size
+HFN,Hornafjörður Airport,Hofn,Iceland,0,0,0,1
+HZK,Húsavík Airport,Husavik,Iceland,0,0,0,1
+PFJ,Patreksfjörður Airport,Patreksfjordur,Iceland,0,0,0,1
+SIJ,Siglufjörður Airport,Siglufjordur,Iceland,0,0,0,1
+VEY,Vestmannaeyjar Airport,Vestmannaeyjar,Iceland,0,0,0,1
+YAZ,Tofino / Long Beach Airport,Tofino,Canada,0,0,0,1
+YBB,Kugaaruk Airport,Pelly Bay,Canada,0,0,0,1
+YCH,Miramichi Airport,Chatham,Canada,0,0,0,1
+YCT,Coronation Airport,Coronation,Canada,0,0,0,1
+YCW,Chilliwack Airport,Chilliwack,Canada,0,0,0,1
+YDA,Dawson City Airport,Dawson,Canada,0,0,0,1
+YDB,Burwash Airport,Burwash,Canada,0,0,0,1
+YDL,Dease Lake Airport,Dease Lake,Canada,0,0,0,1
+YDN,Dauphin Barker Airport,Dauphin,Canada,0,0,0,1
+YEN,Estevan Airport,Estevan,Canada,0,0,0,1
+YET,Edson Airport,Edson,Canada,0,0,0,1
+YEU,Eureka Airport,Eureka,Canada,0,0,0,1
+YFE,Forestville Airport,Forestville,Canada,0,0,0,1
+YFR,Fort Resolution Airport,Fort Resolution,Canada,0,0,0,1
+YGQ,Geraldton Greenstone Regional Airport,Geraldton,Canada,0,0,0,1
+YHB,Hudson Bay Airport,Hudson Bay,Canada,0,0,0,1
+YIB,Atikokan Municipal Airport,Atikokan,Canada,0,0,0,1
+YJN,St Jean Airport,St. Jean,Canada,0,0,0,1
+YKY,Kindersley Airport,Kindersley,Canada,0,0,0,1
+YKZ,Buttonville Municipal Airport,Toronto,Canada,0,0,0,1
+YLD,Chapleau Airport,Chapleau,Canada,0,0,0,1
+YLJ,Meadow Lake Airport,Meadow Lake,Canada,0,0,0,1
+YLT,Alert Airport,Alert,Canada,0,0,0,1
+YMA,Mayo Airport,Mayo,Canada,0,0,0,1
+YMJ,Moose Jaw Air Vice Marshal C. M. McEwen Airport,Moose Jaw,Canada,0,0,0,1
+YMW,Maniwaki Airport,Maniwaki,Canada,0,0,0,1
+YMX,Montreal International (Mirabel) Airport,Montreal,Canada,0,0,0,1
+YND,Ottawa / Gatineau Airport,Gatineau,Canada,0,0,0,1
+YNM,Matagami Airport,Matagami,Canada,0,0,0,1
+YOC,Old Crow Airport,Old Crow,Canada,0,0,0,1
+YOD,CFB Cold Lake,Cold Lake,Canada,0,0,0,1
+YPA,Prince Albert Glass Field,Prince Albert,Canada,0,0,0,1
+YPE,Peace River Airport,Peace River,Canada,0,0,0,1
+YPG,Southport Airport,Portage-la-prairie,Canada,0,0,0,1
+YPQ,Peterborough Airport,Peterborough,Canada,0,0,0,1
+YQA,Muskoka Airport,Muskoka,Canada,0,0,0,1
+YQH,Watson Lake Airport,Watson Lake,Canada,0,0,0,1
+YQV,Yorkton Municipal Airport,Yorkton,Canada,0,0,0,1
+YQW,North Battleford Airport,North Battleford,Canada,0,0,0,1
+YRI,Rivière-du-Loup Airport,Riviere Du Loup,Canada,0,0,0,1
+YRJ,Roberval Airport,Roberval,Canada,0,0,0,1
+YRM,Rocky Mountain House Airport,Rocky Mountain House,Canada,0,0,0,1
+YSC,Sherbrooke Airport,Sherbrooke,Canada,0,0,0,1
+YSR,Nanisivik Airport,Nanisivik,Canada,0,0,0,1
+YSU,Summerside Airport,Summerside,Canada,0,0,0,1
+YTR,CFB Trenton,Trenton,Canada,0,0,0,1
+YVC,La Ronge Airport,La Ronge,Canada,0,0,0,1
+YVG,Vermilion Airport,Vermillion,Canada,0,0,0,1
+YVT,Buffalo Narrows Airport,Buffalo Narrows,Canada,0,0,0,1
+YVV,Wiarton Airport,Wiarton,Canada,0,0,0,1
+YWA,Petawawa Airport,Petawawa,Canada,0,0,0,1
+YWY,Wrigley Airport,Wrigley,Canada,0,0,0,1
+YXD,Edmonton City Centre (Blatchford Field) Airport,Edmonton,Canada,0,0,0,1
+YXR,Earlton (Timiskaming Regional) Airport,Earlton,Canada,0,0,0,1
+YYL,Lynn Lake Airport,Lynn Lake,Canada,0,0,0,1
+YYN,Swift Current Airport,Swift Current,Canada,0,0,0,1
+YYW,Armstrong Airport,Armstrong,Canada,0,0,0,1
+YZD,Downsview Airport,Toronto,Canada,0,0,0,1
+YZE,Gore Bay Manitoulin Airport,Gore Bay,Canada,0,0,0,1
+YZH,Slave Lake Airport,Slave Lake,Canada,0,0,0,1
+YZU,Whitecourt Airport,Whitecourt,Canada,0,0,0,1
+YZW,Teslin Airport,Teslin,Canada,0,0,0,1
+YZX,CFB Greenwood,Greenwood,Canada,0,0,0,1
+ZFA,Faro Airport,Faro,Canada,0,0,0,1
+QLD,Blida Airport,Blida,Algeria,0,0,0,1
+BUJ,Bou Saada Airport,Bou Saada,Algeria,0,0,0,1
+VVZ,Illizi Takhamalt Airport,Illizi,Algeria,0,0,0,1
+GJL,Jijel Ferhat Abbas Airport,Jijel,Algeria,0,0,0,1
+TIN,Tindouf Airport,Tindouf,Algeria,0,0,0,1
+TAF,Tafaraoui Airport,Oran,Algeria,0,0,0,1
+BFW,Sidi Bel Abbes Airport,Sidi Bel Abbes,Algeria,0,0,0,1
+LOO,Laghouat Airport,Laghouat,Algeria,0,0,0,1
+TMX,Timimoun Airport,Timimoun,Algeria,0,0,0,1
+BYK,Bouaké Airport,Bouake,Cote d'Ivoire,0,0,0,1
+DJO,Daloa Airport,Daloa,Cote d'Ivoire,0,0,0,1
+HGO,Korhogo Airport,Korhogo,Cote d'Ivoire,0,0,0,1
+MJC,Man Airport,Man,Cote d'Ivoire,0,0,0,1
+SPY,San Pedro Airport,San Pedro,Cote d'Ivoire,0,0,0,1
+ASK,Yamoussoukro Airport,Yamoussoukro,Cote d'Ivoire,0,0,0,1
+AKR,Akure Airport,Akure,Nigeria,0,0,0,1
+MIU,Maiduguri International Airport,Maiduguri,Nigeria,0,0,0,1
+MDI,Makurdi Airport,Makurdi,Nigeria,0,0,0,1
+MXJ,Minna Airport,Minna,Nigeria,0,0,0,1
+ZAR,Zaria Airport,Zaria,Nigeria,0,0,0,1
+MFQ,Maradi Airport,Maradi,Niger,0,0,0,1
+THZ,Tahoua Airport,Tahoua,Niger,0,0,0,1
+AJY,Mano Dayak International Airport,Agadez,Niger,0,0,0,1
+ZND,Zinder Airport,Zinder,Niger,0,0,0,1
+EBM,El Borma Airport,El Borma,Tunisia,0,0,0,1
+LRL,Niamtougou International Airport,Niatougou,Togo,0,0,0,1
+KJK,Wevelgem Airport,Kortrijk-vevelgem,Belgium,0,0,0,1
+OBL,Zoersel (Oostmalle) Airfield,Zoersel,Belgium,0,0,0,1
+AOC,Altenburg-Nobitz Airport,Altenburg,Germany,0,0,0,1
+IES,Riesa-Göhlis Airport,Riesa,Germany,0,0,0,1
+REB,Rechlin-Lärz Airport,Rechlin-laerz,Germany,0,0,0,1
+QXH,Schönhagen Airport,Schoenhagen,Germany,0,0,0,1
+BBH,Barth Airport,Barth,Germany,0,0,0,1
+ZMG,"Magdeburg ""City"" Airport",Magdeburg,Germany,0,0,0,1
+CBU,Cottbus-Drewitz Airport,Cottbus,Germany,0,0,0,1
+THF,Berlin-Tempelhof International Airport,Berlin,Germany,0,0,0,1
+QEF,Frankfurt-Egelsbach Airport,Egelsbach,Germany,0,0,0,1
+EIB,Eisenach-Kindel Airport,Eisenach,Germany,0,0,0,1
+SGE,Siegerland Airport,Siegerland,Germany,0,0,0,1
+KEL,Kiel-Holtenau Airport,Kiel,Germany,0,0,0,1
+ESS,Essen Mulheim Airport,Essen,Germany,0,0,0,1
+BFE,Bielefeld Airport,Bielefeld,Germany,0,0,0,1
+MGL,Mönchengladbach Airport,Moenchengladbach,Germany,0,0,0,1
+OBF,Oberpfaffenhofen Airport,Oberpfaffenhofen,Germany,0,0,0,1
+RBM,Straubing Airport,Straubing,Germany,0,0,0,1
+SZW,Schwerin Parchim Airport,Parchim,Germany,0,0,0,1
+BYU,Bayreuth Airport,Bayreuth,Germany,0,0,0,1
+URD,Burg Feuerstein Airport,Burg Feuerstein,Germany,0,0,0,1
+HOQ,Hof-Plauen Airport,Hof,Germany,0,0,0,1
+ZQL,Donaueschingen-Villingen Airport,Donaueschingen,Germany,0,0,0,1
+BWE,Braunschweig-Wolfsburg Airport,Braunschweig,Germany,0,0,0,1
+BRV,Bremerhaven Airport,Bremerhaven,Germany,0,0,0,1
+EME,Emden Airport,Emden,Germany,0,0,0,1
+WVN,Wilhelmshaven-Mariensiel Airport,Wilhelmshaven,Germany,0,0,0,1
+BMK,Borkum Airport,Borkum,Germany,0,0,0,1
+NRD,Norderney Airport,Norderney,Germany,0,0,0,1
+FLF,Flensburg-Schäferhaus Airport,Flensburg,Germany,0,0,0,1
+KDL,Kärdla Airport,Kardla,Estonia,0,0,0,1
+EPU,Pärnu Airport,Parnu,Estonia,0,0,0,1
+ENF,Enontekio Airport,Enontekio,Finland,0,0,0,1
+KEV,Halli Airport,Halli,Finland,0,0,0,1
+HEM,Helsinki Malmi Airport,Helsinki,Finland,0,0,0,1
+HYV,Hyvinkää Airfield,Hyvinkaa,Finland,0,0,0,1
+KTQ,Kitee Airport,Kitee,Finland,0,0,0,1
+KAU,Kauhava Airport,Kauhava,Finland,0,0,0,1
+KHJ,Kauhajoki Airport,Kauhajoki,Finland,0,0,0,1
+QLF,Lahti Vesivehmaa Airport,Vesivehmaa,Finland,0,0,0,1
+MIK,Mikkeli Airport,Mikkeli,Finland,0,0,0,1
+SOT,Sodankyla Airport,Sodankyla,Finland,0,0,0,1
+UTI,Utti Air Base,Utti,Finland,0,0,0,1
+VRK,Varkaus Airport,Varkaus,Finland,0,0,0,1
+YLI,Ylivieska Airfield,Ylivieska-raudaskyla,Finland,0,0,0,1
+ENK,St Angelo Airport,Enniskillen,United Kingdom,0,0,0,1
+CVT,Coventry Airport,Coventry,United Kingdom,0,0,0,1
+GBA,Cotswold Airport,Pailton,United Kingdom,0,0,0,1
+LYE,RAF Lyneham,Lyneham,United Kingdom,0,0,0,1
+YEO,RNAS Yeovilton,Yeovilton,United Kingdom,0,0,0,1
+HAW,Haverfordwest Airport,Haverfordwest,United Kingdom,0,0,0,1
+SWS,Swansea Airport,Swansea,United Kingdom,0,0,0,1
+PLH,Plymouth City Airport,Plymouth,United Kingdom,0,0,0,1
+QLA,Lasham Airport,Lasham,United Kingdom,0,0,0,1
+ESH,Shoreham Airport,Shoreham By Sea,United Kingdom,0,0,0,1
+BQH,London Biggin Hill Airport,Biggin Hill,United Kingdom,0,0,0,1
+FAB,Farnborough Airport,Farnborough,United Kingdom,0,0,0,1
+BBS,Blackbushe Airport,Blackbushe,United Kingdom,0,0,0,1
+LYX,Lydd Airport,Lydd,United Kingdom,0,0,0,1
+MSE,Kent International Airport,Manston,United Kingdom,0,0,0,1
+CAX,Carlisle Airport,Carlisle,United Kingdom,0,0,0,1
+BWF,Barrow Walney Island Airport,Barrow Island,United Kingdom,0,0,0,1
+WRT,Warton Airport,Warton,United Kingdom,0,0,0,1
+SCS,Scatsta Airport,Scatsta,United Kingdom,0,0,0,1
+ADX,RAF Leuchars,Leuchars,United Kingdom,0,0,0,1
+LMO,RAF Lossiemouth,Lossiemouth,United Kingdom,0,0,0,1
+CBG,Cambridge Airport,Cambridge,United Kingdom,0,0,0,1
+FZO,Bristol Filton Airport,Bristol,United Kingdom,0,0,0,1
+OXF,Oxford (Kidlington) Airport,Oxford,United Kingdom,0,0,0,1
+BEX,RAF Benson,Benson,United Kingdom,0,0,0,1
+LKZ,RAF Lakenheath,Lakenheath,United Kingdom,0,0,0,1
+MHZ,RAF Mildenhall,Mildenhall,United Kingdom,0,0,0,1
+QUY,RAF Wyton,Wyton,United Kingdom,0,0,0,1
+FFD,RAF Fairford,Fairford,United Kingdom,0,0,0,1
+BZZ,RAF Brize Norton,Brize Norton,United Kingdom,0,0,0,1
+ODH,RAF Odiham,Odiham,United Kingdom,0,0,0,1
+NHT,RAF Northolt,Northolt,United Kingdom,0,0,0,1
+QCY,RAF Coningsby,Coningsby,United Kingdom,0,0,0,1
+BEQ,RAF Honington,Honington,United Kingdom,0,0,0,1
+SQZ,RAF Scampton,Scampton,United Kingdom,0,0,0,1
+HRT,RAF Linton-On-Ouse,Linton-on-ouse,United Kingdom,0,0,0,1
+WTN,RAF Waddington,Waddington,United Kingdom,0,0,0,1
+KNF,RAF Marham,Marham,United Kingdom,0,0,0,1
+GLZ,Gilze Rijen Air Base,Gilze-rijen,Netherlands,0,0,0,1
+DHR,De Kooy Airport,De Kooy,Netherlands,0,0,0,1
+LEY,Lelystad Airport,Lelystad,Netherlands,0,0,0,1
+LWR,Leeuwarden Air Base,Leeuwarden,Netherlands,0,0,0,1
+UTC,Soesterberg Air Base,Soesterberg,Netherlands,0,0,0,1
+ENS,Twente Airport,Enschede,Netherlands,0,0,0,1
+LID,Valkenburg Naval Air Base,Valkenburg,Netherlands,0,0,0,1
+WOE,Woensdrecht Air Base,Woensdrecht,Netherlands,0,0,0,1
+GWY,Galway Airport,Galway,Ireland,0,0,0,1
+SXL,Sligo Airport,Sligo,Ireland,0,0,0,1
+BYR,Læsø Airport,Laeso,Denmark,0,0,0,1
+MRW,Lolland Falster Maribo Airport,Maribo,Denmark,0,0,0,1
+ODE,Odense Airport,Odense,Denmark,0,0,0,1
+RKE,Copenhagen Roskilde Airport,Copenhagen,Denmark,0,0,0,1
+SKS,Skrydstrup Air Base,Skrydstrup,Denmark,0,0,0,1
+SQW,Skive Airport,Skive,Denmark,0,0,0,1
+TED,Thisted Airport,Thisted,Denmark,0,0,0,1
+STA,Stauning Airport,Stauning,Denmark,0,0,0,1
+DLD,Geilo Airport Dagali,Geilo,Norway,0,0,0,1
+FAN,Lista Airport,Farsund,Norway,0,0,0,1
+NTB,Notodden Airport,Notodden,Norway,0,0,0,1
+OSP,Redzikowo Air Base,Slupsk,Poland,0,0,0,1
+IEG,Zielona Góra-Babimost Airport,Zielona Gora,Poland,0,0,0,1
+LDK,Lidköping-Hovby Airport,Lidkoping,Sweden,0,0,0,1
+KVB,Skövde Airport,Skovde,Sweden,0,0,0,1
+KSK,Karlskoga Airport,Karlskoga,Sweden,0,0,0,1
+OSK,Oskarshamn Airport,Oskarshamn,Sweden,0,0,0,1
+HUV,Hudiksvall Airport,Hudiksvall,Sweden,0,0,0,1
+HLF,Hultsfred Airport,Hultsfred,Sweden,0,0,0,1
+GVX,Gävle Sandviken Airport,Gavle,Sweden,0,0,0,1
+EKT,Eskilstuna Airport,Eskilstuna,Sweden,0,0,0,1
+SPM,Spangdahlem Air Base,Spangdahlem,Germany,0,0,0,1
+RMS,Ramstein Air Base,Ramstein,Germany,0,0,0,1
+GHF,[Duplicate] Giebelstadt Army Air Field,Giebelstadt,Germany,0,0,0,1
+ZCN,Celle Airport,Celle,Germany,0,0,0,1
+FRZ,Fritzlar Airport,Fritzlar,Germany,0,0,0,1
+ZNF,Hanau Army Air Field,Hanau,Germany,0,0,0,1
+KZG,Flugplatz Kitzingen,Kitzingen,Germany,0,0,0,1
+FCN,Nordholz Naval Airbase,Nordholz,Germany,0,0,0,1
+GKE,Geilenkirchen Air Base,Geilenkirchen,Germany,0,0,0,1
+WBG,Schleswig Air Base,Schleswig,Germany,0,0,0,1
+WIE,Wiesbaden Army Airfield,Wiesbaden,Germany,0,0,0,1
+FEL,Fürstenfeldbruck Air Base,Fuerstenfeldbruck,Germany,0,0,0,1
+IGS,Ingolstadt Manching Airport,Ingolstadt,Germany,0,0,0,1
+GUT,Gütersloh Air Base,Guetersloh,Germany,0,0,0,1
+ALJ,Alexander Bay Airport,Alexander Bay,South Africa,0,0,0,1
+AGZ,Aggeneys Airport,Aggeneys,South Africa,0,0,0,1
+BIY,Bisho Airport,Bisho,South Africa,0,0,0,1
+FCB,Ficksburg Sentraoes Airport,Ficksburg,South Africa,0,0,0,1
+GCJ,Grand Central Airport,Johannesburg,South Africa,0,0,0,1
+HRS,Harrismith Airport,Harrismith,South Africa,0,0,0,1
+KXE,P C Pelser Airport,Klerksdorp,South Africa,0,0,0,1
+KMH,Johan Pienaar Airport,Kuruman,South Africa,0,0,0,1
+KLZ,Kleinsee Airport,Kleinsee,South Africa,0,0,0,1
+SDB,Langebaanweg Airport,Langebaanweg,South Africa,0,0,0,1
+LAY,Ladysmith Airport,Ladysmith,South Africa,0,0,0,1
+LLE,Riverside Airport,Malalane,South Africa,0,0,0,1
+MZQ,Mkuze Airport,Mkuze,South Africa,0,0,0,1
+NCS,Newcastle Airport,Newcastle,South Africa,0,0,0,1
+OVG,Overberg Airport,Overberg,South Africa,0,0,0,1
+OUH,Oudtshoorn Airport,Oudtshoorn,South Africa,0,0,0,1
+JOH,Port St Johns Airport,Port Saint Johns,South Africa,0,0,0,1
+NTY,Pilanesberg International Airport,Pilanesberg,South Africa,0,0,0,1
+PCF,Potchefstroom Airport,Potchefstroom,South Africa,0,0,0,1
+UTW,Queenstown Airport,Queenstown,South Africa,0,0,0,1
+ROD,Robertson Airport,Robertson,South Africa,0,0,0,1
+SBU,Springbok Airport,Springbok,South Africa,0,0,0,1
+ZEC,Secunda Airport,Secunda,South Africa,0,0,0,1
+SIS,Sishen Airport,Sishen,South Africa,0,0,0,1
+SZK,Skukuza Airport,Skukuza,South Africa,0,0,0,1
+LTA,Tzaneen Airport,Tzaneen,South Africa,0,0,0,1
+ULD,Prince Mangosuthu Buthelezi Airport,Ulundi,South Africa,0,0,0,1
+VRU,Vryburg Airport,Vryburg,South Africa,0,0,0,1
+VIR,Virginia Airport,Durban,South Africa,0,0,0,1
+VRE,Vredendal Airport,Vredendal,South Africa,0,0,0,1
+PRY,Wonderboom Airport,Pretoria,South Africa,0,0,0,1
+WKF,Waterkloof Air Force Base,Waterkloof,South Africa,0,0,0,1
+JWA,Jwaneng Airport,Jwaneng,Botswana,0,0,0,1
+PKW,Selebi Phikwe Airport,Selebi-phikwe,Botswana,0,0,0,1
+FTX,Owando Airport,Owando,Congo (Kinshasa),0,0,0,1
+OUE,Ouesso Airport,Ouesso,Congo (Kinshasa),0,0,0,1
+BBT,Berbérati Airport,Berberati,Central African Republic,0,0,0,1
+ASI,RAF Ascension Island,Wide Awake,Saint Helena,0,0,0,1
+NKW,Diego Garcia Naval Support Facility,Diego Garcia Island,British Indian Ocean Territory,0,0,0,1
+TKC,Tiko Airport,Tiko,Cameroon,0,0,0,1
+FOM,Foumban Nkounja Airport,Foumban,Cameroon,0,0,0,1
+BFX,Bafoussam Airport,Bafoussam,Cameroon,0,0,0,1
+BPC,Bamenda Airport,Bamenda,Cameroon,0,0,0,1
+YAO,Yaoundé Airport,Yaounde,Cameroon,0,0,0,1
+CGJ,Kasompe Airport,Kasompe,Zambia,0,0,0,1
+MNR,Mongu Airport,Mongu,Zambia,0,0,0,1
+KIW,Southdowns Airport,Southdowns,Zambia,0,0,0,1
+NWA,Mohéli Bandar Es Eslam Airport,Moheli,Comoros,0,0,0,1
+AJN,Ouani Airport,Anjouan,Comoros,0,0,0,1
+ZVA,Miandrivazo Airport,Miandrivazo,Madagascar,0,0,0,1
+ZWA,Andapa Airport,Andapa,Madagascar,0,0,0,1
+AMB,Ambilobe Airport,Ambilobe,Madagascar,0,0,0,1
+HVA,Analalava Airport,Analalava,Madagascar,0,0,0,1
+BPY,Besalampy Airport,Besalampy,Madagascar,0,0,0,1
+VOH,Vohimarina Airport,Vohemar,Madagascar,0,0,0,1
+WAI,Ambalabe Airport,Antsohihy,Madagascar,0,0,0,1
+IVA,Ampampamena Airport,Ampampamena,Madagascar,0,0,0,1
+WFI,Fianarantsoa Airport,Fianarantsoa,Madagascar,0,0,0,1
+RVA,Farafangana Airport,Farafangana,Madagascar,0,0,0,1
+WVK,Manakara Airport,Manakara,Madagascar,0,0,0,1
+MNJ,Mananjary Airport,Mananjary,Madagascar,0,0,0,1
+MXM,Morombe Airport,Morombe,Madagascar,0,0,0,1
+BUG,Benguela Airport,Benguela,Angola,0,0,0,1
+GXG,Negage Airport,Negage,Angola,0,0,0,1
+PBN,Porto Amboim Airport,Porto Amboim,Angola,0,0,0,1
+UGO,Uige Airport,Uige,Angola,0,0,0,1
+XGN,Xangongo Airport,Xangongo,Angola,0,0,0,1
+OYE,Oyem Airport,Oyem,Gabon,0,0,0,1
+OKN,Okondja Airport,Okondja,Gabon,0,0,0,1
+LBQ,Lambarene Airport,Lambarene,Gabon,0,0,0,1
+BMM,Bitam Airport,Bitam,Gabon,0,0,0,1
+OMB,Omboue Hopital Airport,Omboue Hospial,Gabon,0,0,0,1
+MKU,Makokou Airport,Makokou,Gabon,0,0,0,1
+MVB,M'Vengue El Hadj Omar Bongo Ondimba International Airport,Franceville,Gabon,0,0,0,1
+PCP,Principe Airport,Principe,Sao Tome and Principe,0,0,0,1
+LFB,Lumbo Airport,Lumbo,Mozambique,0,0,0,1
+MUD,Mueda Airport,Mueda,Mozambique,0,0,0,1
+MZB,Mocímboa da Praia Airport,Mocimboa Da Praia,Mozambique,0,0,0,1
+MNC,Nacala Airport,Nacala,Mozambique,0,0,0,1
+DES,Desroches Airport,Desroches,Seychelles,0,0,0,1
+AEH,Abeche Airport,Abeche,Chad,0,0,0,1
+MQQ,Moundou Airport,Moundou,Chad,0,0,0,1
+FYT,Faya Largeau Airport,Faya-largeau,Chad,0,0,0,1
+BFO,Buffalo Range Airport,Chiredzi,Zimbabwe,0,0,0,1
+KAB,Kariba International Airport,Kariba,Zimbabwe,0,0,0,1
+UTA,Mutare Airport,Mutare,Zimbabwe,0,0,0,1
+MVZ,Masvingo International Airport,Masvingo,Zimbabwe,0,0,0,1
+GWE,Thornhill Air Base,Gwert,Zimbabwe,0,0,0,1
+HWN,Hwange National Park Airport,Hwange National Park,Zimbabwe,0,0,0,1
+KGJ,Karonga Airport,Karonga,Malawi,0,0,0,1
+KBQ,Kasungu Airport,Kasungu,Malawi,0,0,0,1
+ZZU,Mzuzu Airport,Mzuzu,Malawi,0,0,0,1
+NLO,Ndolo Airport,Kinshasa,Congo (Kinshasa),0,0,0,1
+MNB,Muanda Airport,Muanda,Congo (Kinshasa),0,0,0,1
+FDU,Bandundu Airport,Bandoundu,Congo (Kinshasa),0,0,0,1
+KKW,Kikwit Airport,Kikwit,Congo (Kinshasa),0,0,0,1
+BDT,Gbadolite Airport,Gbadolite,Congo (Kinshasa),0,0,0,1
+KLI,Kotakoli Airport,Kotakoli,Congo (Kinshasa),0,0,0,1
+LIQ,Lisala Airport,Lisala,Congo (Kinshasa),0,0,0,1
+BZU,Buta Zega Airport,Buta Zega,Congo (Kinshasa),0,0,0,1
+KWZ,Kolwezi Airport,Kolwezi,Congo (Kinshasa),0,0,0,1
+KMN,Kamina Base Airport,Kamina Base,Congo (Kinshasa),0,0,0,1
+GAQ,Gao Airport,Gao,Mali,0,0,0,1
+KYS,Kayes Dag Dag Airport,Kayes,Mali,0,0,0,1
+MZI,Mopti Airport,Mopti,Mali,0,0,0,1
+TOM,Timbuktu Airport,Tombouctou,Mali,0,0,0,1
+ERH,Moulay Ali Cherif Airport,Er-rachidia,Morocco,0,0,0,1
+MEK,Bassatine Airport,Meknes,Morocco,0,0,0,1
+GMD,Ben Slimane Airport,Ben Slimane,Morocco,0,0,0,1
+NNA,Kenitra Airport,Kentira,Morocco,0,0,0,1
+KLC,Kaolack Airport,Kaolack,Senegal,0,0,0,1
+XLS,Saint Louis Airport,St. Louis,Senegal,0,0,0,1
+BXE,Bakel Airport,Bakel,Senegal,0,0,0,1
+KGG,Kédougou Airport,Kedougou,Senegal,0,0,0,1
+TUD,Tambacounda Airport,Tambacounda,Senegal,0,0,0,1
+AEO,Aioun el Atrouss Airport,Aioun El Atrouss,Mauritania,0,0,0,1
+TIY,Tidjikja Airport,Tidjikja,Mauritania,0,0,0,1
+KFA,Kiffa Airport,Kiffa,Mauritania,0,0,0,1
+EMN,Néma Airport,Nema,Mauritania,0,0,0,1
+KED,Kaédi Airport,Kaedi,Mauritania,0,0,0,1
+SEY,Sélibaby Airport,Selibabi,Mauritania,0,0,0,1
+ATR,Atar International Airport,Atar,Mauritania,0,0,0,1
+FIG,Fria Airport,Fira,Guinea,0,0,0,1
+FAA,Faranah Airport,Faranah,Guinea,0,0,0,1
+LEK,Tata Airport,Labe,Guinea,0,0,0,1
+KMU,Kisimayu Airport,Kismayu,Somalia,0,0,0,1
+ALY,El Nouzha Airport,Alexandria,Egypt,0,0,0,1
+CWE,Cairo West Airport,Cairo,Egypt,0,0,0,1
+EGH,El Gora Airport,El Gorah,Egypt,0,0,0,1
+MUH,Mersa Matruh Airport,Mersa-matruh,Egypt,0,0,0,1
+PSD,Port Said Airport,Port Said,Egypt,0,0,0,1
+SKV,St Catherine International Airport,St. Catherine,Egypt,0,0,0,1
+ELT,El Tor Airport,El-tor,Egypt,0,0,0,1
+GGM,Kakamega Airport,Kakamega,Kenya,0,0,0,1
+SEB,Sabha Airport,Sebha,Libya,0,0,0,1
+LMQ,Marsa Brega Airport,Marsa Brega,Libya,0,0,0,1
+HUQ,Hon Airport,Hon,Libya,0,0,0,1
+GYI,Gisenyi Airport,Gisenyi,Rwanda,0,0,0,1
+DOG,Dongola Airport,Dongola,Sudan,0,0,0,1
+RSS,Damazin Airport,Damazin,Sudan,0,0,0,1
+KSL,Kassala Airport,Kassala,Sudan,0,0,0,1
+KDX,Kadugli Airport,Kadugli,Sudan,0,0,0,1
+EBD,El Obeid Airport,El Obeid,Sudan,0,0,0,1
+MAK,Malakal Airport,Malakal,Sudan,0,0,0,1
+DOD,Dodoma Airport,Dodoma,Tanzania,0,0,0,1
+IRI,Iringa Airport,Iringa,Tanzania,0,0,0,1
+LKY,Lake Manyara Airport,Lake Manyara,Tanzania,0,0,0,1
+PMA,Pemba Airport,Pemba,Tanzania,0,0,0,1
+TGT,Tanga Airport,Tanga,Tanzania,0,0,0,1
+SRT,Soroti Airport,Soroti,Uganda,0,0,0,1
+GOZ,Gorna Oryahovitsa Airport,Gorna Orechovica,Bulgaria,0,0,0,1
+SZR,Stara Zagora Airport,Stara Zagora,Bulgaria,0,0,0,1
+AKT,RAF Akrotiri,Akrotiri,Cyprus,0,0,0,1
+ABC,Albacete-Los Llanos Airport,Albacete,Spain,0,0,0,1
+ODB,Córdoba Airport,Cordoba,Spain,0,0,0,1
+OZP,Moron Air Base,Sevilla,Spain,0,0,0,1
+ROZ,Rota Naval Station Airport,Rota,Spain,0,0,0,1
+LEU,Pirineus - la Seu d'Urgel Airport,Seo De Urgel,Spain,0,0,0,1
+TOJ,Torrejón Airport,Madrid,Spain,0,0,0,1
+VIT,Vitoria/Foronda Airport,Vitoria,Spain,0,0,0,1
+CQF,Calais-Dunkerque Airport,Calais,France,0,0,0,1
+BYF,Albert-Bray Airport,Albert,France,0,0,0,1
+LTQ,Le Touquet-Côte d'Opale Airport,Le Tourquet,France,0,0,0,1
+XVS,Valenciennes-Denain Airport,Valenciennes,France,0,0,0,1
+CNG,Cognac-Châteaubernard (BA 709) Air Base,Cognac,France,0,0,0,1
+MCU,Montluçon-Guéret Airport,Montlucon-gueret,France,0,0,0,1
+NIT,Niort-Souché Airport,Niort,France,0,0,0,1
+ZAO,Cahors-Lalbenque Airport,Cahors,France,0,0,0,1
+LBI,Albi-Le Séquestre Airport,Albi,France,0,0,0,1
+RYN,Royan-Médis Airport,Royan,France,0,0,0,1
+XMW,Montauban Airport,Montauban,France,0,0,0,1
+RCO,Rochefort-Saint-Agnant (BA 721) Airport,Rochefort,France,0,0,0,1
+CMR,Colmar-Houssen Airport,Colmar,France,0,0,0,1
+OBS,Aubenas-Ardèche Méridional Airport,Aubenas-vals-lanas,France,0,0,0,1
+PRP,Propriano Airport,Propriano,France,0,0,0,1
+SOZ,Solenzara (BA 126) Air Base,Solenzara,France,0,0,0,1
+AUF,Auxerre-Branches Airport,Auxerre,France,0,0,0,1
+CMF,Chambéry-Savoie Airport,Chambery,France,0,0,0,1
+BOU,Bourges Airport,Bourges,France,0,0,0,1
+QNJ,Annemasse Airport,Annemasse,France,0,0,0,1
+SYT,Saint-Yan Airport,St.-yan,France,0,0,0,1
+RNE,Roanne-Renaison Airport,Roanne,France,0,0,0,1
+NCY,Annecy-Haute-Savoie-Mont Blanc Airport,Annecy,France,0,0,0,1
+GNB,Grenoble-Isère Airport,Grenoble,France,0,0,0,1
+VAF,Valence-Chabeuil Airport,Valence,France,0,0,0,1
+VHY,Vichy-Charmeil Airport,Vichy,France,0,0,0,1
+CHR,"Châteauroux-Déols ""Marcel Dassault"" Airport",Chateauroux,France,0,0,0,1
+LYN,Lyon-Bron Airport,Lyon,France,0,0,0,1
+CEQ,Cannes-Mandelieu Airport,Cannes,France,0,0,0,1
+XOG,Orange-Caritat (BA 115) Air Base,Orange,France,0,0,0,1
+CTT,Le Castellet Airport,Le Castellet,France,0,0,0,1
+MEN,Mende-Brenoux Airfield,Mende,France,0,0,0,1
+EVX,Évreux-Fauville (BA 105) Air Base,Evreux,France,0,0,0,1
+XAB,Abbeville,Abbeville,France,0,0,0,1
+ORE,Orléans-Bricy (BA 123) Air Base,Orleans,France,0,0,0,1
+URO,Rouen Airport,Rouen,France,0,0,0,1
+CET,Cholet Le Pontreau Airport,Cholet,France,0,0,0,1
+LVA,Laval-Entrammes Airport,Laval,France,0,0,0,1
+LBG,Paris-Le Bourget Airport,Paris,France,0,0,0,1
+CSF,Creil Air Base,Creil,France,0,0,0,1
+TNF,Toussus-le-Noble Airport,Toussous-le-noble,France,0,0,0,1
+POX,Pontoise - Cormeilles-en-Vexin Airport,Pontoise,France,0,0,0,1
+VIY,Villacoublay-Vélizy (BA 107) Air Base,Villacoublay,France,0,0,0,1
+NVS,Nevers-Fourchambault Airport,Nevers,France,0,0,0,1
+XME,Maubeuge-Élesmes Airport,Maubeuge,France,0,0,0,1
+HZB,Merville-Calonne Airport,Merville,France,0,0,0,1
+XCZ,Charleville-Mézières Airport,Charleville,France,0,0,0,1
+CER,Cherbourg-Maupertus Airport,Cherbourg,France,0,0,0,1
+LBY,La Baule-Escoublac Airport,La Baule,France,0,0,0,1
+GFR,Granville Airport,Granville,France,0,0,0,1
+EDM,La Roche-sur-Yon Airport,La Roche-sur-yon,France,0,0,0,1
+LDV,Landivisiau Air Base,Landivisiau,France,0,0,0,1
+LME,Le Mans-Arnage Airport,Le Mans,France,0,0,0,1
+SBK,Saint-Brieuc-Armor Airport,St.-brieuc Armor,France,0,0,0,1
+MXN,Morlaix-Ploujean Airport,Morlaix,France,0,0,0,1
+VNE,Vannes-Meucon Airport,Vannes,France,0,0,0,1
+SNR,Saint-Nazaire-Montoir Airport,St.-nazaire,France,0,0,0,1
+MZM,Metz-Frescaty (BA 128) Air Base,Metz,France,0,0,0,1
+EPL,Épinal-Mirecourt Airport,Epinal,France,0,0,0,1
+ENC,Nancy-Essey Airport,Nancy,France,0,0,0,1
+RHE,Reims-Champagne (BA 112) Air Base,Reims,France,0,0,0,1
+MQC,Miquelon Airport,Miquelon,Saint Pierre and Miquelon,0,0,0,1
+PYR,Andravida Air Base,Andravida,Greece,0,0,0,1
+AGQ,Agrinion Air Base,Agrinion,Greece,0,0,0,1
+LRA,Larisa Airport,Larissa,Greece,0,0,0,1
+SPJ,Sparti Airport,Sparti,Greece,0,0,0,1
+CRV,Crotone Airport,Crotone,Italy,0,0,0,1
+FOG,"Foggia ""Gino Lisa"" Airport",Foggia,Italy,0,0,0,1
+TAR,"Taranto-Grottaglie ""Marcello Arlotta"" Airport",Grottaglie,Italy,0,0,0,1
+LCC,Lecce Galatina Air Base,Lecce,Italy,0,0,0,1
+NSY,Sigonella Navy Air Base,Sigonella,Italy,0,0,0,1
+DCI,Decimomannu Air Base,Decimomannu,Italy,0,0,0,1
+TTB,Tortolì Airport,Tortoli,Italy,0,0,0,1
+ALL,Villanova D'Albenga International Airport,Albenga,Italy,0,0,0,1
+AVB,Aviano Air Base,Aviano,Italy,0,0,0,1
+FRL,Forlì Airport,Forli,Italy,0,0,0,1
+VBS,Brescia Airport,Brescia,Italy,0,0,0,1
+VIC,Vicenza Airport,Vicenza,Italy,0,0,0,1
+QPA,Padova Airport,Padova,Italy,0,0,0,1
+SAY,Siena-Ampugnano Airport,Siena,Italy,0,0,0,1
+QLT,Latina Air Base,Latina,Italy,0,0,0,1
+GRS,Grosseto Air Base,Grosseto,Italy,0,0,0,1
+MBX,Maribor Airport,Maribor,Slovenia,0,0,0,1
+POW,Portoroz Airport,Portoroz,Slovenia,0,0,0,1
+UHE,Kunovice Airport,Kunovice,Czech Republic,0,0,0,1
+PRV,Přerov Air Base,Prerov,Czech Republic,0,0,0,1
+VOD,Vodochody Airport,Vodochody,Czech Republic,0,0,0,1
+BEV,Beersheba (Teyman) Airport,Beer-sheba,Israel,0,0,0,1
+EIY,Ein Yahav Airfield,Eyn-yahav,Israel,0,0,0,1
+RPN,Ben Ya'akov Airport,Rosh Pina,Israel,0,0,0,1
+MTZ,Bar Yehuda Airfield,Metzada,Israel,0,0,0,1
+VTM,Nevatim Air Base,Nevatim,Israel,0,0,0,1
+MIP,Ramon Air Base,Ramon,Israel,0,0,0,1
+AVR,Alverca Air Base,Alverca,Portugal,0,0,0,1
+BGC,Bragança Airport,Braganca,Portugal,0,0,0,1
+BYJ,Beja Airport / Airbase,Beja (madeira),Portugal,0,0,0,1
+BGZ,Braga Municipal Aerodrome,Braga,Portugal,0,0,0,1
+CAT,Cascais Airport,Cascais,Portugal,0,0,0,1
+QLR,Monte Real Air Base,Monte Real,Portugal,0,0,0,1
+PRM,Portimão Airport,Portimao,Portugal,0,0,0,1
+VRL,Vila Real Airport,Vila Real,Portugal,0,0,0,1
+VSE,Aerodromo Goncalves Lobato (Viseu Airport),Viseu,Portugal,0,0,0,1
+BCM,Bacău Airport,Bacau,Romania,0,0,0,1
+BBU,Băneasa International Airport,Bucharest,Romania,0,0,0,1
+CSB,Caransebeş Airport,Caransebes,Romania,0,0,0,1
+SCV,Suceava Stefan cel Mare Airport,Suceava,Romania,0,0,0,1
+TCE,Tulcea Airport,Tulcea,Romania,0,0,0,1
+SIR,Sion Airport,Sion,Switzerland,0,0,0,1
+EML,Emmen Air Base,Emmen,Switzerland,0,0,0,1
+ZHI,Grenchen Airport,Grenchen,Switzerland,0,0,0,1
+SMV,Samedan Airport,Samedan,Switzerland,0,0,0,1
+ANK,Etimesgut Air Base,Ankara,Turkey,0,0,0,1
+UAB,İncirlik Air Base,Adana,Turkey,0,0,0,1
+AFY,Afyon Airport,Afyon,Turkey,0,0,0,1
+TJK,Tokat Airport,Tokat,Turkey,0,0,0,1
+ISL,Atatürk International Airport,Istanbul,Turkey,0,0,0,1
+BZI,Balıkesir Merkez Airport,Balikesir,Turkey,0,0,0,1
+BDM,Bandırma Airport,Bandirma,Turkey,0,0,0,1
+ESK,Eskişehir Air Base,Eskisehir,Turkey,0,0,0,1
+IGL,Çiğli Airport,Izmir,Turkey,0,0,0,1
+BXN,Imsık Airport,Bodrum,Turkey,0,0,0,1
+SXZ,Siirt Airport,Siirt,Turkey,0,0,0,1
+BZY,Bălți International Airport,Saltsy,Moldova,0,0,0,1
+OHD,Ohrid St. Paul the Apostle Airport,Ohrid,Macedonia,0,0,0,1
+INI,Nis Airport,Nis,Serbia,0,0,0,1
+PZY,Piešťany Airport,Piestany,Slovakia,0,0,0,1
+SLD,Sliač Airport,Sliac,Slovakia,0,0,0,1
+TAT,Poprad-Tatry Airport,Poprad,Slovakia,0,0,0,1
+NCA,North Caicos Airport,North Caicos,Turks and Caicos Islands,0,0,0,1
+BRX,Maria Montez International Airport,Barahona,Dominican Republic,0,0,0,1
+CBJ,Cabo Rojo Airport,Cabo Rojo,Dominican Republic,0,0,0,1
+CBV,Coban Airport,Coban,Guatemala,0,0,0,1
+RER,Retalhuleu Airport,Retalhuleu,Guatemala,0,0,0,1
+GSJ,San José Airport,San Jose,Guatemala,0,0,0,1
+TEA,Tela Airport,Tela,Honduras,0,0,0,1
+TJI,Trujillo Airport,Trujillo,Honduras,0,0,0,1
+OCJ,Boscobel Aerodrome,Ocho Rios,Jamaica,0,0,0,1
+POT,Ken Jones Airport,Port Antonio,Jamaica,0,0,0,1
+KTP,Tinson Pen Airport,Kingston,Jamaica,0,0,0,1
+NTR,Del Norte International Airport,Monterrey,Mexico,0,0,0,1
+CVJ,General Mariano Matamoros Airport,Cuernavaca,Mexico,0,0,0,1
+ACN,Ciudad Acuña New International Airport,Ciudad Acuna,Mexico,0,0,0,1
+NCG,Nuevo Casas Grandes Airport,Nuevo Casas Grandes,Mexico,0,0,0,1
+ESE,Ensenada International Airport,Ensenada,Mexico,0,0,0,1
+GYM,General José María Yáñez International Airport,Guaymas,Mexico,0,0,0,1
+TCN,Tehuacan Airport,Tehuacan,Mexico,0,0,0,1
+ISJ,Isla Mujeres Airport,Isla Mujeres,Mexico,0,0,0,1
+IZT,Ixtepec Airport,Iztepec,Mexico,0,0,0,1
+LOV,Monclova International Airport,Monclova,Mexico,0,0,0,1
+NOG,Nogales International Airport,Nogales,Mexico,0,0,0,1
+PPE,Mar de Cortés International Airport,Punta Penasco,Mexico,0,0,0,1
+SFH,San Felipe International Airport,San Filipe,Mexico,0,0,0,1
+TSL,Tamuin Airport,Tamuin,Mexico,0,0,0,1
+ZMM,Zamora Airport,Zamora,Mexico,0,0,0,1
+BEF,Bluefields Airport,Bluefields,Nicaragua,0,0,0,1
+PUZ,Puerto Cabezas Airport,Puerto Cabezas,Nicaragua,0,0,0,1
+BLB,Panama Pacific International Airport,Howard,Panama,0,0,0,1
+SYP,Ruben Cantu Airport,Santiago,Panama,0,0,0,1
+BAI,Buenos Aires Airport,Buenos Aires,Costa Rica,0,0,0,1
+OTR,Coto 47 Airport,Coto 47,Costa Rica,0,0,0,1
+JAP,Chacarita Airport,Chacarita,Costa Rica,0,0,0,1
+GPL,Guapiles Airport,Guapiles,Costa Rica,0,0,0,1
+LSL,Los Chiles Airport,Los Chiles,Costa Rica,0,0,0,1
+LIO,Limon International Airport,Limon,Costa Rica,0,0,0,1
+TOO,San Vito De Java Airport,San Vito De Jaba,Costa Rica,0,0,0,1
+CYA,Les Cayes Airport,Cayes,Haiti,0,0,0,1
+JAK,Jacmel Airport,Jacmel,Haiti,0,0,0,1
+BCA,Gustavo Rizo Airport,Baracoa Playa,Cuba,0,0,0,1
+BYM,Carlos Manuel de Cespedes Airport,Bayamo,Cuba,0,0,0,1
+AVI,Maximo Gomez Airport,Ciego De Avila,Cuba,0,0,0,1
+CFG,Jaime Gonzalez Airport,Cienfuegos,Cuba,0,0,0,1
+NBW,Leeward Point Field,Guantanamo,Cuba,0,0,0,1
+LCL,La Coloma Airport,La Coloma,Cuba,0,0,0,1
+MOA,Orestes Acosta Airport,Moa,Cuba,0,0,0,1
+MZO,Sierra Maestra Airport,Manzanillo,Cuba,0,0,0,1
+GER,Rafael Cabrera Airport,Nueva Gerona,Cuba,0,0,0,1
+UPB,Playa Baracoa Airport,Baracoa Playa,Cuba,0,0,0,1
+QPD,Pinar Del Rio Airport,Pinar Del Rio Norte,Cuba,0,0,0,1
+SZJ,Siguanea Airport,Siguanea,Cuba,0,0,0,1
+USS,Sancti Spiritus Airport,Sancti Spiritus,Cuba,0,0,0,1
+VTU,Hermanos Ameijeiras Airport,Las Tunas,Cuba,0,0,0,1
+MAY,Clarence A. Bain Airport,Clarence Bain,Bahamas,0,0,0,1
+ASD,Andros Town Airport,Andros Town,Bahamas,0,0,0,1
+SAQ,San Andros Airport,San Andros,Bahamas,0,0,0,1
+CCZ,Chub Cay Airport,Chub Cay,Bahamas,0,0,0,1
+GHC,Great Harbour Cay Airport,Bullocks Harbour,Bahamas,0,0,0,1
+NMC,Normans Cay Airport,Norman's Cay,Bahamas,0,0,0,1
+TYM,Staniel Cay Airport,Staniel Cay,Bahamas,0,0,0,1
+DCT,Duncan Town Airport,Duncan Town,Bahamas,0,0,0,1
+VAV,Vava'u International Airport,Vava'u,Tonga,0,0,0,1
+TBF,Tabiteuea North Airport,Tabiteuea North,Kiribati,0,0,0,1
+AAA,Anaa Airport,Anaa,French Polynesia,0,0,0,1
+FGU,Fangatau Airport,Fangatau,French Polynesia,0,0,0,1
+REA,Reao Airport,Reao,French Polynesia,0,0,0,1
+PKP,Puka Puka Airport,Puka Puka,French Polynesia,0,0,0,1
+AMZ,Ardmore Airport,Ardmore,New Zealand,0,0,0,1
+CHT,Chatham Islands-Tuuta Airport,Chatham Island,New Zealand,0,0,0,1
+GTN,Glentanner Airport,Glentanner,New Zealand,0,0,0,1
+ALR,Alexandra Airport,Alexandra,New Zealand,0,0,0,1
+MON,Mount Cook Airport,Mount Cook,New Zealand,0,0,0,1
+TEU,Manapouri Airport,Manapouri,New Zealand,0,0,0,1
+MRO,Hood Airport,Masterton,New Zealand,0,0,0,1
+OHA,RNZAF Base Ohakea,Ohakea,New Zealand,0,0,0,1
+OAM,Oamaru Airport,Oamaru,New Zealand,0,0,0,1
+TWZ,Pukaki Airport,Pukaki,New Zealand,0,0,0,1
+WKA,Wanaka Airport,Wanaka,New Zealand,0,0,0,1
+WIR,Wairoa Airport,Wairoa,New Zealand,0,0,0,1
+JAA,Jalalabad Airport,Jalalabad,Afghanistan,0,0,0,1
+MMZ,Maimana Airport,Maimama,Afghanistan,0,0,0,1
+OAH,Shindand Airport,Shindand,Afghanistan,0,0,0,1
+UND,Konduz Airport,Kunduz,Afghanistan,0,0,0,1
+DHA,King Abdulaziz Air Base,Dhahran,Saudi Arabia,0,0,0,1
+QJB,Jubail Airport,Jubail,Saudi Arabia,0,0,0,1
+KMC,King Khaled Military City Airport,King Khalid Mil.city,Saudi Arabia,0,0,0,1
+SLF,Sulayel Airport,Sulayel,Saudi Arabia,0,0,0,1
+AKW,Aghajari Airport,Aghajari,Iran,0,0,0,1
+OMI,Omidiyeh Airport,Omidyeh,Iran,0,0,0,1
+AEU,Abu Musa Island Airport,Abumusa I.,Iran,0,0,0,1
+KHK,Khark Island Airport,Khark Island,Iran,0,0,0,1
+LVP,Lavan Island Airport,Lavan Island,Iran,0,0,0,1
+IFH,Hesa Airport,Daran,Iran,0,0,0,1
+KKS,Kashan Airport,Kashan,Iran,0,0,0,1
+AJK,Arak Airport,Arak,Iran,0,0,0,1
+GZW,Qazvin Airport,Ghazvin,Iran,0,0,0,1
+JYR,Jiroft Airport,Jiroft,Iran,0,0,0,1
+HDR,Havadarya Airport,Bandar Abbas,Iran,0,0,0,1
+SYJ,Sirjan Airport,Sirjan,Iran,0,0,0,1
+CKT,Sarakhs Airport,Sarakhs,Iran,0,0,0,1
+RUD,Shahroud Airport,Emam Shahr,Iran,0,0,0,1
+TCX,Tabas Airport,Tabas,Iran,0,0,0,1
+KLM,Kalaleh Airport,Kalaleh,Iran,0,0,0,1
+FAZ,Fasa Airport,Fasa,Iran,0,0,0,1
+JAR,Jahrom Airport,Jahrom,Iran,0,0,0,1
+JWN,Zanjan Airport,Zanjan,Iran,0,0,0,1
+IHR,Iran Shahr Airport,Iran Shahr,Iran,0,0,0,1
+ADJ,Amman-Marka International Airport,Amman,Jordan,0,0,0,1
+OMF,King Hussein Air College,Mafraq,Jordan,0,0,0,1
+KYE,Rene Mouawad Air Base,Kleiat,Lebanon,0,0,0,1
+DHF,Al Dhafra Air Base,Abu Dhabi,United Arab Emirates,0,0,0,1
+RKT,Ras Al Khaimah International Airport,Ras Al Khaimah,United Arab Emirates,0,0,0,1
+MSH,Masirah Air Base,Masirah,Oman,0,0,0,1
+TTH,Thumrait Air Base,Thumrait,Oman,0,0,0,1
+BHW,Bhagatanwala Airport,Bhagtanwala,Pakistan,0,0,0,1
+JAG,Shahbaz Air Base,Jacobsbad,Pakistan,0,0,0,1
+XJM,Mangla Airport,Mangla,Pakistan,0,0,0,1
+MFG,Muzaffarabad Airport,Muzaffarabad,Pakistan,0,0,0,1
+MWD,Mianwali Air Base,Mianwali,Pakistan,0,0,0,1
+WNS,Shaheed Benazirabad Airport,Nawabshah,Pakistan,0,0,0,1
+PSI,Pasni Airport,Pasni,Pakistan,0,0,0,1
+RAZ,Rawalakot Airport,Rawala Kot,Pakistan,0,0,0,1
+SDT,Saidu Sharif Airport,Saidu Sharif,Pakistan,0,0,0,1
+SUL,Sui Airport,Sui,Pakistan,0,0,0,1
+BDN,Talhar Airport,Talhar,Pakistan,0,0,0,1
+WAF,Wana Airport,Wana,Pakistan,0,0,0,1
+ALP,Aleppo International Airport,Aleppo,Syria,0,0,0,1
+DAM,Damascus International Airport,Damascus,Syria,0,0,0,1
+DEZ,Deir ez-Zor Air Base,Deire Zor,Syria,0,0,0,1
+LTK,Bassel Al-Assad International Airport,Latakia,Syria,0,0,0,1
+PMS,Palmyra Airport,Palmyra,Syria,0,0,0,1
+DIA,Doha International Airport,Doha,Qatar,0,0,0,1
+CIS,Canton Island Airport,Canton Island,Kiribati,0,0,0,1
+UAM,Andersen Air Force Base,Andersen,Guam,0,0,0,1
+TIQ,Tinian International Airport,West Tinian,Northern Mariana Islands,0,0,0,1
+MDY,Henderson Field,Midway,Midway Islands,0,0,0,1
+GNI,Lyudao Airport,Green Island,Taiwan,0,0,0,1
+CYI,Chiayi Airport,Chiayi,Taiwan,0,0,0,1
+KYD,Lanyu Airport,Lanyu,Taiwan,0,0,0,1
+HSZ,Hsinchu Air Base,Hsinchu,Taiwan,0,0,0,1
+PIF,Pingtung North Airport,Pingtung,Taiwan,0,0,0,1
+WOT,Wang-an Airport,Wang An,Taiwan,0,0,0,1
+MUS,Minami Torishima Airport,Minami Tori Shima,Japan,0,0,0,1
+IWO,Iwo Jima Airport,Iwojima,Japan,0,0,0,1
+OIR,Okushiri Airport,Okushiri,Japan,0,0,0,1
+RIS,Rishiri Airport,Rishiri Island,Japan,0,0,0,1
+KUM,Yakushima Airport,Yakushima,Japan,0,0,0,1
+TNE,New Tanegashima Airport,Tanegashima,Japan,0,0,0,1
+OKE,Okierabu Airport,Okierabu,Japan,0,0,0,1
+TKN,Tokunoshima Airport,Tokunoshima,Japan,0,0,0,1
+FKJ,Fukui Airport,Fukui,Japan,0,0,0,1
+QGU,Gifu Airport,Gifu,Japan,0,0,0,1
+OKI,Oki Airport,Oki Island,Japan,0,0,0,1
+SDS,Sado Airport,Sado,Japan,0,0,0,1
+HHE,Hachinohe Airport,Hachinoe,Japan,0,0,0,1
+NJA,Atsugi Naval Air Facility,Atsugi,Japan,0,0,0,1
+OKO,Yokota Air Base,Yokota,Japan,0,0,0,1
+CHN,Jeon Ju Airport (G-703),Jhunju,South Korea,0,0,0,1
+KAG,Gangneung Airport (K-18),Kangnung,South Korea,0,0,0,1
+CHF,Jinhae Airbase/Airport (G-813/K-10),Chinhae,South Korea,0,0,0,1
+SSN,Seoul Air Base (K-16),Seoul East,South Korea,0,0,0,1
+OSN,Osan Air Base,Osan,South Korea,0,0,0,1
+SWU,Suwon Airport,Suwon,South Korea,0,0,0,1
+YEC,Yecheon Airbase,Yechon,South Korea,0,0,0,1
+DNA,Kadena Air Base,Kadena,Japan,0,0,0,1
+MMD,Minami-Daito Airport,Minami Daito,Japan,0,0,0,1
+KTD,Kitadaito Airport,Kitadaito,Japan,0,0,0,1
+SHI,Shimojishima Airport,Shimojishima,Japan,0,0,0,1
+TRA,Tarama Airport,Tarama,Japan,0,0,0,1
+RNJ,Yoron Airport,Yoron,Japan,0,0,0,1
+OGN,Yonaguni Airport,Yonaguni Jima,Japan,0,0,0,1
+BAG,Loakan Airport,Baguio,Philippines,0,0,0,1
+DTE,Daet Airport,Daet,Philippines,0,0,0,1
+MBO,Mamburao Airport,Mamburao,Philippines,0,0,0,1
+BQA,Dr.Juan C. Angara Airport,Baler,Philippines,0,0,0,1
+EUQ,Evelio Javier Airport,San Jose,Philippines,0,0,0,1
+COC,Comodoro Pierrestegui Airport,Concordia,Argentina,0,0,0,1
+GHU,Gualeguaychu Airport,Gualeguaychu,Argentina,0,0,0,1
+JNI,Junin Airport,Junin,Argentina,0,0,0,1
+FDO,San Fernando Airport,San Fernando,Argentina,0,0,0,1
+LPG,La Plata Airport,La Plata,Argentina,0,0,0,1
+EPA,El Palomar Airport,El Palomar,Argentina,0,0,0,1
+HOS,Chos Malal Airport,Chosmadal,Argentina,0,0,0,1
+GNR,Dr. Arturo H. Illia Airport,Fuerte Gral Roca,Argentina,0,0,0,1
+LGS,Comodoro D.R. Salomón Airport,Malargue,Argentina,0,0,0,1
+RCU,Area De Material Airport,Rio Cuarto,Argentina,0,0,0,1
+VDR,Villa Dolores Airport,Villa Dolores,Argentina,0,0,0,1
+VME,Villa Reynolds Airport,Villa Reynolds,Argentina,0,0,0,1
+CNQ,Corrientes Airport,Corrientes,Argentina,0,0,0,1
+AOL,Paso De Los Libres Airport,Paso De Los Libres,Argentina,0,0,0,1
+MCS,Monte Caseros Airport,Monte Caseros,Argentina,0,0,0,1
+PRQ,Termal Airport,Presidencia R.s.pena,Argentina,0,0,0,1
+ORA,Orán Airport,Oran,Argentina,0,0,0,1
+ELO,El Dorado Airport,El Dorado,Argentina,0,0,0,1
+OYA,Goya Airport,Goya,Argentina,0,0,0,1
+RCQ,Reconquista Airport,Reconquista,Argentina,0,0,0,1
+UZU,Curuzu Cuatia Airport,Curuzu Cuatia,Argentina,0,0,0,1
+EHL,El Bolson Airport,El Bolson,Argentina,0,0,0,1
+PUD,Puerto Deseado Airport,Puerto Deseado,Argentina,0,0,0,1
+ULA,Capitan D Daniel Vazquez Airport,San Julian,Argentina,0,0,0,1
+PMQ,Perito Moreno Airport,Perito Moreno,Argentina,0,0,0,1
+RZA,Santa Cruz Airport,Santa Cruz,Argentina,0,0,0,1
+CSZ,Brigadier D.H.E. Ruiz Airport,Colonel Suarez,Argentina,0,0,0,1
+OVR,Olavarria Airport,Olavarria,Argentina,0,0,0,1
+GPO,General Pico Airport,General Pico,Argentina,0,0,0,1
+OYO,Tres Arroyos Airport,Tres Arroyos,Argentina,0,0,0,1
+PEH,Comodoro Pedro Zanni Airport,Pehuajo,Argentina,0,0,0,1
+TDL,Héroes De Malvinas Airport,Tandil,Argentina,0,0,0,1
+VLG,Villa Gesell Airport,Villa Gesell,Argentina,0,0,0,1
+CUT,Cutral-Co Airport,Cutralco,Argentina,0,0,0,1
+BGX,Comandante Gustavo Kraemer Airport,Bage,Brazil,0,0,0,1
+BFH,Bacacheri Airport,Curitiba,Brazil,0,0,0,1
+BAU,Bauru Airport,Bauru,Brazil,0,0,0,1
+BPG,Barra do Garças Airport,Barra Do Garcas,Brazil,0,0,0,1
+CLN,Brig. Lysias Augusto Rodrigues Airport,Carolina,Brazil,0,0,0,1
+CRQ,Caravelas Airport,Caravelas,Brazil,0,0,0,1
+JCR,Jacareacanga Airport,Jacare-acanga,Brazil,0,0,0,1
+GJM,Guajará-Mirim Airport,Guajara-mirim,Brazil,0,0,0,1
+GUJ,Guaratinguetá Airport,Guaratingueta,Brazil,0,0,0,1
+ITA,Itacoatiara Airport,Itaituba,Brazil,0,0,0,1
+ITR,Francisco Vilela do Amaral Airport,Itumbiara,Brazil,0,0,0,1
+JDF,Francisco de Assis Airport,Juiz De Fora,Brazil,0,0,0,1
+LAJ,Lages Airport,Lajes,Brazil,0,0,0,1
+LIP,Lins Airport,Lins,Brazil,0,0,0,1
+PLL,Ponta Pelada Airport,Manaus,Brazil,0,0,0,1
+MVF,Dix-Sept Rosado Airport,Mocord,Brazil,0,0,0,1
+MNX,Manicoré Airport,Manicore,Brazil,0,0,0,1
+OYK,Oiapoque Airport,Oioiapoque,Brazil,0,0,0,1
+POO,Poços de Caldas - Embaixador Walther Moreira Salles Airport,Pocos De Caldas,Brazil,0,0,0,1
+PNB,Porto Nacional Airport,Porto Nacional,Brazil,0,0,0,1
+PMG,Ponta Porã Airport,Ponta Pora,Brazil,0,0,0,1
+SNZ,Santa Cruz Air Force Base,Rio De Janeiro,Brazil,0,0,0,1
+SSZ,Base Aérea de Santos Airport,Santos,Brazil,0,0,0,1
+TRQ,Tarauacá Airport,Tarauaca,Brazil,0,0,0,1
+TEC,Telêmaco Borba Airport,Telemaco Borba,Brazil,0,0,0,1
+VAG,Major Brigadeiro Trompowsky Airport,Varginha,Brazil,0,0,0,1
+QPS,Campo Fontenelle Airport,Piracununga,Brazil,0,0,0,1
+CCH,Chile Chico Airport,Chile Chico,Chile,0,0,0,1
+YAI,Gral. Bernardo O´Higgins Airport,Chillan,Chile,0,0,0,1
+GXQ,Teniente Vidal Airport,Coyhaique,Chile,0,0,0,1
+WPR,Capitan Fuentes Martinez Airport Airport,Porvenir,Chile,0,0,0,1
+FFU,Futaleufú Airport,Futaleufu,Chile,0,0,0,1
+LSQ,María Dolores Airport,Los Angeles,Chile,0,0,0,1
+WPU,Guardiamarina Zañartu Airport,Puerto Williams,Chile,0,0,0,1
+VLR,Vallenar Airport,Vallenar,Chile,0,0,0,1
+QRC,De La Independencia Airport,Rancagua,Chile,0,0,0,1
+TNM,Teniente Rodolfo Marsh Martin Base,Isla Rey Jorge,Antarctica,0,0,0,1
+PZS,Maquehue Airport,Temuco,Chile,0,0,0,1
+WCH,Chaitén Airport,Chaiten,Chile,0,0,0,1
+ATF,Chachoán Airport,Ambato,Ecuador,0,0,0,1
+MRR,Jose Maria Velasco Ibarra Airport,Macara,Ecuador,0,0,0,1
+MCH,General Manuel Serrano Airport,Machala,Ecuador,0,0,0,1
+PVO,Reales Tamarindos Airport,Portoviejo,Ecuador,0,0,0,1
+SNC,General Ulpiano Paez Airport,Salinas,Ecuador,0,0,0,1
+TPC,Tarapoa Airport,Tarapoa,Ecuador,0,0,0,1
+AYO,Juan De Ayolas Airport,Ayolas,Paraguay,0,0,0,1
+CIO,Teniente Col Carmelo Peralta Airport,Conception,Paraguay,0,0,0,1
+ESG,Dr. Luis Maria Argaña International Airport,Mariscal Estigarribia,Paraguay,0,0,0,1
+PIL,Carlos Miguel Gimenez Airport,Pilar,Paraguay,0,0,0,1
+ELB,Las Flores Airport,El Banco,Colombia,0,0,0,1
+GIR,Santiago Vila Airport,Girardot,Colombia,0,0,0,1
+MCJ,Jorge Isaac Airport,La Mina,Colombia,0,0,0,1
+MGN,Baracoa Airport,Magangue,Colombia,0,0,0,1
+OCV,Aguas Claras Airport,Ocana,Colombia,0,0,0,1
+OTU,Otu Airport,Otu,Colombia,0,0,0,1
+PTX,Pitalito Airport,Pitalito,Colombia,0,0,0,1
+MQU,Mariquita Airport,Mariquita,Colombia,0,0,0,1
+ULQ,Heriberto Gíl Martínez Airport,Tulua,Colombia,0,0,0,1
+BJO,Bermejo Airport,Bermejo,Bolivia,0,0,0,1
+CCA,Chimore Airport,Chapacura,Bolivia,0,0,0,1
+PSZ,Capitán Av. Salvador Ogaya G. airport,Puerto Suarez,Bolivia,0,0,0,1
+SBL,Santa Ana Del Yacuma Airport,Santa Ana,Bolivia,0,0,0,1
+VLM,Teniente Coronel Rafael Pabón Airport,Villa Montes,Bolivia,0,0,0,1
+OYP,Saint-Georges-de-l'Oyapock Airport,St.-georges Oyapock,French Guiana,0,0,0,1
+AOP,Alferez FAP Alfredo Vladimir Sara Bauer Airport,Andoas,Peru,0,0,0,1
+IBP,Iberia Airport,Iberia,Peru,0,0,0,1
+CHM,Teniente FAP Jaime A De Montreuil Morales Airport,Chimbote,Peru,0,0,0,1
+JJI,Juanjui Airport,Juanjui,Peru,0,0,0,1
+ILQ,Ilo Airport,Ilo,Peru,0,0,0,1
+YMS,Moises Benzaquen Rengifo Airport,Yurimaguas,Peru,0,0,0,1
+CHH,Chachapoyas Airport,Chachapoyas,Peru,0,0,0,1
+PIO,Capitán FAP Renán Elías Olivera International Airport,Pisco,Peru,0,0,0,1
+TYL,Capitan Montes Airport,Talara,Peru,0,0,0,1
+DZO,Santa Bernardina International Airport,Durazno,Uruguay,0,0,0,1
+STY,Nueva Hesperides International Airport,Salto,Uruguay,0,0,0,1
+AGV,Oswaldo Guevara Mujica Airport,Acarigua,Venezuela,0,0,0,1
+AAO,Anaco Airport,Anaco,Venezuela,0,0,0,1
+CBL,"Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar",Ciudad Bolivar,Venezuela,0,0,0,1
+CXA,Caicara del Orinoco Airport,Caicara De Orinoco,Venezuela,0,0,0,1
+CLZ,Calabozo Airport,Calabozo,Venezuela,0,0,0,1
+VCR,Carora Airport,Carora,Venezuela,0,0,0,1
+CUP,General Francisco Bermúdez Airport,Carupano,Venezuela,0,0,0,1
+EOR,El Dorado Airport,El Dorado,Venezuela,0,0,0,1
+EOZ,Elorza Airport,Elorza,Venezuela,0,0,0,1
+GDO,Guasdalito Airport,Guasdualito,Venezuela,0,0,0,1
+GUI,Guiria Airport,Guiria,Venezuela,0,0,0,1
+GUQ,Guanare Airport,Guanare,Venezuela,0,0,0,1
+HGE,Higuerote Airport,Higuerote,Venezuela,0,0,0,1
+ICC,Andrés Miguel Salazar Marcano Airport,Isla De Coche,Venezuela,0,0,0,1
+SCI,Paramillo Airport,San Cristobal,Venezuela,0,0,0,1
+PTM,Palmarito Airport,Palmarito,Venezuela,0,0,0,1
+SBB,Santa Bárbara de Barinas Airport,Santa Barbara,Venezuela,0,0,0,1
+SNF,Sub Teniente Nestor Arias Airport,San Felipe,Venezuela,0,0,0,1
+SFD,San Fernando De Apure Airport,San Fernando De Apure,Venezuela,0,0,0,1
+STB,Santa Bárbara del Zulia Airport,Santa Barbara,Venezuela,0,0,0,1
+TUV,Tucupita Airport,Tucupita,Venezuela,0,0,0,1
+TMO,Tumeremo Airport,Tumeremo,Venezuela,0,0,0,1
+VDP,Valle de La Pascua Airport,Valle De La Pascua,Venezuela,0,0,0,1
+LTM,Lethem Airport,Lethem,Guyana,0,0,0,1
+DCF,Canefield Airport,Canefield,Dominica,0,0,0,1
+FAJ,Diego Jimenez Torres Airport,Fajardo,Puerto Rico,0,0,0,1
+SIG,Fernando Luis Ribas Dominicci Airport,San Juan,Puerto Rico,0,0,0,1
+CIW,Canouan Airport,Canouan Island,Saint Vincent and the Grenadines,0,0,0,1
+MQS,Mustique Airport,Mustique,Saint Vincent and the Grenadines,0,0,0,1
+BXH,Balkhash Airport,Balkhash,Kazakhstan,0,0,0,1
+PVS,Provideniya Bay Airport,Provideniya Bay,Russia,0,0,0,1
+GME,Gomel Airport,Gomel,Belarus,0,0,0,1
+VTB,Vitebsk Vostochny Airport,Vitebsk,Belarus,0,0,0,1
+MHP,Minsk 1 Airport,Minsk,Belarus,0,0,0,1
+KRW,Turkmenbashi Airport,Krasnovodsk,Turkmenistan,0,0,0,1
+CRZ,Turkmenabat Airport,Chardzhou,Turkmenistan,0,0,0,1
+BZK,Bryansk Airport,Bryansk,Russia,0,0,0,1
+KLD,Migalovo Air Base,Tver,Russia,0,0,0,1
+AKD,Akola Airport,Akola,India,0,0,0,1
+PAB,Bilaspur Airport,Bilaspur,India,0,0,0,1
+NMB,Daman Airport,Daman,India,0,0,0,1
+GUX,Guna Airport,Guna,India,0,0,0,1
+IXY,Kandla Airport,Kandla,India,0,0,0,1
+KLH,Kolhapur Airport,Kolhapur,India,0,0,0,1
+IXK,Keshod Airport,Keshod,India,0,0,0,1
+ISK,Nashik Airport,Nasik Road,India,0,0,0,1
+SSE,Solapur Airport,Sholapur,India,0,0,0,1
+ACJ,Anuradhapura Air Force Base,Anuradhapura,Sri Lanka,0,0,0,1
+RML,Colombo Ratmalana Airport,Colombo,Sri Lanka,0,0,0,1
+ADP,Ampara Airport,Galoya,Sri Lanka,0,0,0,1
+JAF,Kankesanturai Airport,Jaffna,Sri Lanka,0,0,0,1
+KZC,Kampong Chhnang Airport,Kompong Chnang,Cambodia,0,0,0,1
+TNX,Stung Treng Airport,Stung Treng,Cambodia,0,0,0,1
+IXV,Along Airport,Along,India,0,0,0,1
+COH,Cooch Behar Airport,Cooch-behar,India,0,0,0,1
+DBD,Dhanbad Airport,Dhanbad,India,0,0,0,1
+GAY,Gaya Airport,Gaya,India,0,0,0,1
+IXW,Sonari Airport,Jamshedpur,India,0,0,0,1
+JRH,Jorhat Airport,Jorhat,India,0,0,0,1
+IXH,Kailashahar Airport,Kailashahar,India,0,0,0,1
+IXI,North Lakhimpur Airport,Lilabari,India,0,0,0,1
+MZU,Muzaffarpur Airport,Mazuffarpur,India,0,0,0,1
+RRK,Rourkela Airport,Rourkela,India,0,0,0,1
+ZER,Ziro Airport,Zero,India,0,0,0,1
+IRD,Ishurdi Airport,Ishurdi,Bangladesh,0,0,0,1
+BKB,Nal Airport,Bikaner,India,0,0,0,1
+BUP,Bhatinda Air Force Station,Bhatinda,India,0,0,0,1
+BEK,Bareilly Air Force Station,Bareilly,India,0,0,0,1
+HSS,Hissar Airport,Hissar,India,0,0,0,1
+JSA,Jaisalmer Airport,Jaisalmer,India,0,0,0,1
+KTU,Kota Airport,Kota,India,0,0,0,1
+IXP,Pathankot Airport,Pathankot,India,0,0,0,1
+PGH,Pantnagar Airport,Nainital,India,0,0,0,1
+TNI,Satna Airport,Satna,India,0,0,0,1
+NEU,Sam Neua Airport,Sam Neua,Laos,0,0,0,1
+SIF,Simara Airport,Simara,Nepal,0,0,0,1
+BEP,Bellary Airport,Bellary,India,0,0,0,1
+CDP,Kadapa Airport,Cuddapah,India,0,0,0,1
+CBD,Car Nicobar Air Force Station,Carnicobar,India,0,0,0,1
+BPM,Begumpet Airport,Hyderabad,India,0,0,0,1
+PNY,Pondicherry Airport,Pendicherry,India,0,0,0,1
+SXV,Salem Airport,Salem,India,0,0,0,1
+TJV,Tanjore Air Force Base,Tanjore,India,0,0,0,1
+KDT,Kamphaeng Saen Airport,Nakhon Pathom,Thailand,0,0,0,1
+HHQ,Hua Hin Airport,Prachuap Khiri Khan,Thailand,0,0,0,1
+TKH,Takhli Airport,Nakhon Sawan,Thailand,0,0,0,1
+SGZ,Songkhla Airport,Songkhla,Thailand,0,0,0,1
+PAN,Pattani Airport,Pattani,Thailand,0,0,0,1
+PXR,Surin Airport,Surin,Thailand,0,0,0,1
+NHA,Nha Trang Air Base,Nhatrang,Vietnam,0,0,0,1
+VBA,Ann Airport,Ann,Burma,0,0,0,1
+HOX,Hommalinn Airport,Hommalin,Burma,0,0,0,1
+LSH,Lashio Airport,Lashio,Burma,0,0,0,1
+MOE,Momeik Airport,Momeik,Burma,0,0,0,1
+MOG,Mong Hsat Airport,Mong Hsat,Burma,0,0,0,1
+NMS,Namsang Airport,Namsang,Burma,0,0,0,1
+PAA,Hpa-N Airport,Hpa-an,Burma,0,0,0,1
+PRU,Pyay Airport,Pyay,Burma,0,0,0,1
+OTI,Pitu Airport,Morotai Island,Indonesia,0,0,0,1
+DUM,Pinang Kampai Airport,Dumai,Indonesia,0,0,0,1
+GNS,Binaka Airport,Gunung Sitoli,Indonesia,0,0,0,1
+AEG,Aek Godang Airport,Padang Sidempuan,Indonesia,0,0,0,1
+MES,Soewondo Air Force Base,Medan,Indonesia,0,0,0,1
+FLZ,Dr Ferdinand Lumban Tobing Airport,Sibolga,Indonesia,0,0,0,1
+NPO,Nanga Pinoh Airport,Nangapinoh,Indonesia,0,0,0,1
+RGT,Japura Airport,Rengat,Indonesia,0,0,0,1
+LSX,Lhok Sukon Airport,Lhok Sukon,Indonesia,0,0,0,1
+BWH,Butterworth Airport,Butterworth,Malaysia,0,0,0,1
+MKZ,Malacca Airport,Malacca,Malaysia,0,0,0,1
+UAI,Suai Airport,Suai,East Timor,0,0,0,1
+BCH,Cakung Airport,Baucau,East Timor,0,0,0,1
+QPG,Paya Lebar Air Base,Paya Lebar,Singapore,0,0,0,1
+TGA,Tengah Air Base,Tengah,Singapore,0,0,0,1
+XSP,Seletar Airport,Singapore,Singapore,0,0,0,1
+ACF,Brisbane Archerfield Airport,Brisbane,Australia,0,0,0,1
+MBW,Melbourne Moorabbin Airport,Melbourne,Australia,0,0,0,1
+JAD,Perth Jandakot Airport,Perth,Australia,0,0,0,1
+UMR,Woomera Airfield,Woomera,Australia,0,0,0,1
+BWU,Sydney Bankstown Airport,Sydney,Australia,0,0,0,1
+CDU,Camden Airport,Camden,Australia,0,0,0,1
+XRH,RAAF Base Richmond,Richmond,Australia,0,0,0,1
+TOD,Pulau Tioman Airport,Tioman,Malaysia,0,0,0,1
+ORL,Orlando Executive Airport,Orlando,United States,0,0,0,1
+UTO,Indian Mountain LRRS Airport,Indian Mountains,United States,0,0,0,1
+SVW,Sparrevohn LRRS Airport,Sparrevohn,United States,0,0,0,1
+FRN,Bryant Army Heliport,Fort Richardson,United States,0,0,0,1
+CZF,Cape Romanzof LRRS Airport,Cape Romanzof,United States,0,0,0,1
+BED,Laurence G Hanscom Field,Bedford,United States,0,0,0,1
+EHM,Cape Newenham LRRS Airport,Cape Newenham,United States,0,0,0,1
+BMX,Big Mountain Airport,Big Mountain,United States,0,0,0,1
+OSC,Oscoda Wurtsmith Airport,Oscoda,United States,0,0,0,1
+OAR,Marina Municipal Airport,Fort Ord,United States,0,0,0,1
+MHR,Sacramento Mather Airport,Sacramento,United States,0,0,0,1
+BYS,Bicycle Lake Army Air Field,Fort Irwin,United States,0,0,0,1
+MRI,Merrill Field,Anchorage,United States,0,0,0,1
+GNT,Grants-Milan Municipal Airport,Grants,United States,0,0,0,1
+PNC,Ponca City Regional Airport,Ponca City,United States,0,0,0,1
+SVN,Hunter Army Air Field,Hunter Aaf,United States,0,0,0,1
+PBF,"Pine Bluff Regional Airport, Grider Field",Pine Bluff,United States,0,0,0,1
+NSE,Whiting Field Naval Air Station - North,Milton,United States,0,0,0,1
+SUU,Travis Air Force Base,Fairfield,United States,0,0,0,1
+RME,Griffiss International Airport,Rome,United States,0,0,0,1
+ENV,Wendover Airport,Wendover,United States,0,0,0,1
+BFM,Mobile Downtown Airport,Mobile,United States,0,0,0,1
+FXE,Fort Lauderdale Executive Airport,Fort Lauderdale,United States,0,0,0,1
+AND,Anderson Regional Airport,Andersen,United States,0,0,0,1
+HWO,North Perry Airport,Hollywood,United States,0,0,0,1
+CTB,Cut Bank International Airport,Cutbank,United States,0,0,0,1
+ARA,Acadiana Regional Airport,Louisiana,United States,0,0,0,1
+DUG,Bisbee Douglas International Airport,Douglas,United States,0,0,0,1
+BIG,Allen Army Airfield,Delta Junction,United States,0,0,0,1
+CNW,TSTC Waco Airport,Waco,United States,0,0,0,1
+ANN,Annette Island Airport,Annette Island,United States,0,0,0,1
+CAR,Caribou Municipal Airport,Caribou,United States,0,0,0,1
+LRF,Little Rock Air Force Base,Jacksonville,United States,0,0,0,1
+HUA,Redstone Army Air Field,Redstone,United States,0,0,0,1
+POB,Pope Field,Fort Bragg,United States,0,0,0,1
+DHT,Dalhart Municipal Airport,Dalhart,United States,0,0,0,1
+DLF,DLF Airport,Del Rio,United States,0,0,0,1
+ANB,Anniston Regional Airport,Anniston,United States,0,0,0,1
+DOV,Dover Air Force Base,Dover,United States,0,0,0,1
+FME,Tipton Airport,Fort Meade,United States,0,0,0,1
+INS,Creech Air Force Base,Indian Springs,United States,0,0,0,1
+HHI,Wheeler Army Airfield,Wahiawa,United States,0,0,0,1
+MXF,Maxwell Air Force Base,Montgomery,United States,0,0,0,1
+FCS,Butts AAF (Fort Carson) Air Field,Fort Carson,United States,0,0,0,1
+NKX,Miramar Marine Corps Air Station - Mitscher Field,Miramar,United States,0,0,0,1
+LUF,Luke Air Force Base,Phoenix,United States,0,0,0,1
+HHR,Jack Northrop Field Hawthorne Municipal Airport,Hawthorne,United States,0,0,0,1
+HUL,Houlton International Airport,Houlton,United States,0,0,0,1
+END,Vance Air Force Base,Enid,United States,0,0,0,1
+NTD,Point Mugu Naval Air Station (Naval Base Ventura Co),Point Mugu,United States,0,0,0,1
+EDW,Edwards Air Force Base,Edwards Afb,United States,0,0,0,1
+NLC,Lemoore Naval Air Station (Reeves Field) Airport,Lemoore,United States,0,0,0,1
+FAF,Felker Army Air Field,Fort Eustis,United States,0,0,0,1
+HOP,Campbell AAF (Fort Campbell) Air Field,Hopkinsville,United States,0,0,0,1
+NHK,Patuxent River Naval Air Station (Trapnell Field),Patuxent River,United States,0,0,0,1
+PSX,Palacios Municipal Airport,Palacios,United States,0,0,0,1
+BYH,Arkansas International Airport,Blytheville,United States,0,0,0,1
+TIK,Tinker Air Force Base,Oklahoma City,United States,0,0,0,1
+ECG,Elizabeth City Regional Airport & Coast Guard Air Station,Elizabeth City,United States,0,0,0,1
+GRF,Gray Army Air Field,Fort Lewis,United States,0,0,0,1
+UPP,Upolu Airport,Opolu,United States,0,0,0,1
+CDS,Childress Municipal Airport,Childress,United States,0,0,0,1
+BIX,Keesler Air Force Base,Biloxi,United States,0,0,0,1
+LSF,Lawson Army Air Field (Fort Benning),Fort Benning,United States,0,0,0,1
+NQI,Kingsville Naval Air Station,Kingsville,United States,0,0,0,1
+FRI,Marshall Army Air Field,Fort Riley,United States,0,0,0,1
+HKY,Hickory Regional Airport,Hickory,United States,0,0,0,1
+SPG,Albert Whitted Airport,St. Petersburg,United States,0,0,0,1
+FMY,Page Field,Fort Myers,United States,0,0,0,1
+ADW,Joint Base Andrews,Camp Springs,United States,0,0,0,1
+INT,Smith Reynolds Airport,Winston-salem,United States,0,0,0,1
+VCV,Southern California Logistics Airport,Victorville,United States,0,0,0,1
+CEW,Bob Sikes Airport,Crestview,United States,0,0,0,1
+PHN,St Clair County International Airport,Port Huron,United States,0,0,0,1
+DMA,Davis Monthan Air Force Base,Tucson,United States,0,0,0,1
+NPA,Pensacola Naval Air Station/Forrest Sherman Field,Pensacola,United States,0,0,0,1
+RDR,Grand Forks Air Force Base,Red River,United States,0,0,0,1
+BFK,Buckley Air Force Base,Buckley,United States,0,0,0,1
+ORT,Northway Airport,Northway,United States,0,0,0,1
+PAQ,"Warren ""Bud"" Woods Palmer Municipal Airport",Palmer,United States,0,0,0,1
+EFD,Ellington Airport,Houston,United States,0,0,0,1
+NUW,Whidbey Island Naval Air Station (Ault Field),Whidbey Island,United States,0,0,0,1
+ALI,Alice International Airport,Alice,United States,0,0,0,1
+VAD,Moody Air Force Base,Valdosta,United States,0,0,0,1
+BDR,Igor I Sikorsky Memorial Airport,Stratford,United States,0,0,0,1
+GLS,Scholes International At Galveston Airport,Galveston,United States,0,0,0,1
+HDH,Dillingham Airfield,Dillingham,United States,0,0,0,1
+SZL,Whiteman Air Force Base,Knobnoster,United States,0,0,0,1
+AKC,Akron Fulton International Airport,Akron,United States,0,0,0,1
+GWO,Greenwood–Leflore Airport,Greenwood,United States,0,0,0,1
+FOK,Francis S Gabreski Airport,West Hampton Beach,United States,0,0,0,1
+XSD,Tonopah Test Range Airport,Tonopah,United States,0,0,0,1
+LNA,Palm Beach County Park Airport,West Palm Beach,United States,0,0,0,1
+NZY,North Island Naval Air Station-Halsey Field,San Diego,United States,0,0,0,1
+BIF,Biggs Army Air Field (Fort Bliss),El Paso,United States,0,0,0,1
+LOU,Bowman Field,Louisville,United States,0,0,0,1
+FHU,Sierra Vista Municipal Libby Army Air Field,Fort Huachuca,United States,0,0,0,1
+HUF,"Terre Haute Regional Airport, Hulman Field",Terre Haute,United States,0,0,0,1
+MWH,Grant County International Airport,Grant County Airport,United States,0,0,0,1
+MPV,Edward F Knapp State Airport,Montpelier,United States,0,0,0,1
+HIF,Hill Air Force Base,Ogden,United States,0,0,0,1
+MNM,Menominee Regional Airport,Macon,United States,0,0,0,1
+CXO,Conroe-North Houston Regional Airport,Conroe,United States,0,0,0,1
+COF,Patrick Air Force Base,Coco Beach,United States,0,0,0,1
+RCA,Ellsworth Air Force Base,Rapid City,United States,0,0,0,1
+MLC,Mc Alester Regional Airport,Mcalester,United States,0,0,0,1
+CFD,Coulter Field,Bryan,United States,0,0,0,1
+LIY,Wright AAF (Fort Stewart)/Midcoast Regional Airport,Wright,United States,0,0,0,1
+ESF,Esler Regional Airport,Alexandria,United States,0,0,0,1
+LTS,Altus Air Force Base,Altus,United States,0,0,0,1
+MIB,Minot Air Force Base,Minot,United States,0,0,0,1
+BAB,Beale Air Force Base,Marysville,United States,0,0,0,1
+IKK,Greater Kankakee Airport,Kankakee,United States,0,0,0,1
+GSB,Seymour Johnson Air Force Base,Goldsboro,United States,0,0,0,1
+PMB,Pembina Municipal Airport,Pembina,United States,0,0,0,1
+POE,Polk Army Air Field,Fort Polk,United States,0,0,0,1
+EIL,Eielson Air Force Base,Fairbanks,United States,0,0,0,1
+LFK,Angelina County Airport,Lufkin,United States,0,0,0,1
+ADM,Ardmore Municipal Airport,Ardmore,United States,0,0,0,1
+WRI,Mc Guire Air Force Base,Wrightstown,United States,0,0,0,1
+BDE,Baudette International Airport,Baudette,United States,0,0,0,1
+SAC,Sacramento Executive Airport,Sacramento,United States,0,0,0,1
+MGE,Dobbins Air Reserve Base,Marietta,United States,0,0,0,1
+SKA,Fairchild Air Force Base,Spokane,United States,0,0,0,1
+HTL,Roscommon County - Blodgett Memorial Airport,Houghton Lake,United States,0,0,0,1
+PAM,Tyndall Air Force Base,Panama City,United States,0,0,0,1
+TCM,McChord Air Force Base,Tacoma,United States,0,0,0,1
+HLR,Hood Army Air Field,Fort Hood,United States,0,0,0,1
+MIV,Millville Municipal Airport,Millville,United States,0,0,0,1
+MER,Castle Airport,Merced,United States,0,0,0,1
+MCC,Mc Clellan Airfield,Sacramento,United States,0,0,0,1
+INK,Winkler County Airport,Wink,United States,0,0,0,1
+VRB,Vero Beach Regional Airport,Vero Beach,United States,0,0,0,1
+EDF,Elmendorf Air Force Base,Anchorage,United States,0,0,0,1
+DYS,Dyess Air Force Base,Abilene,United States,0,0,0,1
+DPA,Dupage Airport,West Chicago,United States,0,0,0,1
+NIP,Jacksonville Naval Air Station (Towers Field),Jacksonville,United States,0,0,0,1
+FTK,Godman Army Air Field,Fort Knox,United States,0,0,0,1
+CXL,Calexico International Airport,Calexico,United States,0,0,0,1
+SFF,Felts Field,Spokane,United States,0,0,0,1
+TNT,Dade Collier Training and Transition Airport,Miami,United States,0,0,0,1
+FTW,Fort Worth Meacham International Airport,Fort Worth,United States,0,0,0,1
+FMH,Cape Cod Coast Guard Air Station,Falmouth,United States,0,0,0,1
+SKF,Lackland Air Force Base,San Antonio,United States,0,0,0,1
+SSC,Shaw Air Force Base,Sumter,United States,0,0,0,1
+GVT,Majors Airport,Greenvile,United States,0,0,0,1
+DET,Coleman A. Young Municipal Airport,Detroit,United States,0,0,0,1
+WWD,Cape May County Airport,Wildwood,United States,0,0,0,1
+NFL,Fallon Naval Air Station,Fallon,United States,0,0,0,1
+MTC,Selfridge Air National Guard Base Airport,Mount Clemens,United States,0,0,0,1
+NQX,Naval Air Station Key West/Boca Chica Field,Key West,United States,0,0,0,1
+PNE,Northeast Philadelphia Airport,Philadelphia,United States,0,0,0,1
+TCS,Truth Or Consequences Municipal Airport,Truth Or Consequences,United States,0,0,0,1
+PMD,Palmdale Regional/USAF Plant 42 Airport,Palmdale,United States,0,0,0,1
+RND,Randolph Air Force Base,San Antonio,United States,0,0,0,1
+NJK,El Centro NAF Airport (Vraciu Field),El Centro,United States,0,0,0,1
+FYV,Drake Field,Fayetteville,United States,0,0,0,1
+FSI,Henry Post Army Air Field (Fort Sill),Fort Sill,United States,0,0,0,1
+FFO,Wright-Patterson Air Force Base,Dayton,United States,0,0,0,1
+MWL,Mineral Wells Airport,Mineral Wells,United States,0,0,0,1
+IAB,Mc Connell Air Force Base,Wichita,United States,0,0,0,1
+NBG,New Orleans NAS JRB/Alvin Callender Field,New Orleans,United States,0,0,0,1
+BFT,Beaufort County Airport,Beaufort,United States,0,0,0,1
+APG,Phillips Army Air Field,Aberdeen,United States,0,0,0,1
+TCC,Tucumcari Municipal Airport,Tucumcari,United States,0,0,0,1
+NQA,Millington-Memphis Airport,Millington,United States,0,0,0,1
+EKN,Elkins-Randolph Co-Jennings Randolph Field,Elkins,United States,0,0,0,1
+HFD,Hartford Brainard Airport,Hartford,United States,0,0,0,1
+SFZ,North Central State Airport,Smithfield,United States,0,0,0,1
+NUQ,Moffett Federal Airfield,Mountain View,United States,0,0,0,1
+BKH,Barking Sands Airport,Barking Sands,United States,0,0,0,1
+DRI,Beauregard Regional Airport,Deridder,United States,0,0,0,1
+BSF,Bradshaw Army Airfield,Bradshaw Field,United States,0,0,0,1
+OLS,Nogales International Airport,Nogales,United States,0,0,0,1
+MCF,Mac Dill Air Force Base,Tampa,United States,0,0,0,1
+OPF,Opa-locka Executive Airport,Miami,United States,0,0,0,1
+DRT,Del Rio International Airport,Del Rio,United States,0,0,0,1
+MUI,Muir Army Air Field (Fort Indiantown Gap) Airport,Muir,United States,0,0,0,1
+HST,Homestead ARB Airport,Homestead,United States,0,0,0,1
+RAL,Riverside Municipal Airport,Riverside,United States,0,0,0,1
+FLV,Sherman Army Air Field,Fort Leavenworth,United States,0,0,0,1
+WAL,Wallops Flight Facility Airport,Wallops Island,United States,0,0,0,1
+HMN,Holloman Air Force Base,Alamogordo,United States,0,0,0,1
+NXX,Willow Grove Naval Air Station/Joint Reserve Base,Willow Grove,United States,0,0,0,1
+YIP,Willow Run Airport,Detroit,United States,0,0,0,1
+VBG,Vandenberg Air Force Base,Lompoc,United States,0,0,0,1
+NEL,Lakehurst Maxfield Field Airport,Lakehurst,United States,0,0,0,1
+SYA,Eareckson Air Station,Shemya,United States,0,0,0,1
+LSV,Nellis Air Force Base,Las Vegas,United States,0,0,0,1
+RIV,March ARB Airport,Riverside,United States,0,0,0,1
+UGN,Waukegan National Airport,Chicago,United States,0,0,0,1
+SKY,Griffing Sandusky Airport,Sandusky,United States,0,0,0,1
+PAE,Snohomish County (Paine Field) Airport,Everett,United States,0,0,0,1
+MUO,Mountain Home Air Force Base,Mountain Home,United States,0,0,0,1
+NGU,Norfolk Naval Station (Chambers Field),Norfolk,United States,0,0,0,1
+CEF,Westover ARB/Metropolitan Airport,Chicopee Falls,United States,0,0,0,1
+BCT,Boca Raton Airport,Boca Raton,United States,0,0,0,1
+CVS,Cannon Air Force Base,Clovis,United States,0,0,0,1
+NGF,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,Kaneohe Bay,United States,0,0,0,1
+OFF,Offutt Air Force Base,Omaha,United States,0,0,0,1
+GKN,Gulkana Airport,Gulkana,United States,0,0,0,1
+FOD,Fort Dodge Regional Airport,Fort Dodge,United States,0,0,0,1
+BAD,Barksdale Air Force Base,Shreveport,United States,0,0,0,1
+COT,Cotulla-La Salle County Airport,Cotulla,United States,0,0,0,1
+HBR,Hobart Regional Airport,Hobart,United States,0,0,0,1
+WSD,Condron Army Air Field,White Sands,United States,0,0,0,1
+LFI,Langley Air Force Base,Hampton,United States,0,0,0,1
+CBM,Columbus Air Force Base,Colombus,United States,0,0,0,1
+TMB,Kendall-Tamiami Executive Airport,Kendall-tamiami,United States,0,0,0,1
+NTU,Oceana Naval Air Station,Oceana,United States,0,0,0,1
+GUS,Grissom Air Reserve Base,Peru,United States,0,0,0,1
+SEM,Craig Field,Selma,United States,0,0,0,1
+FBK,Ladd AAF Airfield,Fort Wainwright,United States,0,0,0,1
+WRB,Robins Air Force Base,Macon,United States,0,0,0,1
+MXB,Andi Jemma Airport,Masamba,Indonesia,0,0,0,1
+SQR,Soroako Airport,Soroako,Indonesia,0,0,0,1
+TTR,Pongtiku Airport,Makale,Indonesia,0,0,0,1
+SBG,Maimun Saleh Airport,Sabang,Indonesia,0,0,0,1
+TSY,Cibeureum Airport,Tasikmalaya,Indonesia,0,0,0,1
+CBN,Penggung Airport,Cirebon,Indonesia,0,0,0,1
+CXP,Tunggul Wulung Airport,Cilacap,Indonesia,0,0,0,1
+PCB,Pondok Cabe Air Base,Jakarta,Indonesia,0,0,0,1
+SIQ,Dabo Airport,Singkep,Indonesia,0,0,0,1
+BTW,Batu Licin Airport,Batu Licin,Indonesia,0,0,0,1
+RTG,Frans Sales Lega Airport,Ruteng,Indonesia,0,0,0,1
+SRI,Temindung Airport,Samarinda,Indonesia,0,0,0,1
+TSX,Tanjung Santan Airport,Tanjung Santan,Indonesia,0,0,0,1
+AMI,Selaparang Airport,Mataram,Indonesia,0,0,0,1
+NAK,Nakhon Ratchasima Airport,Nakhon Ratchasima,Thailand,0,0,0,1
+LPX,Liepāja International Airport,Liepaja,Latvia,0,0,0,1
+SQQ,Šiauliai International Airport,Siauliai,Lithuania,0,0,0,1
+HLJ,Barysiai Airport,Barysiai,Lithuania,0,0,0,1
+PNV,Panevėžys Air Base,Panevezys,Lithuania,0,0,0,1
+ASA,Assab International Airport,Assab,Eritrea,0,0,0,1
+GZA,Yasser Arafat International Airport,Gaza,Palestine,0,0,0,1
+BHN,Beihan Airport,Beihan,Yemen,0,0,0,1
+HEW,Athen Helenikon Airport,Athens,Greece,0,0,0,1
+JRB,Downtown-Manhattan/Wall St Heliport,New York,United States,0,0,0,1
+JCH,Qasigiannguit Heliport,Qasigiannguit,Greenland,0,0,0,1
+TKA,Talkeetna Airport,Talkeetna,United States,0,0,0,1
+GZM,Xewkija Heliport,Gozo,Malta,0,0,0,1
+MFN,Milford Sound Airport,Milford Sound,New Zealand,0,0,0,1
+SEU,Seronera Airport,Seronera,Tanzania,0,0,0,1
+DWH,David Wayne Hooks Memorial Airport,Houston,United States,0,0,0,1
+VNY,Van Nuys Airport,Van Nuys,United States,0,0,0,1
+PFN,Panama City-Bay Co International Airport,Panama City,United States,0,0,0,1
+TEX,Telluride Regional Airport,Telluride,United States,0,0,0,1
+YOA,Ekati Airport,Ekati,Canada,0,0,0,1
+LEV,Levuka Airfield,Levuka,Fiji,0,0,0,1
+KBZ,Kaikoura Airport,Kaikoura,New Zealand,0,0,0,1
+PCN,Picton Aerodrome,Picton,New Zealand,0,0,0,1
+MFA,Mafia Island Airport,Mafia Island,Tanzania,0,0,0,1
+BLH,Blythe Airport,Blythe,United States,0,0,0,1
+IQA,Al Asad Air Base,Al Asad,Iraq,0,0,0,1
+TQD,Al Taqaddum Air Base,Al Taqaddum,Iraq,0,0,0,1
+XQC,Joint Base Balad,Al Bakr,Iraq,0,0,0,1
+MNI,John A. Osborne Airport,Geralds,Montserrat,0,0,0,1
+MWQ,Magway Airport,Magwe,Burma,0,0,0,1
+KHM,Kanti Airport,Khamti,Burma,0,0,0,1
+AAH,Aachen-Merzbrück Airport,Aachen,Germany,0,0,0,1
+LUA,Lukla Airport,Lukla,Nepal,0,0,0,1
+BHP,Bhojpur Airport,Bhojpur,Nepal,0,0,0,1
+LDN,Lamidanda Airport,Lamidanda,Nepal,0,0,0,1
+JMO,Jomsom Airport,Jomsom,Nepal,0,0,0,1
+NGX,Manang Airport,Manang,Nepal,0,0,0,1
+PPL,Phaplu Airport,Phaplu,Nepal,0,0,0,1
+RUM,Rumjatar Airport,Rumjatar,Nepal,0,0,0,1
+DNP,Tulsipur Airport,Dang,Nepal,0,0,0,1
+RUK,Rukum Chaurjahari Airport,Rukumkot,Nepal,0,0,0,1
+JUM,Jumla Airport,Jumla,Nepal,0,0,0,1
+TPJ,Taplejung Airport,Taplejung,Nepal,0,0,0,1
+SKH,Surkhet Airport,Surkhet,Nepal,0,0,0,1
+IMK,Simikot Airport,Simikot,Nepal,0,0,0,1
+DOP,Dolpa Airport,Dolpa,Nepal,0,0,0,1
+BJH,Bajhang Airport,Bajhang,Nepal,0,0,0,1
+NOD,Norden-Norddeich Airport,Norden,Germany,0,0,0,1
+JUI,Juist Airport,Juist,Germany,0,0,0,1
+QIG,Iguatu Airport,Iguatu,Brazil,0,0,0,1
+SGR,Sugar Land Regional Airport,Sugar Land,United States,0,0,0,1
+APA,Centennial Airport,Denver,United States,0,0,0,1
+CVN,Clovis Municipal Airport,Clovis,United States,0,0,0,1
+FST,Fort Stockton Pecos County Airport,Fort Stockton,United States,0,0,0,1
+LVS,Las Vegas Municipal Airport,Las Vegas,United States,0,0,0,1
+IWS,West Houston Airport,Houston,United States,0,0,0,1
+LRU,Las Cruces International Airport,Las Cruces,United States,0,0,0,1
+BKD,Stephens County Airport,Breckenridge,United States,0,0,0,1
+TPL,Draughon Miller Central Texas Regional Airport,Temple,United States,0,0,0,1
+OZA,Ozona Municipal Airport,Ozona,United States,0,0,0,1
+LAK,Aklavik/Freddie Carmichael Airport,Aklavik,Canada,0,0,0,1
+CGF,Cuyahoga County Airport,Richmond Heights,United States,0,0,0,1
+MFD,Mansfield Lahm Regional Airport,Mansfield,United States,0,0,0,1
+FNL,Northern Colorado Regional Airport,Fort Collins,United States,0,0,0,1
+TVL,Lake Tahoe Airport,South Lake Tahoe,United States,0,0,0,1
+CON,Concord Municipal Airport,Concord NH,United States,0,0,0,1
+GON,Groton New London Airport,Groton CT,United States,0,0,0,1
+BPE,Qinhuangdao Beidaihe Airport,Bagan,Burma,0,0,0,1
+HQM,Bowerman Airport,Hoquiam,United States,0,0,0,1
+SDX,Sedona Airport,Sedona,United States,0,0,0,1
+THG,Thangool Airport,Biloela,Australia,0,0,0,1
+FGI,Fagali'i Airport,Apia,Samoa,0,0,0,1
+MKC,Charles B. Wheeler Downtown Airport,Kansas City,United States,0,0,0,1
+RBE,Ratanakiri Airport,Ratanakiri,Cambodia,0,0,0,1
+NZJ,El Toro Marine Corps Air Station,Santa Ana,United States,0,0,0,1
+PHY,Phetchabun Airport,Phetchabun,Thailand,0,0,0,1
+KAI,Kaieteur International Airport,Kaieteur,Guyana,0,0,0,1
+TCP,Taba International Airport,Taba,Egypt,0,0,0,1
+TBJ,Tabarka 7 Novembre Airport,Tabarka,Tunisia,0,0,0,1
+UIK,Ust-Ilimsk Airport,Ust Ilimsk,Russia,0,0,0,1
+GUP,Gallup Municipal Airport,Gallup,United States,0,0,0,1
+LAA,Lamar Municipal Airport,Lamar,United States,0,0,0,1
+GLD,Renner Field-Goodland Municipal Airport,Goodland,United States,0,0,0,1
+FBU,"Oslo, Fornebu Airport",Oslo,Norway,0,0,0,1
+BKA,Bykovo Airport,Moscow,Russia,0,0,0,1
+PEX,Pechora Airport,Pechora,Russia,0,0,0,1
+PKV,Pskov Airport,Pskov,Russia,0,0,0,1
+IWA,Ivanovo South Airport,Ivanovo,Russia,0,0,0,1
+JON,Johnston Atoll Airport,Johnston Island,Johnston Atoll,0,0,0,1
+SMD,Smith Field,Fort Wayne IN,United States,0,0,0,1
+TCL,Tuscaloosa Regional Airport,Tuscaloosa AL,United States,0,0,0,1
+HHP,Shun Tak Heliport,Hong Kong,Hong Kong,0,0,0,1
+AKS,Gwaunaru'u Airport,Auki,Solomon Islands,0,0,0,1
+BAS,Ballalae Airport,Ballalae,Solomon Islands,0,0,0,1
+MBU,Babanakira Airport,Mbambanakira,Solomon Islands,0,0,0,1
+MNY,Mono Airport,Stirling Island,Solomon Islands,0,0,0,1
+KRI,Kikori Airport,Kikori,Papua New Guinea,0,0,0,1
+KMA,Kerema Airport,Kerema,Papua New Guinea,0,0,0,1
+JGO,Qeqertarsuaq Heliport,Qeqertarsuaq Airport,Greenland,0,0,0,1
+GRY,Grímsey Airport,Grímsey,Iceland,0,0,0,1
+THO,Thorshofn Airport,Thorshofn,Iceland,0,0,0,1
+VPN,Vopnafjörður Airport,Vopnafjörður,Iceland,0,0,0,1
+YWS,Whistler/Green Lake Water Aerodrome,Whistler,Canada,0,0,0,1
+YWM,Williams Harbour Airport,Williams Harbour,Canada,0,0,0,1
+YFX,St. Lewis (Fox Harbour) Airport,St. Lewis,Canada,0,0,0,1
+YHA,Port Hope Simpson Airport,Port Hope Simpson,Canada,0,0,0,1
+YCK,Colville Lake Airport,Colville Lake,Canada,0,0,0,1
+YBE,Uranium City Airport,Uranium City,Canada,0,0,0,1
+YRF,Cartwright Airport,Cartwright,Canada,0,0,0,1
+YGB,Texada Gillies Bay Airport,Texada,Canada,0,0,0,1
+YGO,Gods Lake Narrows Airport,Gods Lake Narrows,Canada,0,0,0,1
+YIV,Island Lake Airport,Island Lake,Canada,0,0,0,1
+YMH,Mary's Harbour Airport,Mary's Harbour,Canada,0,0,0,1
+YNE,Norway House Airport,Norway House,Canada,0,0,0,1
+YNL,Points North Landing Airport,Points North Landing,Canada,0,0,0,1
+YOH,Oxford House Airport,Oxford House,Canada,0,0,0,1
+YQN,Nakina Airport,Nakina,Canada,0,0,0,1
+YSF,Stony Rapids Airport,Stony Rapids,Canada,0,0,0,1
+YST,St. Theresa Point Airport,St. Theresa Point,Canada,0,0,0,1
+ZAC,York Landing Airport,York Landing,Canada,0,0,0,1
+ILF,Ilford Airport,Ilford,Canada,0,0,0,1
+ZFD,Fond-Du-Lac Airport,Fond-Du-Lac,Canada,0,0,0,1
+ZGI,Gods River Airport,Gods River,Canada,0,0,0,1
+ZJN,Swan River Airport,Swan River,Canada,0,0,0,1
+ZTM,Shamattawa Airport,Shamattawa,Canada,0,0,0,1
+ZWL,Wollaston Lake Airport,Wollaston Lake,Canada,0,0,0,1
+HEI,Heide-Büsum Airport,Büsum,Germany,0,0,0,1
+HGL,Helgoland-Düne Airport,Helgoland,Germany,0,0,0,1
+SJY,Seinäjoki Airport,Seinäjoki / Ilmajoki,Finland,0,0,0,1
+NQT,Nottingham Airport,Nottingham,United Kingdom,0,0,0,1
+FIE,Fair Isle Airport,Fair Isle,United Kingdom,0,0,0,1
+LWK,Lerwick / Tingwall Airport,Lerwick,United Kingdom,0,0,0,1
+PZE,Penzance Heliport,Penzance,United Kingdom,0,0,0,1
+CNL,Sindal Airport,Sindal,Denmark,0,0,0,1
+VRY,Værøy Heliport,Værøy,Norway,0,0,0,1
+LCJ,Łódź Władysław Reymont Airport,Lodz,Poland,0,0,0,1
+SQO,Storuman Airport,Mohed,Sweden,0,0,0,1
+VNT,Ventspils International Airport,Ventspils,Latvia,0,0,0,1
+QRA,Rand Airport,Johannesburg,South Africa,0,0,0,1
+AAM,Malamala Airport,Malamala,South Africa,0,0,0,1
+MBD,Mmabatho International Airport,Mafeking,South Africa,0,0,0,1
+GNZ,Ghanzi Airport,Ghanzi,Botswana,0,0,0,1
+ORP,Orapa Airport,Orapa,Botswana,0,0,0,1
+SWX,Shakawe Airport,Shakawe,Botswana,0,0,0,1
+TLD,Limpopo Valley Airport,Tuli Lodge,Botswana,0,0,0,1
+DIS,Ngot Nzoungou Airport,Loubomo,Congo (Brazzaville),0,0,0,1
+YVA,Iconi Airport,Moroni,Comoros,0,0,0,1
+WAQ,Antsalova Airport,Antsalova,Madagascar,0,0,0,1
+JVA,Ankavandra Airport,Ankavandra,Madagascar,0,0,0,1
+BMD,Belo sur Tsiribihina Airport,Belo sur Tsiribihina,Madagascar,0,0,0,1
+MXT,Maintirano Airport,Maintirano,Madagascar,0,0,0,1
+TVA,Morafenobe Airport,Morafenobe,Madagascar,0,0,0,1
+WTA,Tambohorano Airport,Tambohorano,Madagascar,0,0,0,1
+WTS,Tsiroanomandidy Airport,Tsiroanomandidy,Madagascar,0,0,0,1
+WAM,Ambatondrazaka Airport,Ambatondrazaka,Madagascar,0,0,0,1
+WPB,Port Bergé Airport,Port Bergé,Madagascar,0,0,0,1
+DWB,Soalala Airport,Soalala,Madagascar,0,0,0,1
+WMP,Mampikony Airport,Mampikony,Madagascar,0,0,0,1
+WMA,Mandritsara Airport,Mandritsara,Madagascar,0,0,0,1
+MJA,Manja Airport,Manja,Madagascar,0,0,0,1
+DUE,Dundo Airport,Dundo,Angola,0,0,0,1
+KOU,Koulamoutou Mabimbi Airport,Koulamoutou,Gabon,0,0,0,1
+MJL,Mouilla Ville Airport,Mouila,Gabon,0,0,0,1
+TCH,Tchibanga Airport,Tchibanga,Gabon,0,0,0,1
+SRH,Sarh Airport,Sarh,Chad,0,0,0,1
+CMK,Club Makokola Airport,Club Makokola,Malawi,0,0,0,1
+SWP,Swakopmund Airport,Swakopmund,Namibia,0,0,0,1
+BOA,Boma Airport,Boma,Congo (Kinshasa),0,0,0,1
+MAT,Tshimpi Airport,Matadi,Congo (Kinshasa),0,0,0,1
+INO,Inongo Airport,Inongo,Congo (Kinshasa),0,0,0,1
+NIO,Nioki Airport,Nioki,Congo (Kinshasa),0,0,0,1
+KRZ,Basango Mboliasa Airport,Kiri,Congo (Kinshasa),0,0,0,1
+BSU,Basankusu Airport,Basankusu,Congo (Kinshasa),0,0,0,1
+PFR,Ilebo Airport,Ilebo,Congo (Kinshasa),0,0,0,1
+OUK,Outer Skerries Airport,Outer Skerries,United Kingdom,0,0,0,1
+BTE,Sherbro International Airport,Bonthe,Sierra Leone,0,0,0,1
+KBS,Bo Airport,Bo,Sierra Leone,0,0,0,1
+KEN,Kenema Airport,Kenema,Sierra Leone,0,0,0,1
+SMW,Smara Airport,Smara,Western Sahara,0,0,0,1
+BCO,Baco Airport,Baco,Ethiopia,0,0,0,1
+BEI,Beica Airport,Beica,Ethiopia,0,0,0,1
+DSE,Combolcha Airport,Dessie,Ethiopia,0,0,0,1
+DEM,Dembidollo Airport,Dembidollo,Ethiopia,0,0,0,1
+GOR,Gore Airport,Gore,Ethiopia,0,0,0,1
+ABK,Kabri Dehar Airport,Kabri Dehar,Ethiopia,0,0,0,1
+MTF,Mizan Teferi Airport,Mizan Teferi,Ethiopia,0,0,0,1
+TIE,Tippi Airport,Tippi,Ethiopia,0,0,0,1
+ALU,Alula Airport,Alula,Somalia,0,0,0,1
+BUO,Burao Airport,Burao,Somalia,0,0,0,1
+AAC,El Arish International Airport,El Arish,Egypt,0,0,0,1
+MJI,Mitiga Airport,Tripoli,Libya,0,0,0,1
+ATB,Atbara Airport,Atbara,Sudan,0,0,0,1
+TKQ,Kigoma Airport,Kigoma,Tanzania,0,0,0,1
+LDI,Lindi Airport,Lindi,Tanzania,0,0,0,1
+MUZ,Musoma Airport,Musoma,Tanzania,0,0,0,1
+SHY,Shinyanga Airport,Shinyanga,Tanzania,0,0,0,1
+TBO,Tabora Airport,Tabora,Tanzania,0,0,0,1
+ULU,Gulu Airport,Gulu,Uganda,0,0,0,1
+ALM,Alamogordo White Sands Regional Airport,Alamogordo,United States,0,0,0,1
+KIO,Kili Airport,Kili Island,Marshall Islands,0,0,0,1
+JMS,Jamestown Regional Airport,Jamestown,United States,0,0,0,1
+LWT,Lewistown Municipal Airport,Lewistown,United States,0,0,0,1
+MLS,Frank Wiley Field,Miles City,United States,0,0,0,1
+RDG,Reading Regional Carl A Spaatz Field,Reading,United States,0,0,0,1
+IDY,Île d'Yeu Airport,Île d'Yeu,France,0,0,0,1
+ANE,Angers-Loire Airport,Angers/Marcé,France,0,0,0,1
+LTT,La Môle Airport,La Môle,France,0,0,0,1
+PEV,Pécs-Pogány Airport,Pécs-Pogány,Hungary,0,0,0,1
+SOB,Sármellék International Airport,Sármellék,Hungary,0,0,0,1
+AOT,Aosta Airport,Aosta,Italy,0,0,0,1
+QSR,Salerno Costa d'Amalfi Airport,Salerno,Italy,0,0,0,1
+USQ,Uşak Airport,Usak,Turkey,0,0,0,1
+SFQ,Şanlıurfa Airport,Sanliurfa,Turkey,0,0,0,1
+SZF,Samsun Çarşamba Airport,Samsun,Turkey,0,0,0,1
+ILZ,Žilina Airport,Žilina,Slovakia,0,0,0,1
+MDS,Middle Caicos Airport,Middle Caicos,Turks and Caicos Islands,0,0,0,1
+PBR,Puerto Barrios Airport,Puerto Barrios,Guatemala,0,0,0,1
+AAZ,Quezaltenango Airport,Quezaltenango,Guatemala,0,0,0,1
+UTK,Utirik Airport,Utirik Island,Marshall Islands,0,0,0,1
+AHS,Ahuas Airport,Ahuas,Honduras,0,0,0,1
+MIJ,Mili Island Airport,Mili Island,Marshall Islands,0,0,0,1
+CYW,Captain Rogelio Castillo National Airport,Celaya,Mexico,0,0,0,1
+CUA,Ciudad Constitución Airport,Ciudad Constitución,Mexico,0,0,0,1
+GUB,Guerrero Negro Airport,Guerrero Negro,Mexico,0,0,0,1
+CTD,Alonso Valderrama Airport,Chitré,Panama,0,0,0,1
+ONX,Enrique Adolfo Jimenez Airport,Colón,Panama,0,0,0,1
+PLP,Captain Ramon Xatruch Airport,La Palma,Panama,0,0,0,1
+BCL,Barra del Colorado Airport,Pococi,Costa Rica,0,0,0,1
+PBP,Islita Airport,Nandayure,Costa Rica,0,0,0,1
+JEE,Jérémie Airport,Jeremie,Haiti,0,0,0,1
+PAX,Port-de-Paix Airport,Port-de-Paix,Haiti,0,0,0,1
+TND,Alberto Delgado Airport,Trinidad,Cuba,0,0,0,1
+COX,Congo Town Airport,Andros,Bahamas,0,0,0,1
+PID,Nassau Paradise Island Airport,Nassau,Bahamas,0,0,0,1
+MHX,Manihiki Island Airport,Manihiki Island,Cook Islands,0,0,0,1
+PYE,Tongareva Airport,Penrhyn Island,Cook Islands,0,0,0,1
+PTF,Malolo Lailai Island Airport,Malolo Lailai Island,Fiji,0,0,0,1
+MNF,Mana Island Airport,Mana Island,Fiji,0,0,0,1
+MFJ,Moala Airport,Moala,Fiji,0,0,0,1
+NGI,Ngau Airport,Ngau,Fiji,0,0,0,1
+KXF,Koro Island Airport,Koro Island,Fiji,0,0,0,1
+EUA,Kaufana Airport,Eua Island,Tonga,0,0,0,1
+HPA,Lifuka Island Airport,Lifuka,Tonga,0,0,0,1
+NFO,Mata'aho Airport,"Angaha, Niuafo'ou Island",Tonga,0,0,0,1
+NTT,Kuini Lavenia Airport,Niuatoputapu,Tonga,0,0,0,1
+MXS,Maota Airport,Savaii Island,Samoa,0,0,0,1
+APK,Apataki Airport,Apataki,French Polynesia,0,0,0,1
+RCL,Redcliffe Airport,Redcliffe,Vanuatu,0,0,0,1
+OLJ,North West Santo Airport,Olpoi,Vanuatu,0,0,0,1
+FBD,Fayzabad Airport,Faizabad,Afghanistan,0,0,0,1
+RJN,Rafsanjan Airport,Rafsanjan,Iran,0,0,0,1
+BNP,Bannu Airport,Bannu,Pakistan,0,0,0,1
+JIW,Jiwani Airport,Jiwani,Pakistan,0,0,0,1
+HDD,Hyderabad Airport,Hyderabad,Pakistan,0,0,0,1
+KDD,Khuzdar Airport,Khuzdar,Pakistan,0,0,0,1
+ORW,Ormara Airport,Ormara Raik,Pakistan,0,0,0,1
+PAJ,Parachinar Airport,Parachinar,Pakistan,0,0,0,1
+SYW,Sehwan Sharif Airport,Sehwan Sharif,Pakistan,0,0,0,1
+KAC,Kamishly Airport,Kamishly,Syria,0,0,0,1
+OPU,Balimo Airport,Balimo,Papua New Guinea,0,0,0,1
+VMU,Baimuru Airport,Baimuru,Papua New Guinea,0,0,0,1
+LUP,Kalaupapa Airport,Molokai,United States,0,0,0,1
+ENT,Eniwetok Airport,Eniwetok Atoll,Marshall Islands,0,0,0,1
+LZN,Matsu Nangan Airport,Matsu Islands,Taiwan,0,0,0,1
+HCN,Hengchun Airport,Hengchun,Taiwan,0,0,0,1
+MFK,Matsu Beigan Airport,Matsu Islands,Taiwan,0,0,0,1
+OKD,Okadama Airport,Sapporo,Japan,0,0,0,1
+MYE,Miyakejima Airport,Miyakejima,Japan,0,0,0,1
+MPK,Mokpo Heliport,Mokpo,South Korea,0,0,0,1
+SFS,Subic Bay International Airport,Olongapo City,Philippines,0,0,0,1
+CYU,Cuyo Airport,Cuyo,Philippines,0,0,0,1
+TWT,Sanga Sanga Airport,Sanga Sanga,Philippines,0,0,0,1
+TDG,Tandag Airport,Tandag,Philippines,0,0,0,1
+SFE,San Fernando Airport,San Fernando,Philippines,0,0,0,1
+TTG,General Enrique Mosconi Airport,Tartagal,Argentina,0,0,0,1
+LHS,Las Heras Airport,Las Heras,Argentina,0,0,0,1
+OES,Antoine de Saint Exupéry Airport,San Antonio Oeste,Argentina,0,0,0,1
+ING,Lago Argentino Airport,El Calafate,Argentina,0,0,0,1
+GGS,Gobernador Gregores Airport,Gobernador Gregores,Argentina,0,0,0,1
+SST,Santa Teresita Airport,Santa Teresita,Argentina,0,0,0,1
+NEC,Necochea Airport,Necochea,Argentina,0,0,0,1
+TOW,Toledo Airport,Toledo,Brazil,0,0,0,1
+ESR,Ricardo García Posada Airport,El Salvador,Chile,0,0,0,1
+ZPC,Pucón Airport,Pucon,Chile,0,0,0,1
+SOD,Sorocaba Airport,Sorocaba,Brazil,0,0,0,1
+PSY,Port Stanley Airport,Stanley,Falkland Islands,0,0,0,1
+CRC,Santa Ana Airport,Cartago,Colombia,0,0,0,1
+PUR,Puerto Rico Airport,Puerto Rico/Manuripi,Bolivia,0,0,0,1
+REY,Reyes Airport,Reyes,Bolivia,0,0,0,1
+SRJ,Capitán Av. German Quiroga G. Airport,San Borja,Bolivia,0,0,0,1
+ORG,Zorg en Hoop Airport,Paramaribo,Suriname,0,0,0,1
+MVS,Mucuri Airport,Mucuri,Brazil,0,0,0,1
+NZC,Maria Reiche Neuman Airport,Nazca,Peru,0,0,0,1
+MYC,Escuela Mariscal Sucre Airport,Maracay,Venezuela,0,0,0,1
+BBQ,Codrington Airport,Codrington,Antigua and Barbuda,0,0,0,1
+DSD,La Désirade Airport,Grande Anse,Guadeloupe,0,0,0,1
+BBR,Baillif Airport,Basse Terre,Guadeloupe,0,0,0,1
+SFC,St-François Airport,St-François,Guadeloupe,0,0,0,1
+GBJ,Les Bases Airport,Grand Bourg,Guadeloupe,0,0,0,1
+BQU,J F Mitchell Airport,Bequia,Saint Vincent and the Grenadines,0,0,0,1
+UNI,Union Island International Airport,Union Island,Saint Vincent and the Grenadines,0,0,0,1
+KXK,Komsomolsk-on-Amur Airport,Komsomolsk-on-Amur,Russia,0,0,0,1
+OHO,Okhotsk Airport,Okhotsk,Russia,0,0,0,1
+UJE,Ujae Atoll Airport,Ujae Atoll,Marshall Islands,0,0,0,1
+MPW,Mariupol International Airport,Mariupol International,Ukraine,0,0,0,1
+VSG,Luhansk International Airport,Lugansk,Ukraine,0,0,0,1
+KWG,Kryvyi Rih International Airport,Krivoy Rog,Ukraine,0,0,0,1
+CWC,Chernivtsi International Airport,Chernovtsk,Ukraine,0,0,0,1
+RWN,Rivne International Airport,Rivne,Ukraine,0,0,0,1
+AMV,Amderma Airport,Amderma,Russia,0,0,0,1
+KSZ,Kotlas Airport,Kotlas,Russia,0,0,0,1
+GNA,Hrodna Airport,Hrodna,Belarus,0,0,0,1
+MVQ,Mogilev Airport,Mogilev,Belarus,0,0,0,1
+EIE,Yeniseysk Airport,Yeniseysk,Russia,0,0,0,1
+HTG,Khatanga Airport,Khatanga,Russia,0,0,0,1
+NAL,Nalchik Airport,Nalchik,Russia,0,0,0,1
+WKK,Aleknagik / New Airport,Aleknagik,United States,0,0,0,1
+BLF,Mercer County Airport,Bluefield,United States,0,0,0,1
+LPS,Lopez Island Airport,Lopez,United States,0,0,0,1
+RAT,Raduzhny Airport,Raduzhnyi,Russia,0,0,0,1
+NFG,Nefteyugansk Airport,Nefteyugansk,Russia,0,0,0,1
+RYB,Staroselye Airport,Rybinsk,Russia,0,0,0,1
+LPK,Lipetsk Airport,Lipetsk,Russia,0,0,0,1
+JOK,Yoshkar-Ola Airport,Yoshkar-Ola,Russia,0,0,0,1
+ULY,Ulyanovsk East Airport,Ulyanovsk,Russia,0,0,0,1
+BWO,Balakovo Airport,Balakovo,Russia,0,0,0,1
+WRZ,Weerawila Airport,Wirawila,Sri Lanka,0,0,0,1
+BBM,Battambang Airport,Battambang,Cambodia,0,0,0,1
+TEZ,Tezpur Airport,Tezpur,India,0,0,0,1
+MEY,Meghauli Airport,Meghauli,Nepal,0,0,0,1
+BMO,Banmaw Airport,Banmaw,Burma,0,0,0,1
+LIW,Loikaw Airport,Loikaw,Burma,0,0,0,1
+MNU,Mawlamyine Airport,Mawlamyine,Burma,0,0,0,1
+BSX,Pathein Airport,Pathein,Burma,0,0,0,1
+PKK,Pakhokku Airport,Pakhokku,Burma,0,0,0,1
+SWQ,Sumbawa Besar Airport,Sumbawa Island,Indonesia,0,0,0,1
+BUI,Bokondini Airport,Bokondini-Papua Island,Indonesia,0,0,0,1
+SEH,Senggeh Airport,Senggeh-Papua Island,Indonesia,0,0,0,1
+TJS,Tanjung Harapan Airport,Tanjung Selor-Borneo Island,Indonesia,0,0,0,1
+DTD,Datadawai Airport,Datadawai-Borneo Island,Indonesia,0,0,0,1
+TJG,Warukin Airport,Tanjung-Borneo Island,Indonesia,0,0,0,1
+SMQ,Sampit(Hasan) Airport,Sampit-Borneo Island,Indonesia,0,0,0,1
+ARD,Mali Airport,Alor Island,Indonesia,0,0,0,1
+BLG,Belaga Airport,Belaga,Malaysia,0,0,0,1
+TMG,Tomanggong Airport,Tomanggong,Malaysia,0,0,0,1
+HLP,Halim Perdanakusuma International Airport,Jakarta,Indonesia,0,0,0,1
+PSU,Pangsuma Airport,Putussibau-Borneo Island,Indonesia,0,0,0,1
+SQG,Sintang(Susilo) Airport,Sintang-Borneo Island,Indonesia,0,0,0,1
+PDO,Pendopo Airport,Talang Gudang-Sumatra Island,Indonesia,0,0,0,1
+LSW,Malikus Saleh Airport,Lhok Seumawe-Sumatra Island,Indonesia,0,0,0,1
+PKG,Pulau Pangkor Airport,Pangkor Island,Malaysia,0,0,0,1
+LBW,Long Bawan Airport,Long Bawan-Borneo Island,Indonesia,0,0,0,1
+NNX,Nunukan Airport,Nunukan-Nunukan Island,Indonesia,0,0,0,1
+LPU,Long Apung Airport,Long Apung-Borneo Island,Indonesia,0,0,0,1
+GYL,Argyle Airport,Argyle,Australia,0,0,0,1
+BDD,Badu Island Airport,Badu Island,Australia,0,0,0,1
+BRK,Bourke Airport,Bourke,Australia,0,0,0,1
+GIC,Boigu Airport,Boigu,Australia,0,0,0,1
+OKY,Oakey Airport,Oakey,Australia,0,0,0,1
+BLT,Blackwater Airport,Blackwater,Australia,0,0,0,1
+CVQ,Carnarvon Airport,Carnarvon,Australia,0,0,0,1
+CAZ,Cobar Airport,Cobar,Australia,0,0,0,1
+CNC,Coconut Island Airport,Coconut Island,Australia,0,0,0,1
+CTN,Cooktown Airport,Cooktown,Australia,0,0,0,1
+CNB,Coonamble Airport,Coonamble,Australia,0,0,0,1
+OOM,Cooma Snowy Mountains Airport,Cooma,Australia,0,0,0,1
+NLF,Darnley Island Airport,Darnley Island,Australia,0,0,0,1
+HOK,Hooker Creek Airport,Hooker Creek,Australia,0,0,0,1
+MHU,Mount Hotham Airport,Mount Hotham,Australia,0,0,0,1
+HGD,Hughenden Airport,Hughenden,Australia,0,0,0,1
+KAX,Kalbarri Airport,Kalbarri,Australia,0,0,0,1
+KFG,Kalkgurung Airport,Kalkgurung,Australia,0,0,0,1
+KRB,Karumba Airport,Karumba,Australia,0,0,0,1
+KUG,Kubin Airport,Kubin,Australia,0,0,0,1
+LNO,Leonora Airport,Leonora,Australia,0,0,0,1
+LEL,Lake Evella Airport,Lake Evella,Australia,0,0,0,1
+LHG,Lightning Ridge Airport,Lightning Ridge,Australia,0,0,0,1
+LER,Leinster Airport,Leinster,Australia,0,0,0,1
+LVO,Laverton Airport,Laverton,Australia,0,0,0,1
+UBB,Mabuiag Island Airport,Mabuiag Island,Australia,0,0,0,1
+MKR,Meekatharra Airport,Meekatharra,Australia,0,0,0,1
+MMG,Mount Magnet Airport,Mount Magnet,Australia,0,0,0,1
+MYI,Murray Island Airport,Murray Island,Australia,0,0,0,1
+MBH,Maryborough Airport,Maryborough,Australia,0,0,0,1
+NAA,Narrabri Airport,Narrabri,Australia,0,0,0,1
+PMK,Palm Island Airport,Palm Island,Australia,0,0,0,1
+RAM,Ramingining Airport,Ramingining,Australia,0,0,0,1
+MJK,Shark Bay Airport,Shark Bay,Australia,0,0,0,1
+SBR,Saibai Island Airport,Saibai Island,Australia,0,0,0,1
+SRN,Strahan Airport,Strahan,Australia,0,0,0,1
+TCA,Tennant Creek Airport,Tennant Creek,Australia,0,0,0,1
+VCD,Victoria River Downs Airport,Victoria River Downs,Australia,0,0,0,1
+SYU,Warraber Island Airport,Sue Islet,Australia,0,0,0,1
+WUN,Wiluna Airport,Wiluna,Australia,0,0,0,1
+WOL,Wollongong Airport,Wollongong,Australia,0,0,0,1
+OKR,Yorke Island Airport,Yorke Island,Australia,0,0,0,1
+XMY,Yam Island Airport,Yam Island,Australia,0,0,0,1
+AKA,Ankang Wulipu Airport,Ankang,China,0,0,0,1
+HZG,Hanzhong Chenggu Airport,Hanzhong,China,0,0,0,1
+AVK,Arvaikheer Airport,Arvaikheer,Mongolia,0,0,0,1
+WEH,Weihai Airport,Weihai,China,0,0,0,1
+IQM,Qiemo Yudu Airport,Qiemo,China,0,0,0,1
+WKL,Waikoloa Heliport,Waikoloa Village,United States,0,0,0,1
+WME,Mount Keith Airport,Mount Keith,Australia,0,0,0,1
+LRV,Los Roques Airport,Los Roques,Venezuela,0,0,0,1
+IOR,Inishmore Aerodrome,Inis Mor,Ireland,0,0,0,1
+NNR,Connemara Regional Airport,Indreabhan,Ireland,0,0,0,1
+GTI,Rügen Airport,Ruegen,Germany,0,0,0,1
+EZV,Berezovo Airport,Berezovo,Russia,0,0,0,1
+PWT,Bremerton National Airport,Bremerton,United States,0,0,0,1
+SPW,Spencer Municipal Airport,Spencer,United States,0,0,0,1
+JEF,Jefferson City Memorial Airport,Jefferson City,United States,0,0,0,1
+UNT,Unst Airport,Unst,United Kingdom,0,0,0,1
+KMW,Kostroma Sokerkino Airport,Kostroma,Russia,0,0,0,1
+SUI,Sukhumi Dranda Airport,Sukhumi,Georgia,0,0,0,1
+OBN,Oban Airport,North Connel,United Kingdom,0,0,0,1
+CVF,Courchevel Airport,Courcheval,France,0,0,0,1
+FUL,Fullerton Municipal Airport,Fullerton,United States,0,0,0,1
+USA,Concord-Padgett Regional Airport,Concord,United States,0,0,0,1
+SUN,Friedman Memorial Airport,Hailey,United States,0,0,0,1
+MCW,Mason City Municipal Airport,Mason City,United States,0,0,0,1
+XAU,Saúl Airport,Saul,French Guiana,0,0,0,1
+OMC,Ormoc Airport,Ormoc City,Philippines,0,0,0,1
+KPC,Port Clarence Coast Guard Station,Port Clarence,United States,0,0,0,1
+TBH,Tugdan Airport,Romblon,Philippines,0,0,0,1
+ACP,Sahand Airport,Maragheh,Iran,0,0,0,1
+AFS,Sugraly Airport,Zarafshan,Uzbekistan,0,0,0,1
+CQD,Shahrekord Airport,Shahre Kord,Iran,0,0,0,1
+NDC,Nanded Airport,Nanded,India,0,0,0,1
+SLV,Shimla Airport,Shimla,India,0,0,0,1
+KNW,New Stuyahok Airport,New Stuyahok,United States,0,0,0,1
+BHG,Brus Laguna Airport,Brus Laguna,Honduras,0,0,0,1
+YEI,Bursa Yenişehir Airport,Yenisehir,Turkey,0,0,0,1
+LSS,Terre-de-Haut Airport,Les Saintes,Guadeloupe,0,0,0,1
+KMV,Kalay Airport,Kalemyo,Myanmar,0,0,0,1
+MRQ,Marinduque Airport,Gasan,Philippines,0,0,0,1
+HOH,Hohenems-Dornbirn Airport,Hohenems,Austria,0,0,0,1
+GUL,Goulburn Airport,Goulburn,Australia,0,0,0,1
+CES,Cessnock Airport,Cessnock,Australia,0,0,0,1
+NSO,Scone Airport,Scone,Australia,0,0,0,1
+DGE,Mudgee Airport,Mudgee,Australia,0,0,0,1
+MTL,Maitland Airport,Maitland,Australia,0,0,0,1
+OCN,Oceanside Municipal Airport,Fraser Island,Australia,0,0,0,1
+KIK,Kirkuk Air Base,Kirkuk,Iraq,0,0,0,1
+XJD,Al Udeid Air Base,Doha,Qatar,0,0,0,1
+GBZ,Great Barrier Aerodrome,Claris,New Zealand,0,0,0,1
+MGC,Michigan City Municipal Airport,Michigan City,United States,0,0,0,1
+SWD,Seward Airport,Seward,United States,0,0,0,1
+GRM,Grand Marais Cook County Airport,Grand Marais,United States,0,0,0,1
+AUW,Wausau Downtown Airport,Wausau,United States,0,0,0,1
+MYP,Mary Airport,Mary,Turkmenistan,0,0,0,1
+MVA,Reykjahlíð Airport,Myvatn,Iceland,0,0,0,1
+QSA,Sabadell Airport,Sabadell,Spain,0,0,0,1
+WSY,Whitsunday Island Airport,Airlie Beach,Australia,0,0,0,1
+MIE,Delaware County Johnson Field,Muncie,United States,0,0,0,1
+LAF,Purdue University Airport,Lafayette,United States,0,0,0,1
+VGT,North Las Vegas Airport,Las Vegas,United States,0,0,0,1
+ENW,Kenosha Regional Airport,Kenosha,United States,0,0,0,1
+LYM,Lympne Airport,Lympne,United Kingdom,0,0,0,1
+PKH,Porto Cheli Airport,Porto Heli,Greece,0,0,0,1
+KTR,Tindal Airport,Katherine,Australia,0,0,0,1
+NOA,Nowra Airport,Nowra,Australia,0,0,0,1
+UCK,Lutsk Airport,Lutsk,Ukraine,0,0,0,1
+CEJ,Chernihiv Shestovitsa Airport,Chernigov,Ukraine,0,0,0,1
+BQT,Brest Airport,Brest,Belarus,0,0,0,1
+OSH,Wittman Regional Airport,Oshkosh,United States,0,0,0,1
+AGE,Wangerooge Airport,Wangerooge,Germany,0,0,0,1
+BXG,Bendigo Airport,Bendigo,Australia,0,0,0,1
+ARE,Antonio Nery Juarbe Pol Airport,Arecibo,Puerto Rico,0,0,0,1
+RIN,Ringi Cove Airport,Ringi Cove,Solomon Islands,0,0,0,1
+QLS,Lausanne-Blécherette Airport,Lausanne,Switzerland,0,0,0,1
+ZJI,Locarno Airport,Locarno,Switzerland,0,0,0,1
+QNC,Neuchatel Airport,Neuchatel,Switzerland,0,0,0,1
+ZIA,Zhukovsky International Airport,Ramenskoe,Russia,0,0,0,1
+FWH,NAS Fort Worth JRB/Carswell Field,Dallas,United States,0,0,0,1
+VBP,Bokpyinn Airport,Bokepyin,Burma,0,0,0,1
+GYY,Gary Chicago International Airport,Gary,United States,0,0,0,1
+OXR,Oxnard Airport,Oxnard,United States,0,0,0,1
+NIU,Naiu Airport,Niau,French Polynesia,0,0,0,1
+SCH,Schenectady County Airport,Scotia NY,United States,0,0,0,1
+LGO,Langeoog Airport,Langeoog,Germany,0,0,0,1
+NLP,Nelspruit Airport,Nelspruit,South Africa,0,0,0,1
+CKC,Cherkasy International Airport,Cherkassy,Ukraine,0,0,0,1
+NLV,Mykolaiv International Airport,Nikolayev,Ukraine,0,0,0,1
+RHP,Ramechhap Airport,Ramechhap,Nepal,0,0,0,1
+ISM,Kissimmee Gateway Airport,Kissimmee,United States,0,0,0,1
+LCQ,Lake City Gateway Airport,Lake City,United States,0,0,0,1
+LGU,Logan-Cache Airport,Logan,United States,0,0,0,1
+BMC,Brigham City Regional Airport,Brigham City,United States,0,0,0,1
+ERV,Kerrville Municipal Louis Schreiner Field,Kerrville,United States,0,0,0,1
+GED,Sussex County Airport,Georgetown,United States,0,0,0,1
+ZSW,Prince Rupert/Seal Cove Seaplane Base,Prince Rupert,Canada,0,0,0,1
+GBD,Great Bend Municipal Airport,Great Bend,United States,0,0,0,1
+HYS,Hays Regional Airport,Hays,United States,0,0,0,1
+SUS,Spirit of St Louis Airport,Null,United States,0,0,0,1
+LYU,Ely Municipal Airport,Ely,United States,0,0,0,1
+GPZ,Grand Rapids Itasca Co-Gordon Newstrom field,Grand Rapids MN,United States,0,0,0,1
+EGV,Eagle River Union Airport,Eagle River,United States,0,0,0,1
+ARV,Lakeland-Noble F. Lee Memorial field,Minocqua - Woodruff,United States,0,0,0,1
+YBV,Berens River Airport,Berens River,Canada,0,0,0,1
+AVX,Catalina Airport,Catalina Island,United States,0,0,0,1
+MHV,Mojave Airport,Mojave,United States,0,0,0,1
+ZIN,Interlaken Air Base,Interlaken,Switzerland,0,0,0,1
+INQ,Inisheer Aerodrome,Inisheer,Ireland,0,0,0,1
+SWT,Strezhevoy Airport,Strezhevoy,Russia,0,0,0,1
+HUT,Hutchinson Municipal Airport,Hutchinson,United States,0,0,0,1
+OAI,Bagram Air Base,Kabul,Afghanistan,0,0,0,1
+AKH,Prince Sultan Air Base,Al Kharj,Saudi Arabia,0,0,0,1
+STJ,Rosecrans Memorial Airport,Rosecrans,United States,0,0,0,1
+VOK,Volk Field,Camp Douglas,United States,0,0,0,1
+SIA,Xi'an Xiguan Airport,Xi\'AN,China,0,0,0,1
+TOA,Zamperini Field,Torrance,United States,0,0,0,1
+WFK,Northern Aroostook Regional Airport,Frenchville,United States,0,0,0,1
+YTM,La Macaza / Mont-Tremblant International Inc Airport,Mont-Tremblant,Canada,0,0,0,1
+SME,Lake Cumberland Regional Airport,Somerset,United States,0,0,0,1
+DVL,Devils Lake Regional Airport,Devils Lake,United States,0,0,0,1
+MTH,The Florida Keys Marathon Airport,Marathon,United States,0,0,0,1
+WYS,Yellowstone Airport,West Yellowstone,United States,0,0,0,1
+ELY,Ely Airport Yelland Field,Ely,United States,0,0,0,1
+RUI,Sierra Blanca Regional Airport,Ruidoso,United States,0,0,0,1
+MYL,McCall Municipal Airport,McCall,United States,0,0,0,1
+SMN,Lemhi County Airport,Salmon,United States,0,0,0,1
+AST,Astoria Regional Airport,Astoria,United States,0,0,0,1
+ONP,Newport Municipal Airport,Newport,United States,0,0,0,1
+UUK,Ugnu-Kuparuk Airport,Kuparuk,United States,0,0,0,1
+KGK,Koliganek Airport,Koliganek,United States,0,0,0,1
+KMO,Manokotak Airport,Manokotak,United States,0,0,0,1
+EAA,Eagle Airport,Eagle,United States,0,0,0,1
+IYK,Inyokern Airport,Inyokern,United States,0,0,0,1
+CYR,Laguna de Los Patos International Airport,Colonia,Uruguay,0,0,0,1
+CPQ,Amarais Airport,Campinas,Brazil,0,0,0,1
+GYR,Phoenix Goodyear Airport,Goodyear,United States,0,0,0,1
+BBL,Ballera Airport,Ballera,Australia,0,0,0,1
+AYK,Arkalyk North Airport,Arkalyk,Kazakhstan,0,0,0,1
+FNR,Funter Bay Seaplane Base,Funter Bay,United States,0,0,0,1
+CYT,Yakataga Airport,Yakataga,United States,0,0,0,1
+PML,Port Moller Airport,Cold Bay,United States,0,0,0,1
+NNL,Nondalton Airport,Nondalton,United States,0,0,0,1
+AKI,Akiak Airport,Akiak,United States,0,0,0,1
+APZ,Zapala Airport,ZAPALA,Argentina,0,0,0,1
+RDS,Rincon De Los Sauces Airport,Rincon de los Sauces,Argentina,0,0,0,1
+PNT,Tte. Julio Gallardo Airport,Puerto Natales,Chile,0,0,0,1
+SGV,Sierra Grande Airport,Sierra Grande,Argentina,0,0,0,1
+IGB,Cabo F.A.A. H. R. Bordón Airport,Ingeniero Jacobacci,Argentina,0,0,0,1
+NCN,Chenega Bay Airport,Chenega,United States,0,0,0,1
+TKJ,Tok Junction Airport,Tok,United States,0,0,0,1
+YTF,Alma Airport,Alma,Canada,0,0,0,1
+YXK,Rimouski Airport,Rimouski,Canada,0,0,0,1
+XTL,Tadoule Lake Airport,Tadoule Lake,Canada,0,0,0,1
+XLB,Lac Brochet Airport,Lac Brochet,Canada,0,0,0,1
+XSI,South Indian Lake Airport,South Indian Lake,Canada,0,0,0,1
+YBT,Brochet Airport,Brochet,Canada,0,0,0,1
+ZGR,Little Grand Rapids Airport,Little Grand Rapids,Canada,0,0,0,1
+YCR,Cross Lake (Charlie Sinclair Memorial) Airport,Cross Lake,Canada,0,0,0,1
+YRS,Red Sucker Lake Airport,Red Sucker Lake,Canada,0,0,0,1
+YBY,Bonnyville Airport,Bonnyville,Canada,0,0,0,1
+ZNA,Nanaimo Harbour Water Airport,Nanaimo,Canada,0,0,0,1
+YGG,Ganges Seaplane Base,Ganges,Canada,0,0,0,1
+YDT,Boundary Bay Airport,Boundary Bay,Canada,0,0,0,1
+YLY,Langley Airport,Langley Township,Canada,0,0,0,1
+RNI,Corn Island,Corn Island,Nicaragua,0,0,0,1
+BZA,San Pedro Airport,Bonanza,Nicaragua,0,0,0,1
+RFS,Rosita Airport,Rosita,Nicaragua,0,0,0,1
+SIU,Siuna,Siuna,Nicaragua,0,0,0,1
+WSP,Waspam Airport,Waspam,Nicaragua,0,0,0,1
+NCR,San Carlos,San Carlos,Nicaragua,0,0,0,1
+PLD,Playa Samara/Carrillo Airport,Carrillo,Costa Rica,0,0,0,1
+COZ,Constanza - Expedición 14 de Junio National Airport,Constanza,Dominican Republic,0,0,0,1
+NEG,Negril Airport,Negril,Jamaica,0,0,0,1
+NRR,José Aponte de la Torre Airport,Ceiba,Puerto Rico,0,0,0,1
+SPB,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,Virgin Islands,0,0,0,1
+ARR,D. Casimiro Szlapelis Airport,Alto Rio Senguer,Argentina,0,0,0,1
+JSM,Jose De San Martin Airport,Jose de San Martin,Argentina,0,0,0,1
+ABF,Abaiang Airport,Abaiang Atoll,Kiribati,0,0,0,1
+ABN,Albina Airport,Albina,Suriname,0,0,0,1
+DRJ,Drietabbetje Airport,Drietabbetje,Suriname,0,0,0,1
+MOJ,Moengo Airstrip,Moengo,Suriname,0,0,0,1
+ICK,Nieuw Nickerie Airport,Nieuw Nickerie,Suriname,0,0,0,1
+OEM,Vincent Fayks Airport,Paloemeu,Suriname,0,0,0,1
+SMZ,Stoelmanseiland Airport,Stoelmans Eiland,Suriname,0,0,0,1
+TOT,Totness Airport,Totness,Suriname,0,0,0,1
+AGI,Wageningen Airstrip,Wageningen,Suriname,0,0,0,1
+ORJ,Orinduik Airport,Orinduik,Guyana,0,0,0,1
+NAI,Annai Airport,Annai,Guyana,0,0,0,1
+IMB,Imbaimadai Airport,Imbaimadai,Guyana,0,0,0,1
+KAR,Kamarang Airport,Kamarang,Guyana,0,0,0,1
+USI,Mabaruma Airport,Mabaruma,Guyana,0,0,0,1
+MHA,Mahdia Airport,Mahdia,Guyana,0,0,0,1
+PJC,Dr Augusto Roberto Fuster International Airport,Pedro Juan Caballero,Paraguay,0,0,0,1
+ACD,Alcides Fernández Airport,Acandi,Colombia,0,0,0,1
+BQJ,Batagay Airport,Batagay,Russia,0,0,0,1
+EBG,El Bagre Airport,El Bagre,Colombia,0,0,0,1
+CAQ,Juan H White Airport,Caucasia,Colombia,0,0,0,1
+COG,Mandinga Airport,Condoto,Colombia,0,0,0,1
+TLU,Golfo de Morrosquillo Airport,Tolu,Colombia,0,0,0,1
+SFK,Soure Airport,Soure,Brazil,0,0,0,1
+NVP,Novo Aripuanã Airport,Novo Aripuana,Brazil,0,0,0,1
+FRC,Tenente Lund Pressoto Airport,Franca,Brazil,0,0,0,1
+LBR,Lábrea Airport,Labrea,Brazil,0,0,0,1
+MBZ,Maués Airport,Maues,Brazil,0,0,0,1
+RBB,Borba Airport,Borba,Brazil,0,0,0,1
+DMT,Diamantino Airport,Diamantino,Brazil,0,0,0,1
+QDJ,Tsletsi Airport,Djelfa,Algeria,0,0,0,1
+NZA,Nzagi Airport,Nzagi,Angola,0,0,0,1
+LBZ,Lucapa Airport,Lucapa,Angola,0,0,0,1
+KNP,Capanda Airport,Kapanda,Angola,0,0,0,1
+AMC,Am Timan Airport,Am Timan,Chad,0,0,0,1
+GSQ,Shark El Oweinat International Airport,Sharq Al-Owainat,Egypt,0,0,0,1
+MRB,Eastern WV Regional Airport/Shepherd Field,Martinsburg,United States,0,0,0,1
+AWA,Awassa Airport,Awasa,Ethiopia,0,0,0,1
+MKS,Mekane Selam Airport,Mekane Selam,Ethiopia,0,0,0,1
+DBM,Debra Marcos Airport,Debre Marqos,Ethiopia,0,0,0,1
+DBT,Debre Tabor Airport,Debre Tabor,Ethiopia,0,0,0,1
+QHR,Harar Meda Airport,Debre Zeyit,Ethiopia,0,0,0,1
+GOB,Robe Airport,Goba,Ethiopia,0,0,0,1
+MYB,Mayumba Airport,Mayumba,Gabon,0,0,0,1
+JJM,Mulika Lodge Airport,Meru National Park,Kenya,0,0,0,1
+RBX,Rumbek Airport,Rumbek,Sudan,0,0,0,1
+CPA,Cape Palmas Airport,Greenville,Liberia,0,0,0,1
+IHC,Inhaca Airport,Inhaca,Mozambique,0,0,0,1
+MAX,Ouro Sogui Airport,Matam,Senegal,0,0,0,1
+BDI,Bird Island Airport,Bird Island,Seychelles,0,0,0,1
+WHF,Wadi Halfa Airport,Wadi Halfa,Sudan,0,0,0,1
+HUZ,Huizhou Airport,Huizhou,China,0,0,0,1
+BIU,Bildudalur Airport,Bildudalur,Iceland,0,0,0,1
+GJR,Gjögur Airport,Gjogur,Iceland,0,0,0,1
+SAK,Sauðárkrókur Airport,Saudarkrokur,Iceland,0,0,0,1
+IIA,Inishmaan Aerodrome,Inishmaan,Ireland,0,0,0,1
+VGD,Vologda Airport,Vologda,Russia,0,0,0,1
+ONK,Olenyok Airport,Olenyok,Russia,0,0,0,1
+SYS,Saskylakh Airport,Saskylakh,Russia,0,0,0,1
+LDG,Leshukonskoye Airport,Arkhangelsk,Russia,0,0,0,1
+HSK,Huesca/Pirineos Airport,Huesca,Spain,0,0,0,1
+CQM,Ciudad Real Central Airport,Ciudad Real,Spain,0,0,0,1
+CSA,Colonsay Airstrip,Colonsay,United Kingdom,0,0,0,1
+RKH,Rock Hill - York County Airport,Rock Hill,United States,0,0,0,1
+AGC,Allegheny County Airport,Pittsburgh,United States,0,0,0,1
+VQQ,Cecil Airport,Jacksonville,United States,0,0,0,1
+FTY,Fulton County Airport Brown Field,Atlanta,United States,0,0,0,1
+TII,Tarin Kowt Airport,Tarin Kowt,Afghanistan,0,0,0,1
+ZAJ,Zaranj Airport,Zaranj,Afghanistan,0,0,0,1
+CCN,Chakcharan Airport,Chaghcharan,Afghanistan,0,0,0,1
+OSU,The Ohio State University Airport - Don Scott Field,Columbus,United States,0,0,0,1
+ADS,Addison Airport,Addison,United States,0,0,0,1
+DSI,Destin Executive Airport,Destin,United States,0,0,0,1
+KHE,Kherson International Airport,Kherson,Ukraine,0,0,0,1
+SZS,Ryan's Creek Aerodrome,Stewart Island,New Zealand,0,0,0,1
+YQI,Yarmouth Airport,Yarmouth,Canada,0,0,0,1
+ISO,Kinston Regional Jetport At Stallings Field,Kinston,United States,0,0,0,1
+FFA,First Flight Airport,Kill Devil Hills,United States,0,0,0,1
+MWK,Tarempa Airport,Anambas Islands,Indonesia,0,0,0,1
+TJH,Tajima Airport,Toyooka,Japan,0,0,0,1
+AXJ,Amakusa Airport,Amakusa,Japan,0,0,0,1
+KKX,Kikai Airport,Kikai,Japan,0,0,0,1
+AGJ,Aguni Airport,Aguni,Japan,0,0,0,1
+UGA,Bulgan Airport,Bulgan,Mongolia,0,0,0,1
+LBX,Lubang Airport,Lubang,Philippines,0,0,0,1
+CMJ,Chi Mei Airport,Cimei,Taiwan,0,0,0,1
+TAZ,Daşoguz Airport,Dasoguz,Turkmenistan,0,0,0,1
+BWB,Barrow Island Airport,Barrow Island,Australia,0,0,0,1
+DRB,Derby Airport,Derby,Australia,0,0,0,1
+WGE,Walgett Airport,Walgett,Australia,0,0,0,1
+BRT,Bathurst Island Airport,Bathurst Island,Australia,0,0,0,1
+DKI,Dunk Island Airport,Dunk Island,Australia,0,0,0,1
+LZR,Lizard Island Airport,Lizard Island,Australia,0,0,0,1
+HLT,Hamilton Airport,Hamilton,Australia,0,0,0,1
+HCQ,Halls Creek Airport,Halls Creek,Australia,0,0,0,1
+FIZ,Fitzroy Crossing Airport,Fitzroy Crossing,Australia,0,0,0,1
+SBS,Steamboat Springs Bob Adams Field,Steamboat Springs,United States,0,0,0,1
+DTA,Delta Municipal Airport,Delta,United States,0,0,0,1
+PUC,Carbon County Regional/Buck Davis Field,Price,United States,0,0,0,1
+HII,Lake Havasu City Airport,Lake Havasu City,United States,0,0,0,1
+INW,Winslow Lindbergh Regional Airport,Winslow,United States,0,0,0,1
+DGL,Douglas Municipal Airport,Douglas,United States,0,0,0,1
+MZK,Marakei Airport,Marakei,Kiribati,0,0,0,1
+AEA,Abemama Atoll Airport,Abemama,Kiribati,0,0,0,1
+AAK,Buariki Airport,Buariki,Kiribati,0,0,0,1
+KUC,Kuria Airport,Kuria,Kiribati,0,0,0,1
+AIS,Arorae Island Airport,Arorae,Kiribati,0,0,0,1
+TMN,Tamana Island Airport,Tamana,Kiribati,0,0,0,1
+BEZ,Beru Airport,Beru Island,Kiribati,0,0,0,1
+NIG,Nikunau Airport,Nikunau,Kiribati,0,0,0,1
+BBG,Butaritari Atoll Airport,Butaritari,Kiribati,0,0,0,1
+MTK,Makin Island Airport,Makin,Kiribati,0,0,0,1
+MNK,Maiana Airport,Maiana,Kiribati,0,0,0,1
+NON,Nonouti Airport,Nonouti,Kiribati,0,0,0,1
+TSU,Tabiteuea South Airport,Tabiteuea,Kiribati,0,0,0,1
+WTZ,Whitianga Airport,Whitianga,New Zealand,0,0,0,1
+KTF,Takaka Airport,Takaka,New Zealand,0,0,0,1
+AFT,Afutara Aerodrome,Afutara,Solomon Islands,0,0,0,1
+XYA,Yandina Airport,Yandina,Solomon Islands,0,0,0,1
+BPF,Batuna Aerodrome,Batuna,Solomon Islands,0,0,0,1
+BOW,Bartow Municipal Airport,Bartow,United States,0,0,0,1
+FTI,Fitiuta Airport,Fiti\'uta,American Samoa,0,0,0,1
+LVK,Livermore Municipal Airport,Livermore,United States,0,0,0,1
+RMY,Mariposa Yosemite Airport,Mariposa,United States,0,0,0,1
+GFY,Grootfontein Airport,Grootfontein,Namibia,0,0,0,1
+TRM,Jacqueline Cochran Regional Airport,Palm Springs,United States,0,0,0,1
+SMO,Santa Monica Municipal Airport,Santa Monica,United States,0,0,0,1
+UDD,Bermuda Dunes Airport,Palm Springs,United States,0,0,0,1
+SCF,Scottsdale Airport,Scottsdale,United States,0,0,0,1
+OLM,Olympia Regional Airport,Olympia,United States,0,0,0,1
+RIL,Garfield County Regional Airport,Rifle,United States,0,0,0,1
+SAA,Shively Field,SARATOGA,United States,0,0,0,1
+PDK,DeKalb Peachtree Airport,Atlanta,United States,0,0,0,1
+BMG,Monroe County Airport,Bloomington,United States,0,0,0,1
+SUA,Witham Field,Stuart,United States,0,0,0,1
+APC,Napa County Airport,Napa,United States,0,0,0,1
+SDM,Brown Field Municipal Airport,San Diego,United States,0,0,0,1
+VNC,Venice Municipal Airport,Venice,United States,0,0,0,1
+PHK,Palm Beach County Glades Airport,Pahokee,United States,0,0,0,1
+SBD,San Bernardino International Airport,San Bernardino,United States,0,0,0,1
+VAL,Valença Airport,Valenca,Brazil,0,0,0,1
+CAU,Caruaru Airport,Caruaru,Brazil,0,0,0,1
+AWK,Wake Island Airfield,Wake island,Wake Island,0,0,0,1
+QNV,Aeroclube Airport,Nova Iguacu,Brazil,0,0,0,1
+SQL,San Carlos Airport,San Carlos,United States,0,0,0,1
+RWI,Rocky Mount Wilson Regional Airport,Rocky Mount,United States,0,0,0,1
+SXQ,Soldotna Airport,Soldotna,United States,0,0,0,1
+SEE,Gillespie Field,El Cajon,United States,0,0,0,1
+PHA,Phan Rang Airport,Phan Rang,Vietnam,0,0,0,1
+SQH,Na-San Airport,Son-La,Vietnam,0,0,0,1
+TKF,Truckee Tahoe Airport,Truckee,United States,0,0,0,1
+FRJ,Fréjus Airport,Frejus,France,0,0,0,1
+GEX,Geelong Airport,Geelong,Australia,0,0,0,1
+LVM,Mission Field,Livingston-Montana,United States,0,0,0,1
+GMV,Monument Valley Airport,Monument Valley,United States,0,0,0,1
+JRA,West 30th St. Heliport,New York,United States,0,0,0,1
+LAL,Lakeland Linder International Airport,Lakeland,United States,0,0,0,1
+SYH,Syangboche Airport,Syangboche,Nepal,0,0,0,1
+RBK,French Valley Airport,Murrieta-Temecula,United States,0,0,0,1
+FNU,Oristano-Fenosu Airport,Oristano,Italy,0,0,0,1
+MGY,Dayton-Wright Brothers Airport,Dayton,United States,0,0,0,1
+FDY,Findlay Airport,Findley,United States,0,0,0,1
+PEA,Penneshaw Airport,Penneshaw,Australia,0,0,0,1
+EMP,Emporia Municipal Airport,Kempten,Germany,0,0,0,1
+HYC,Wycombe Air Park,Wycombe,United Kingdom,0,0,0,1
+BBP,Bembridge Airport,Bembridge,United Kingdom,0,0,0,1
+SPF,Black Hills Airport-Clyde Ice Field,Spearfish-South Dakota,United States,0,0,0,1
+QYD,Oksywie Military Air Base,Gdynia,Poland,0,0,0,1
+OLV,Olive Branch Airport,Olive Branch,United States,0,0,0,1
+KNA,Viña del mar Airport,Vina del Mar,Chile,0,0,0,1
+BJC,Rocky Mountain Metropolitan Airport,Broomfield-CO,United States,0,0,0,1
+SLE,Salem Municipal Airport/McNary Field,Salem,United States,0,0,0,1
+UTM,Tunica Municipal Airport,Tunica,United States,0,0,0,1
+ZKB,Kasaba Bay Airport,Kasaba Bay,Zambia,0,0,0,1
+LND,Hunt Field,Lindau,Germany,0,0,0,1
+MWC,Lawrence J Timmerman Airport,Milwaukee,United States,0,0,0,1
+JVL,Southern Wisconsin Regional Airport,Janesville,United States,0,0,0,1
+LZU,Gwinnett County Briscoe Field,Lawrenceville,United States,0,0,0,1
+BWG,Bowling Green Warren County Regional Airport,Bowling Green,United States,0,0,0,1
+RVS,Richard Lloyd Jones Jr Airport,Tulsa,United States,0,0,0,1
+NHD,Al Minhad Air Base,Minhad AB,United Arab Emirates,0,0,0,1
+KGO,Kirovograd Airport,Kirovograd,Ukraine,0,0,0,1
+DBB,El Alamein International Airport,Dabaa City,Egypt,0,0,0,1
+BCE,Bryce Canyon Airport,Bryce Canyon,United States,0,0,0,1
+CKL,Chkalovskiy Air Base,Shchyolkovo,Russia,0,0,0,1
+OAZ,Camp Bastion Airport,Camp Bastion,Afghanistan,0,0,0,1
+JCI,New Century Aircenter Airport,Olathe,United States,0,0,0,1
+ESN,Easton Newnam Field,Easton,United States,0,0,0,1
+HMR,Stafsberg Airport,Hamar,Norway,0,0,0,1
+MYV,Yuba County Airport,Yuba City,United States,0,0,0,1
+DUC,Halliburton Field,Duncan,United States,0,0,0,1
+UVA,Garner Field,Uvalde,United States,0,0,0,1
+LOT,Lewis University Airport,Lockport,United States,0,0,0,1
+CCR,Buchanan Field,Concord,United States,0,0,0,1
+OCA,Ocean Reef Club Airport,Ocean Reef Club Airport,United States,0,0,0,1
+YOO,Toronto/Oshawa Executive Airport,Oshawa,Canada,0,0,0,1
+LHA,Lahr Airport,Lahr,Germany,0,0,0,1
+NYW,Monywar Airport,Monywa,Burma,0,0,0,1
+ATO,Ohio University Snyder Field,Athens,United States,0,0,0,1
+SGH,Springfield-Beckley Municipal Airport,Springfield,United States,0,0,0,1
+HEX,Herrera Airport,Santo Domingo,Dominican Republic,0,0,0,1
+CDA,Cooinda Airport,Cooinda,Australia,0,0,0,1
+JAB,Jabiru Airport,Jabiru,Australia,0,0,0,1
+HGS,Hastings Airport,Freetown,Sierra Leone,0,0,0,1
+TOP,Philip Billard Municipal Airport,Topeka,United States,0,0,0,1
+MQY,Smyrna Airport,Smyrna,United States,0,0,0,1
+UOS,Franklin County Airport,Sewanee,United States,0,0,0,1
+CSO,Cochstedt Airport,Cochstedt,Germany,0,0,0,1
+PWK,Chicago Executive Airport,Chicago-Wheeling,United States,0,0,0,1
+KLS,Southwest Washington Regional Airport,Kelso,United States,0,0,0,1
+ZTA,Tureia Airport,Tureia,French Polynesia,0,0,0,1
+KHC,Kerch Airport,Kerch,Ukraine,0,0,0,1
+ILN,Wilmington Airpark,Wilmington,United States,0,0,0,1
+AVW,Marana Regional Airport,Tucson,United States,0,0,0,1
+CGZ,Casa Grande Municipal Airport,Casa Grande,United States,0,0,0,1
+BXK,Buckeye Municipal Airport,Buckeye,United States,0,0,0,1
+MMI,McMinn County Airport,Athens,United States,0,0,0,1
+STK,Sterling Municipal Airport,Sterling,United States,0,0,0,1
+RWL,Rawlins Municipal Airport/Harvey Field,Rawlins,United States,0,0,0,1
+CDW,Essex County Airport,Caldwell,United States,0,0,0,1
+AIZ,Lee C Fine Memorial Airport,Kaiser Lake Ozark,United States,0,0,0,1
+TVI,Thomasville Regional Airport,Thomasville,United States,0,0,0,1
+HSH,Henderson Executive Airport,Henderson,United States,0,0,0,1
+GML,Gostomel Airport,Kiev,Ukraine,0,0,0,1
+TMA,Henry Tift Myers Airport,Tifton,United States,0,0,0,1
+RDO,Radom Airport,RADOM,Poland,0,0,0,1
+DVT,Phoenix Deer Valley Airport,Phoenix ,United States,0,0,0,1
+YRV,Revelstoke Airport,Revelstoke,Canada,0,0,0,1
+FRG,Republic Airport,Farmingdale,United States,0,0,0,1
+MCL,McKinley National Park Airport,McKinley Park,United States,0,0,0,1
+PPC,Prospect Creek Airport,Prospect Creek,United States,0,0,0,1
+KHW,Khwai River Lodge Airport,Khwai River,Botswana,0,0,0,1
+TXG,Taichung Airport,Taichung,Taiwan,0,0,0,1
+HLG,Wheeling Ohio County Airport,Wheeling,United States,0,0,0,1
+XYE,Ye Airport,Ye,Burma,0,0,0,1
+RKP,Aransas County Airport,Rockport,United States,0,0,0,1
+MVV,Megève Airport,Verdun,France,0,0,0,1
+MFX,Méribel Altiport,Ajaccio,France,0,0,0,1
+OKF,Okaukuejo Airport,Okaukuejo,Namibia,0,0,0,1
+OKU,Mokuti Lodge Airport,Mokuti Lodge,Namibia,0,0,0,1
+KOQ,Köthen Airport,Koethen,Germany,0,0,0,1
+PSH,St. Peter-Ording Airport,Sankt Peter-Ording,Germany,0,0,0,1
+TTD,Portland Troutdale Airport,Troutdale,United States,0,0,0,1
+HIO,Portland Hillsboro Airport,Hillsboro,United States,0,0,0,1
+KHT,Khost Airport,Khost,Afghanistan,0,0,0,1
+NMT,Namtu Airport,Naypyidaw,Burma,0,0,0,1
+BNO,Burns Municipal Airport,Burns,United States,0,0,0,1
+PRZ,Prineville Airport,Prineville,United States,0,0,0,1
+RBL,Red Bluff Municipal Airport,Red Bluff,United States,0,0,0,1
+NOT,Marin County Airport - Gnoss Field,Novato,United States,0,0,0,1
+LKV,Lake County Airport,Lakeview,United States,0,0,0,1
+OTK,Tillamook Airport,Tillamook,United States,0,0,0,1
+ONO,Ontario Municipal Airport,Ontario,United States,0,0,0,1
+DLS,Columbia Gorge Regional the Dalles Municipal Airport,The Dalles,United States,0,0,0,1
+GAI,Montgomery County Airpark,Gaithersburg,United States,0,0,0,1
+OAS,Sharana Airstrip,Sharona,Afghanistan,0,0,0,1
+YTA,Pembroke Airport,Pembroke,Canada,0,0,0,1
+TSB,Tsumeb Airport,Tsumeb,Namibia,0,0,0,1
+YSD,Suffield Heliport,Suffield,Canada,0,0,0,1
+BNU,Blumenau Airport,BLUMENAU,Brazil,0,0,0,1
+YCC,Cornwall Regional Airport,Cornwall,Canada,0,0,0,1
+MVL,Morrisville Stowe State Airport,Morrisville,United States,0,0,0,1
+RBD,Dallas Executive Airport,Dallas,United States,0,0,0,1
+BXY,Krainiy Airport,Baikonur,Kazakhstan,0,0,0,1
+WST,Westerly State Airport,Washington County,United States,0,0,0,1
+BID,Block Island State Airport,Block Island,United States,0,0,0,1
+BGE,Decatur County Industrial Air Park,Bainbridge,United States,0,0,0,1
+YBI,Black Tickle Airport,Black Tickle,Canada,0,0,0,1
+WHP,Whiteman Airport,Los Angeles,United States,0,0,0,1
+MAE,Madera Municipal Airport,Madera,United States,0,0,0,1
+GSI,Grand-Santi Airport,Grand-Santi,French Guiana,0,0,0,1
+MPY,Maripasoula Airport,Maripasoula,French Guiana,0,0,0,1
+LDX,Saint-Laurent-du-Maroni Airport,Saint-Laurent-du-Maroni,French Guiana,0,0,0,1
+KJI,Kanas Airport,Burqin,China,0,0,0,1
+CPB,Capurganá Airport,Capurgana,Colombia,0,0,0,1
+RVY,Presidente General Don Oscar D. Gestido International Airport,Rivera,Uruguay,0,0,0,1
+CAF,Carauari Airport,Carauari,Brazil,0,0,0,1
+CCI,Concórdia Airport,Concordia,Brazil,0,0,0,1
+FBE,Francisco Beltrão Airport,Francisco Beltrao,Brazil,0,0,0,1
+CFO,Confresa Airport,Confresa,Brazil,0,0,0,1
+AAF,Apalachicola Regional Airport,Apalachicola,United States,0,0,0,1
+UMU,Umuarama Airport,Umuarama,Brazil,0,0,0,1
+DTI,Diamantina Airport,Diamantina,Brazil,0,0,0,1
+FBA,Fonte Boa Airport,Fonte Boa,Brazil,0,0,0,1
+HUW,Humaitá Airport,Humaita,Brazil,0,0,0,1
+UNA,Hotel Transamérica Airport,Una,Brazil,0,0,0,1
+TEF,Telfer Airport,Telfer,Australia,0,0,0,1
+OAA,Shank Air Base,Shank,Afghanistan,0,0,0,1
+FPR,St Lucie County International Airport,Fort Pierce,United States,0,0,0,1
+PYM,Plymouth Municipal Airport,Plymouth,United States,0,0,0,1
+NCO,Quonset State Airport,North Kingstown,United States,0,0,0,1
+OWD,Norwood Memorial Airport,Norwood,United States,0,0,0,1
+BAF,Westfield-Barnes Regional Airport,Westfield,United States,0,0,0,1
+MGJ,Orange County Airport,Montgomery,United States,0,0,0,1
+HAR,Capital City Airport,Harrisburg,United States,0,0,0,1
+DXR,Danbury Municipal Airport,Danbury,United States,0,0,0,1
+ASH,Boire Field,Nashua,United States,0,0,0,1
+LWM,Lawrence Municipal Airport,Lawrence,United States,0,0,0,1
+OXC,Waterbury Oxford Airport,Oxford,United States,0,0,0,1
+RMG,Richard B Russell Airport,Rome,United States,0,0,0,1
+GAD,Northeast Alabama Regional Airport,Gadsden,United States,0,0,0,1
+WDR,Barrow County Airport,Winder,United States,0,0,0,1
+DNN,Dalton Municipal Airport,Dalton,United States,0,0,0,1
+LGC,LaGrange Callaway Airport,LaGrange,United States,0,0,0,1
+PIM,Harris County Airport,Pine Mountain,United States,0,0,0,1
+GVL,Lee Gilmer Memorial Airport,Gainesville,United States,0,0,0,1
+PHD,Harry Clever Field,New Philadelpha,United States,0,0,0,1
+DNL,Daniel Field,Augusta,United States,0,0,0,1
+MRN,Foothills Regional Airport,Morganton,United States,0,0,0,1
+PVL,Pike County-Hatcher Field,Pikeville,United States,0,0,0,1
+TOC,Toccoa Airport - R.G. Letourneau Field,Toccoa,United States,0,0,0,1
+PLV,Suprunovka Airport,Poltava,Ukraine,0,0,0,1
+WUU,Wau Airport,Wau,Sudan,0,0,0,1
+HUE,Humera Airport,Humera,Ethiopia,0,0,0,1
+OYL,Moyale Airport,Moyale,Kenya,0,0,0,1
+OZG,Zagora Airport,Zagora,Morocco,0,0,0,1
+WYE,Yengema Airport,Yengema,Sierra Leone,0,0,0,1
+GBK,Gbangbatok Airport,Gbangbatok,Sierra Leone,0,0,0,1
+AFW,Fort Worth Alliance Airport,Fort Worth,United States,0,0,0,1
+RMK,Renmark Airport,Renmark,Australia,0,0,0,1
+LGH,Leigh Creek Airport,Leigh Creek,Australia,0,0,0,1
+RTS,Rottnest Island Airport,Rottnest Island,Australia,0,0,0,1
+FOS,Forrest Airport,Forrest,Australia,0,0,0,1
+YSP,Marathon Airport,Marathon,Canada,0,0,0,1
+YHF,Hearst René Fontaine Municipal Airport,Hearst,Canada,0,0,0,1
+YHN,Hornepayne Municipal Airport,Hornepayne,Canada,0,0,0,1
+YKX,Kirkland Lake Airport,Kirkland Lake,Canada,0,0,0,1
+YMG,Manitouwadge Airport,Manitouwadge,Canada,0,0,0,1
+YXZ,Wawa Airport,Wawa,Canada,0,0,0,1
+YEM,Manitoulin East Municipal Airport,Manitowaning,Canada,0,0,0,1
+LWC,Lawrence Municipal Airport,Lawrence,United States,0,0,0,1
+PPM,Pompano Beach Airpark,Pompano Beach,United States,0,0,0,1
+XMC,Mallacoota Airport,Mallacoota,Australia,0,0,0,1
+YUE,Yuendumu Airport,Yuendumu ,Australia,0,0,0,1
+ZMH,South Cariboo Region / 108 Mile Airport,108 Mile Ranch,Canada,0,0,0,1
+LOZ,London-Corbin Airport/Magee Field,London,United States,0,0,0,1
+FBG,Simmons Army Air Field,Fredericksburg,United States,0,0,0,1
+JDG,Jeongseok Airport,Seogwipo,South Korea,0,0,0,1
+YGM,Gimli Industrial Park Airport,Gimli,Canada,0,0,0,1
+RAC,John H Batten Airport,Racine,United States,0,0,0,1
+RZP,Cesar Lim Rodriguez Airport,Taytay,Philippines,0,0,0,1
+RKZ,Shigatse Air Base,Shigatse,China,0,0,0,1
+TIW,Tacoma Narrows Airport,Tacoma,United States,0,0,0,1
+GUF,Jack Edwards Airport,Gulf Shores,United States,0,0,0,1
+IBB,General Villamil Airport,Isabela,Ecuador,0,0,0,1
+HMJ,Khmelnytskyi Airport,Khmeinitskiy,Ukraine,0,0,0,1
+HIW,Hiroshimanishi Airport,Hiroshima,Japan,0,0,0,1
+KYI,Yalata Mission Airport,Yalata,Australia,0,0,0,1
+HZL,Hazleton Municipal Airport,Hazleton,United States,0,0,0,1
+CBE,Greater Cumberland Regional Airport,Cumberland,United States,0,0,0,1
+WYN,Wyndham Airport,Wyndham,Australia,0,0,0,1
+YBO,Bob Quinn Lake Airport,Bob Quinn Lake,Canada,0,0,0,1
+KLF,Grabtsevo Airport,Kaluga,Russia,0,0,0,1
+LNR,Tri-County Regional Airport,Lone Rock,United States,0,0,0,1
+JOT,Joliet Regional Airport,Joliet,United States,0,0,0,1
+VYS,Illinois Valley Regional Airport-Walter A Duncan Field,Peru,United States,0,0,0,1
+JXN,Jackson County Reynolds Field,Jackson,United States,0,0,0,1
+BBX,Wings Field,Philadelphia,United States,0,0,0,1
+OBE,Okeechobee County Airport,Okeechobee,United States,0,0,0,1
+SEF,Sebring Regional Airport,Sebring,United States,0,0,0,1
+AVO,Avon Park Executive Airport,Avon Park,United States,0,0,0,1
+GIF,Winter Haven Regional Airport - Gilbert Field,Winter Haven,United States,0,0,0,1
+ZPH,Zephyrhills Municipal Airport,Zephyrhills,United States,0,0,0,1
+OCF,Ocala International Airport - Jim Taylor Field,Ocala,United States,0,0,0,1
+AIK,Aiken Regional Airport,Aiken,United States,0,0,0,1
+CDN,Woodward Field,Camden,United States,0,0,0,1
+LBT,Lumberton Regional Airport,Lumberton,United States,0,0,0,1
+SOP,Moore County Airport,Pinehurst-Southern Pines,United States,0,0,0,1
+SVH,Statesville Regional Airport,Statesville,United States,0,0,0,1
+LHV,William T. Piper Memorial Airport,Lock Haven,United States,0,0,0,1
+BKL,Burke Lakefront Airport,Cleveland,United States,0,0,0,1
+DKK,Chautauqua County-Dunkirk Airport,Dunkirk,United States,0,0,0,1
+LLY,South Jersey Regional Airport,Mount Holly,United States,0,0,0,1
+LDJ,Linden Airport,Linden,United States,0,0,0,1
+ANQ,Tri State Steuben County Airport,Angola,United States,0,0,0,1
+CLW,Clearwater Air Park,Clearwater,United States,0,0,0,1
+CGX,Chicago Meigs Airport,Chicago,United States,0,0,0,1
+CRE,Grand Strand Airport,North Myrtle Beach,United States,0,0,0,1
+BXO,Buochs Airport,Buochs,Switzerland,0,0,0,1
+WBW,Wilkes Barre Wyoming Valley Airport,Wilkes-Barre,United States,0,0,0,1
+LNN,Willoughby Lost Nation Municipal Airport,Willoughby,United States,0,0,0,1
+FFT,Capital City Airport,Frankfort,United States,0,0,0,1
+LEW,Auburn Lewiston Municipal Airport,Lewiston,United States,0,0,0,1
+MRK,Marco Island Executive Airport,Marco Island Airport,United States,0,0,0,1
+DRE,Drummond Island Airport,Drummond Island,United States,0,0,0,1
+GDW,Gladwin Zettel Memorial Airport,Gladwin,United States,0,0,0,1
+MFI,Marshfield Municipal Airport,Marshfield,United States,0,0,0,1
+ISW,Alexander Field South Wood County Airport,Wisconsin Rapids,United States,0,0,0,1
+CWI,Clinton Municipal Airport,Clinton,United States,0,0,0,1
+BVY,Beverly Municipal Airport,Beverly,United States,0,0,0,1
+OSF,Ostafyevo International Airport,Moscow,Russia,0,0,0,1
+YRQ,Trois-Rivières Airport,Trois Rivieres,Canada,0,0,0,1
+POF,Poplar Bluff Municipal Airport,Poplar Bluff,United States,0,0,0,1
+EOK,Keokuk Municipal Airport,Keokuk,United States,0,0,0,1
+PSL,Perth/Scone Airport,Perth,United Kingdom,0,0,0,1
+STP,St Paul Downtown Holman Field,St. Paul,United States,0,0,0,1
+SOO,Söderhamn Airport,Soderhamn,Sweden,0,0,0,1
+VNA,Saravane Airport,Saravane,Laos,0,0,0,1
+DKS,Dikson Airport,Dikson,Russia,0,0,0,1
+BYT,Bantry Aerodrome,Bantry,Ireland,0,0,0,1
+ADY,Alldays Airport,Alldays,South Africa,0,0,0,1
+HAO,Butler Co Regional Airport - Hogan Field,Hamilton,United States,0,0,0,1
+GAS,Garissa Airport,Garissa,Kenya,0,0,0,1
+HOA,Hola Airport,Hola,Kenya,0,0,0,1
+KEY,Kericho Airport,Kericho,Kenya,0,0,0,1
+ILU,Kilaguni Airport,Kilaguni,Kenya,0,0,0,1
+ATJ,Antsirabe Airport,Antsirabe,Madagascar,0,0,0,1
+OVA,Bekily Airport,Bekily,Madagascar,0,0,0,1
+FLD,Fond du Lac County Airport,Fond du Lac,United States,0,0,0,1
+STE,Stevens Point Municipal Airport,Stevens Point,United States,0,0,0,1
+PEF,Peenemünde Airport,Peenemunde,Germany,0,0,0,1
+CJN,Nusawiru Airport,Nusawiru,Indonesia,0,0,0,1
+GQQ,Galion Municipal Airport,Galion,United States,0,0,0,1
+TPN,Tiputini Airport,Tiputini,Ecuador,0,0,0,1
+PTZ,Rio Amazonas Airport,Pastaza,Ecuador,0,0,0,1
+CKV,Clarksville–Montgomery County Regional Airport,Clarksville,United States,0,0,0,1
+LPC,Lompoc Airport,Lompoc,United States,0,0,0,1
+CTH,Chester County G O Carlson Airport,Coatesville,United States,0,0,0,1
+BST,Bost Airport,Lashkar Gah,Afghanistan,0,0,0,1
+ZTU,Zaqatala International Airport,Zaqatala,Azerbaijan,0,0,0,1
+LKP,Lake Placid Airport,Lake Placid,United States,0,0,0,1
+KDY,Typliy Klyuch Airport,Khandyga,Russia,0,0,0,1
+GYG,Magan Airport,Yakutsk,Russia,0,0,0,1
+AOH,Lima Allen County Airport,Lima,United States,0,0,0,1
+DSO,Sondok Airport,Hamhung,North Korea,0,0,0,1
+SSI,Malcolm McKinnon Airport,Brunswick,United States,0,0,0,1
+BFP,Beaver County Airport,Beaver Falls,United States,0,0,0,1
+GGE,Georgetown County Airport,Georgetown,United States,0,0,0,1
+HDI,Hardwick Field,Cleveland,United States,0,0,0,1
+RNT,Renton Municipal Airport,Renton,United States,0,0,0,1
+POC,Brackett Field,La Verne,United States,0,0,0,1
+CTY,Cross City Airport,Cross City,United States,0,0,0,1
+CEU,Oconee County Regional Airport,Clemson,United States,0,0,0,1
+BEC,Beech Factory Airport,Wichita,United States,0,0,0,1
+QFO,Duxford Aerodrome,Duxford,United Kingdom,0,0,0,1
+SNY,Sidney Municipal-Lloyd W Carr Field,Sidney,United States,0,0,0,1
+GKL,Great Keppel Is Airport,Great Keppel Island,Australia,0,0,0,1
+RPB,Roper Bar Airport,Roper Bar,Australia,0,0,0,1
+IFL,Innisfail Airport,Innisfail,Australia,0,0,0,1
+JRF,Kalaeloa Airport,Kapolei,United States,0,0,0,1
+BIN,Bamiyan Airport,Bamyan,Afghanistan,0,0,0,1
+RGO,Orang Airport,Chongjin,North Korea,0,0,0,1
+MOO,Moomba Airport,Moomba,Australia,0,0,0,1
+ECA,Iosco County Airport,East Tawas,United States,0,0,0,1
+VAM,Villa Airport,Maamigili,Maldives,0,0,0,1
+LSZ,Lošinj Island Airport,Mali Losinj,Croatia,0,0,0,1
+ONS,Onslow Airport,Onslow,Australia,0,0,0,1
+TDR,Theodore Airport,Theodore,Australia,0,0,0,1
+WBU,Boulder Municipal Airport,Boulder,United States,0,0,0,1
+BBJ,Bitburg Airport,Birburg,Germany,0,0,0,1
+PAO,Palo Alto Airport of Santa Clara County,Palo Alto,United States,0,0,0,1
+USR,Ust-Nera Airport,Ust-Nera,Russia,0,0,0,1
+MSC,Falcon Field,Mesa,United States,0,0,0,1
+PTK,Oakland County International Airport,Pontiac,United States,0,0,0,1
+KSI,Kissidougou Airport,Kissidougou,Guinea,0,0,0,1
+EEN,Dillant Hopkins Airport,Keene,United States,0,0,0,1
+THQ,Tianshui Maijishan Airport,Tianshui,China,0,0,0,1
+VRO,Kawama Airport,Kawama,Cuba,0,0,0,1
+RCS,Rochester Airport,Rochester,United Kingdom,0,0,0,1
+KMP,Keetmanshoop Airport,Keetmanshoop,Namibia,0,0,0,1
+IOW,Iowa City Municipal Airport,Iowa City,United States,0,0,0,1
+TLQ,Turpan Jiaohe Airport,Turpan,China,0,0,0,1
+ANP,Lee Airport,Annapolis,United States,0,0,0,1
+FXO,Cuamba Airport,Cuamba,Mozambique,0,0,0,1
+ZTR,Zhytomyr Airport,Zhytomyr,Ukraine,0,0,0,1
+PEQ,Pecos Municipal Airport,Pecos,United States,0,0,0,1
+HBG,Hattiesburg Bobby L Chain Municipal Airport,Hattiesburg,United States,0,0,0,1
+QCJ,Botucatu - Tancredo de Almeida Neves Airport,Botucatu,Brazil,0,0,0,1
+QSC,Mário Pereira Lopes–São Carlos Airport,Sao Carlos,Brazil,0,0,0,1
+YKN,Chan Gurney Municipal Airport,Yankton,United States,0,0,0,1
+ZBM,Bromont (Roland Desourdy) Airport,Bromont,Canada,0,0,0,1
+KTI,Kratie Airport,Kratie,Cambodia,0,0,0,1
+GYU,Guyuan Liupanshan Airport,Guyuan,China,0,0,0,1
+CNI,Changhai Airport,Changhai,China,0,0,0,1
+KRH,Redhill Aerodrome,Redhill,United Kingdom,0,0,0,1
+CCL,Chinchilla Airport,Chinchilla,Australia,0,0,0,1
+HWD,Hayward Executive Airport,Hayward,United States,0,0,0,1
+MZP,Motueka Airport,Motueka,New Zealand,0,0,0,1
+JHQ,Shute Harbour Airport,Shute Harbour,Australia,0,0,0,1
+ARB,Ann Arbor Municipal Airport,Ann Arbor,United States,0,0,0,1
+SHT,Shepparton Airport,Shepparton,Australia,0,0,0,1
+TEM,Temora Airport,Temora,Australia,0,0,0,1
+GAH,Gayndah Airport,Gayndah,Australia,0,0,0,1
+WIO,Wilcannia Airport,Wilcannia,Australia,0,0,0,1
+KVR,Kavalerovo Airport,Kavalerovo,Russia,0,0,0,1
+VLU,Velikiye Luki Airport,Velikiye Luki,Russia,0,0,0,1
+BEO,Lake Macquarie Airport,Lake Macquarie,Australia,0,0,0,1
+BMP,Brampton Island Airport,Brampton Island,Australia,0,0,0,1
+NGZ,Alameda Naval Air Station,Alameda,United States,0,0,0,1
+YCN,Cochrane Airport,Cochrane,Canada,0,0,0,1
+BJP,Estadual Arthur Siqueira Airport,Braganca Paulista,Brazil,0,0,0,1
+SEK,Srednekolymsk Airport,Srednekolymsk,Russia,0,0,0,1
+IVR,Inverell Airport,Inverell,Australia,0,0,0,1
+GLI,Glen Innes Airport,Glen Innes,Australia,0,0,0,1
+IMM,Immokalee Regional Airport,Immokalee ,United States,0,0,0,1
+TQQ,Maranggo Airport,Sulawesi Tenggara,Indonesia,0,0,0,1
+PTB,Dinwiddie County Airport,Petersburg,United States,0,0,0,1
+SBM,Sheboygan County Memorial Airport,Sheboygan,United States,0,0,0,1
+KFE,Fortescue - Dave Forrest Aerodrome,Cloudbreak,Australia,0,0,0,1
+BJU,Bajura Airport,Bajura,Nepal,0,0,0,1
+MZJ,Pinal Airpark,Marana,United States,0,0,0,1
+SAD,Safford Regional Airport,Safford,United States,0,0,0,1
+SLJ,Solomon Airport,Solomon,Australia,0,0,0,1
+KJP,Kerama Airport,Kerama,Japan,0,0,0,1
+EKB,Ekibastuz Airport,Ekibastuz,Kazakhstan,0,0,0,1
+SIK,Sikeston Memorial Municipal Airport,Sikeston,United States,0,0,0,1
+TTI,Tetiaroa Airport,Tetiaroa,French Polynesia,0,0,0,1
+GFL,Floyd Bennett Memorial Airport,Queensbury,United States,0,0,0,1
+MTN,Martin State Airport,Baltimore,United States,0,0,0,1
+FRY,Eastern Slopes Regional Airport,Fryeburg,United States,0,0,0,1
+NEW,Lakefront Airport,New Orleans,United States,0,0,0,1
+COE,Coeur D'Alene - Pappy Boyington Field,Coeur d'Alene,United States,0,0,0,1
+BMT,Beaumont Municipal Airport,Beaumont,United States,0,0,0,1
+DNV,Vermilion Regional Airport,Danville,United States,0,0,0,1
+COJ,Coonabarabran Airport,Coonabarabran,Australia,0,0,0,1
+TIX,Space Coast Regional Airport,Titusville,United States,0,0,0,1
+BZH,Bumi Airport,Bumi Hills,Zimbabwe,0,0,0,1
+UAR,Bouarfa Airport,Bouarfa,Morocco,0,0,0,1
+NYE,Nyeri Airport,NYERI,Kenya,0,0,0,1
+AAP,Andrau Airpark,Houston,United States,0,0,0,1
+FCM,Flying Cloud Airport,Eden Prairie,United States,0,0,0,1
+LIX,Likoma Island Airport,Likoma Island,Malawi,0,0,0,1
+OJC,Johnson County Executive Airport,Olathe,United States,0,0,0,1
+EUM,Neumünster Airport,Neumuenster,Germany,0,0,0,1
+TKT,Tak Airport,Tak,Thailand,0,0,0,1
+YLK,Barrie-Orillia (Lake Simcoe Regional Airport),Barrie-Orillia,Canada,0,0,0,1
+YCM,Niagara District Airport,Saint Catherines,Canada,0,0,0,1
+YPD,Parry Sound Area Municipal Airport,Parry Sound,Canada,0,0,0,1
+MNZ,Manassas Regional Airport/Harry P. Davis Field,Manassas,United States,0,0,0,1
+LJN,Texas Gulf Coast Regional Airport,Angleton,United States,0,0,0,1
+LLV,Lüliang Airport,Lvliang,China,0,0,0,1
+KVM,Markovo Airport,Markovo,Russia,0,0,0,1
+ZKP,Zyryanka Airport,Zyryanka,Russia,0,0,0,1
+UMS,Ust-Maya Airport,Ust-Maya,Russia,0,0,0,1
+ADH,Aldan Airport,Aldan,Russia,0,0,0,1
+OLZ,Olyokminsk Airport,Olekminsk,Russia,0,0,0,1
+PTA,Port Alsworth Airport,Port alsworth,United States,0,0,0,1
+BOR,Fontaine Airport,Belfort,France,0,0,0,1
+OBC,Obock Airport,Obock,Djibouti,0,0,0,1
+TDJ,Tadjoura Airport,Tadjoura,Djibouti,0,0,0,1
+AQB,Santa Cruz del Quiche Airport,Santa Cruz des Quiche,Guatemala,0,0,0,1
+NOR,Norðfjörður Airport,Nordfjordur,Iceland,0,0,0,1
+BTZ,Bursa Airport,Bursa,Turkey,0,0,0,1
+WAR,Waris Airport,Waris-Papua Island,Indonesia,0,0,0,1
+EWK,Newton City-County Airport,Newton,United States,0,0,0,1
+BSJ,Bairnsdale Airport,Bairnsdale,Australia,0,0,0,1
+TZR,Taszár Air Base,Columbus,United States,0,0,0,1
+FBR,Fort Bridger Airport,Fort Bridger,United States,0,0,0,1
+CLS,Chehalis Centralia Airport,Chehalis,United States,0,0,0,1
+EVW,Evanston-Uinta County Airport-Burns Field,Evanston,United States,0,0,0,1
+EUF,Weedon Field,Eufala,United States,0,0,0,1
+MEO,Dare County Regional Airport,Manteo,United States,0,0,0,1
+AUO,Auburn University Regional Airport,Auburn,United States,0,0,0,1
+DBN,W H 'Bud' Barron Airport,Dublin,United States,0,0,0,1
+PUK,Pukarua Airport,Pukarua,French Polynesia,0,0,0,1
+CVO,Corvallis Municipal Airport,Corvallis,United States,0,0,0,1
+PXH,Prominent Hill Airport,Prominent Hill,Australia,0,0,0,1
+CWT,Cowra Airport,Chatsworth,Australia,0,0,0,1
+AKO,Colorado Plains Regional Airport,Akron,United States,0,0,0,1
+SHN,Sanderson Field,Shelton,United States,0,0,0,1
+YBW,Bedwell Harbour Seaplane Base,Bedwell Harbour,Canada,0,0,0,1
+WSO,Washabo Airport,Washabo,Suriname,0,0,0,1
+WKR,Abaco I Walker C Airport,Walker's Cay,Bahamas,0,0,0,1
+GFO,Bartica A Airport,Bartica,Guyana,0,0,0,1
+DYL,Doylestown Airport,Doylestown,United States,0,0,0,1
+TJL,Plínio Alarcom Airport,Tres Lagoas,Brazil,0,0,0,1
+OCW,Warren Field,Washington,United States,0,0,0,1
+SWO,Stillwater Regional Airport,Stillwater,United States,0,0,0,1
+OKM,Okmulgee Regional Airport,Okmulgee,United States,0,0,0,1
+CUH,Cushing Municipal Airport,Cushing,United States,0,0,0,1
+CSM,Clinton Sherman Airport,Clinton,United States,0,0,0,1
+WLD,Strother Field,Winfield,United States,0,0,0,1
+PWA,Wiley Post Airport,Oklahoma City,United States,0,0,0,1
+DTN,Shreveport Downtown Airport,Shreveport,United States,0,0,0,1
+SEP,Stephenville Clark Regional Airport,Stephenville,United States,0,0,0,1
+ADT,Ada Regional Airport,Ada,United States,0,0,0,1
+IRB,Iraan Municipal Airport,Iraan,United States,0,0,0,1
+YEL,Elliot Lake Municipal Airport,ELLIOT LAKE,Canada,0,0,0,1
+IKB,Wilkes County Airport,North Wilkesboro,United States,0,0,0,1
+DAN,Danville Regional Airport,Danville,United States,0,0,0,1
+ERG,Yerbogachen Airport,Yerbogachen,Russia,0,0,0,1
+HCW,Cheraw Municipal Airport/Lynch Bellinger Field,Cheraw,United States,0,0,0,1
+BEM,Beni Mellal Airport,Beni Mellal,Morocco,0,0,0,1
+NKT,Şırnak Şerafettin Elçi Airport,Cizre,Turkey,0,0,0,1
+SUY,Suntar Airport,Suntar,Russia,0,0,0,1
+SGX,Songea Airport,Songea,Tanzania,0,0,0,1
+KSS,Sikasso Airport,Sikasso,Mali,0,0,0,1
+WTB,Toowoomba Wellcamp Airport,Toowoomba,Australia,0,0,0,1
+TNH,Tonghua Sanyuanpu Airport,Tonghua,China,0,0,0,1
+SZV,Suzhou Guangfu Airport,Suzhou,China,0,0,0,1
+LII,Mulia Airport,Mulia,Indonesia,0,0,0,1
+NTI,Stenkol Airport,Bintuni,Indonesia,0,0,0,1
+WSR,Wasior Airport,Wasior,Indonesia,0,0,0,1
+DTB,Silangit Airport,Siborong-Borong,Indonesia,0,0,0,1
+MEQ,Seunagan Airport,Nagan Raya,Indonesia,0,0,0,1
+SGQ,Sanggata/Sangkimah Airport,Sanggata,Indonesia,0,0,0,1
+BUU,Muara Bungo Airport,Muara Bungo,Indonesia,0,0,0,1
+ILA,Illaga Airport,Illaga,Indonesia,0,0,0,1
+KOX,Kokonau Airport,Kokonau,Indonesia,0,0,0,1
+CMQ,Clermont Airport,Clermont,Australia,0,0,0,1
+WMB,Warrnambool Airport,Warrnambool,Australia,0,0,0,1
+KNO,Kualanamu International Airport,Medan,Indonesia,0,0,0,1
+AMN,Gratiot Community Airport,Kamloops,Canada,0,0,0,1
+HMY,Seosan Air Base,Seosan,South Korea,0,0,0,1
+EMT,San Gabriel Valley Airport,El Monte,United States,0,0,0,1
+FAH,Farah Airport,Farah,Afghanistan,0,0,0,1
+IXT,Pasighat Airport,Pasighat,India,0,0,0,1
+KRQ,Kramatorsk Airport,Kramatorsk,Ukraine,0,0,0,1
+QKX,Kautokeino Air Base,Kautokeino,Norway,0,0,0,1
+SSF,Stinson Municipal Airport,Stinson,United States,0,0,0,1
+JAS,Jasper County Airport-Bell Field,Jasper,United States,0,0,0,1
+MRF,Marfa Municipal Airport,Marfa,United States,0,0,0,1
+ALE,Alpine Casparis Municipal Airport,Alpine,United States,0,0,0,1
+BQE,Bubaque Airport,Bubaque,Guinea-Bissau,0,0,0,1
+CZA,Chichen Itza International Airport,Chichen Itza,Mexico,0,0,0,1
+BUY,Bunbury Airport,Bunbury,Australia,0,0,0,1
+CCB,Cable Airport,Upland,United States,0,0,0,1
+EKI,Elkhart Municipal Airport,Elkhart,United States,0,0,0,1
+CUB,Jim Hamilton L.B. Owens Airport,Columbia,United States,0,0,0,1
+GDC,Donaldson Field Airport,Greenville,United States,0,0,0,1
+HVS,Hartsville Regional Airport,Hartsville,United States,0,0,0,1
+SZT,San Cristobal de las Casas Airport,San Cristobal de las Casas,Mexico,0,0,0,1
+DU9,Dunnville Airport,Dunnville,Canada,0,0,0,1
+RIH,Scarlett Martinez International Airport,Rio Hato,Panama,0,0,0,1
+LEE,Leesburg International Airport,Leesburg,United States,0,0,0,1
+PPY,Pouso Alegre Airport,Pouso Alegre,Brazil,0,0,0,1
+DIQ,Brigadeiro Cabral Airport,Divinopolis,Brazil,0,0,0,1
+EIK,Yeysk Airport,Eysk,Russia,0,0,0,1
+ERD,Berdyansk Airport,Berdyansk,Ukraine,0,0,0,1
+BWX,Blimbingsari Airport,Banyuwangi,Indonesia,0,0,0,1
+CNO,Chino Airport,Chino,United States,0,0,0,1
+HTR,Hateruma Airport,Taketomi,Japan,0,0,0,1
+BWW,Las Brujas Airport,Cayo Santa Maria,Cuba,0,0,0,1
+PRB,Paso Robles Municipal Airport,Paso Robles,United States,0,0,0,1
+PKX,Beijing Daxing International Airport,Beijing,China,0,0,0,1
+HAF,Half Moon Bay Airport,Half Moon Bay,United States,0,0,0,1
+HCJ,Hechi Jinchengjiang Airport,Hechi,China,0,0,0,1
+WJF,General WM J Fox Airfield,Lancaster,United States,0,0,0,1
+CJF,Coondewanna Airport,Coondewanna,Australia,0,0,0,1
+GUZ,Guarapari Airport,Guarapari,Brazil,0,0,0,1
+UBT,Ubatuba Airport,Ubatuba,Brazil,0,0,0,1
+BOX,Borroloola Airport,Borroloola,Australia,0,0,0,1
+QUG,Chichester/Goodwood Airport,Goodwood,United Kingdom,0,0,0,1
+FYJ,Dongji Aiport,Fuyuan,China,0,0,0,1
+PZL,Zulu Inyala Airport,Phinda,South Africa,0,0,0,1
+LPF,Liupanshui Yuezhao Airport,Liupanshui,China,0,0,0,1
+KJH,Kaili Airport,Kaili,China,0,0,0,1
+HPG,Shennongjia Hongping Airport,Shennongjia,China,0,0,0,1
+HNY,Hengyang Nanyue Airport,Hengyang,China,0,0,0,1
+AHJ,Hongyuan Airport,Ngawa,China,0,0,0,1
+WOS,Wonsan Kalma International Airport,Wonsan,North Korea,0,0,0,1
+IGT,Magas Airport,Magas,Russia,0,0,0,1
+ASN,Talladega Municipal Airport,Talladega,United States,0,0,0,1
+GMU,Greenville Downtown Airport,Greenville,United States,0,0,0,1
+NGD,Captain Auguste George Airport,Anegada,British Virgin Islands,0,0,0,1
+TOI,Troy Municipal Airport at N Kenneth Campbell Field,Troy,United States,0,0,0,1
+ETS,Enterprise Municipal Airport,Enterprise,United States,0,0,0,1
+EFG,Efogi Airport,Efogi,Papua New Guinea,0,0,0,1
+KGW,Kagi Airport,Kagi,Papua New Guinea,0,0,0,1
+NDN,Nadunumu Airport,Nadunumu,Papua New Guinea,0,0,0,1
+BNM,Bodinumu Airport,Bodinumu,Papua New Guinea,0,0,0,1
+ALX,Thomas C Russell Field,Alexander City,United States,0,0,0,1
+PKT,Port Keats Airport,Wadeye,Australia,0,0,0,1
+GPN,Garden Point Airport,Pirlangimpi,Australia,0,0,0,1
+HZP,Fort Mackay / Horizon Airport,Wood Buffalo,Canada,0,0,0,1
+HDE,Brewster Field,Holdredge,United States,0,0,0,1
+PTT,Pratt Regional Airport,Pratt,United States,0,0,0,1
+LXN,Jim Kelly Field,Lexington,United States,0,0,0,1
+CBF,Council Bluffs Municipal Airport,Council Bluffs,United States,0,0,0,1
+OKK,Kokomo Municipal Airport,Kokomo,United States,0,0,0,1
+GBG,Galesburg Municipal Airport,Galesburg,United States,0,0,0,1
+GUY,Guymon Municipal Airport,Guymon,United States,0,0,0,1
+IDP,Independence Municipal Airport,Independence,United States,0,0,0,1
+BBC,Bay City Municipal Airport,Bay City,United States,0,0,0,1
+PRX,Cox Field,Paris,United States,0,0,0,1
+CFV,Coffeyville Municipal Airport,Coffeyville,United States,0,0,0,1
+GXY,Greeley–Weld County Airport,Greeley,United States,0,0,0,1
+OEL,Oryol Yuzhny Airport,Oakley,United States,0,0,0,1
+FET,Fremont Municipal Airport,Fremont,United States,0,0,0,1
+LGD,La Grande/Union County Airport,La Grande,United States,0,0,0,1
+SZY,Olsztyn-Mazury Airport,Szczytno-Szymany,Poland,0,0,0,1
+MPO,Pocono Mountains Municipal Airport,Mount Pocono,United States,0,0,0,1
+UKT,Quakertown Airport,Quakertown,United States,0,0,0,1
+YBA,Banff Airport,Banff,Canada,0,0,0,1
+BNG,Banning Municipal Airport,Banning,United States,0,0,0,1
+OFK,Karl Stefan Memorial Airport,Norfolk  Nebraska,United States,0,0,0,1
+TFL,Juscelino Kubitscheck Airport,Teofilo Otoni,Brazil,0,0,0,1
+TPF,Peter O Knight Airport,Tampa,United States,0,0,0,1
+BZC,Umberto Modiano Airport,Buzios,Brazil,0,0,0,1
+ITP,Itaperuna Airport,Itaperuna,Brazil,0,0,0,1
+REZ,Resende Airport,Resende,Brazil,0,0,0,1
+KBN,Tunta Airport,Kabinda,Congo (Kinshasa),0,0,0,1
+IKL,Ikela Airport,Ikela,Congo (Kinshasa),0,0,0,1
+AIR,Aripuanã Airport,Aripuana,Brazil,0,0,0,1
+JRN,Juruena Airport,Juruena,Brazil,0,0,0,1
+JIA,Juína Airport,Juina,Brazil,0,0,0,1
+VLP,Vila Rica Airport,Vila Rica,Brazil,0,0,0,1
+JUA,Inácio Luís do Nascimento Airport,Juara,Brazil,0,0,0,1
+CCX,Cáceres Airport,Caceres,Brazil,0,0,0,1
+TGQ,Tangará da Serra Airport,Tangara da Serra,Brazil,0,0,0,1
+CQA,Canarana Airport,Canarana,Brazil,0,0,0,1
+MTG,Vila Bela da Santíssima Trindade Airport,Vila Bela da Santissima Trindade ,Brazil,0,0,0,1
+BMB,Bumbar Airport,Bumba,Congo (Kinshasa),0,0,0,1
+APQ,Arapiraca Airport,Arapiraca,Brazil,0,0,0,1
+FLB,Cangapara Airport,Floriano,Brazil,0,0,0,1
+PCS,Picos Airport,Picos,Brazil,0,0,0,1
+MTP,Montauk Airport,Montauk,United States,0,0,0,1
+VPZ,Porter County Municipal Airport,Valparaiso IN,United States,0,0,0,1
+MLZ,Cerro Largo International Airport,Melo,Uruguay,0,0,0,1
+PDU,Tydeo Larre Borges Airport,Paysandu,Uruguay,0,0,0,1
+ATI,Artigas International Airport,Artigas ,Uruguay,0,0,0,1
+HSM,Horsham Airport,Horsham,Australia,0,0,0,1
+SWH,Swan Hill Airport,Swan Hill,Australia,0,0,0,1
+TTL,Turtle Island Seaplane Base,Turtle Island,Fiji,0,0,0,1
+KWB,Dewadaru - Kemujan Island,Karimunjawa,Indonesia,0,0,0,1
+AOU,Attopeu Airport,Attopeu,Laos,0,0,0,1
+SQX,São Miguel do Oeste Airport,Sao Miguel do Oeste,Brazil,0,0,0,1
+LDM,Mason County Airport,Ludington,United States,0,0,0,1
+RHV,Reid-Hillview Airport of Santa Clara County,San Jose,United States,0,0,0,1
+OHS,Sohar Airport,Sohar,Oman,0,0,0,1
+KCF,Kadanwari Airport,Kadanwari,Pakistan,0,0,0,1
+RZS,Sawan Airport,Sindh,Pakistan,0,0,0,1
+TMF,Thimarafushi Airport,Thimarafushi,Maldives,0,0,0,1
+IFU,Ifuru Airport,Ifuru,Maldives,0,0,0,1
+KZF,Kaintiba Airport,Kieta,Papua New Guinea,0,0,0,1
+OGU,Ordu Giresun Airport,Ordu-Giresun,Turkey,0,0,0,1
+YKO,Hakkari Yüksekova Airport,Hakkari,Turkey,0,0,0,1
+BUT,Bathpalathang Airport,Jakar,Bhutan,0,0,0,1
+TLI,Sultan Bantilan Airport,Toli-Toli,Indonesia,0,0,0,1
+FYN,Fuyun Koktokay Airport,Fuyun,China,0,0,0,1
+ACS,Achinsk Airport,Achinsk,Russia,0,0,0,1
+LFQ,Linfen Qiaoli Airport,LINFEN,China,0,0,0,1
+YJP,Hinton/Jasper-Hinton Airport,Hinton,Canada,0,0,0,1
+WVI,Watsonville Municipal Airport,Watsonville,United States,0,0,0,1
+GLU,Gelephu Airport,Gelephu,Bhutan,0,0,0,1
+HLI,Hollister Municipal Airport,Hollister,United States,0,0,0,1
+DLK,Dulkaninna Airport,Dulkaninna,Australia,0,0,0,1
+YBS,Opapimiskan Lake Airport,Musselwhite Mine,Canada,0,0,0,1
+RIZ,Rizhao Shanzihe Airport,Rizhao,China,0,0,0,1
+SQJ,Shaxian Airport,Sanming,China,0,0,0,1
+XTO,Taroom Airport,Taroom,Australia,0,0,0,1
+YSE,Squamish Airport,Squamish,Canada,0,0,0,1
+YAH,La Grande-4 Airport,La Grande-4,Canada,0,0,0,1
+YAL,Alert Bay Airport,Alert Bay,Canada,0,0,0,1
+YCE,Centralia / James T. Field Memorial Aerodrome,Centralia,Canada,0,0,0,1
+YCQ,Chetwynd Airport,Chetwynd,Canada,0,0,0,1
+XRR,Ross River Airport,Ross River,Canada,0,0,0,1
+YDO,Dolbeau St Felicien Airport,Dolbeau-St-Félicien,Canada,0,0,0,1
+YEY,Amos/Magny Airport,Amos,Canada,0,0,0,1
+YHE,Hope Airport,Hope,Canada,0,0,0,1
+YHT,Haines Junction Airport,Haines Junction,Canada,0,0,0,1
+YDG,Digby / Annapolis Regional Airport,Digby,Canada,0,0,0,1
+YJF,Fort Liard Airport,Fort Liard,Canada,0,0,0,1
+YKJ,Key Lake Airport,Key Lake,Canada,0,0,0,1
+YLR,Leaf Rapids Airport,Leaf Rapids,Canada,0,0,0,1
+YME,Matane Airport,Matane,Canada,0,0,0,1
+YML,Charlevoix Airport,Charlevoix,Canada,0,0,0,1
+YOS,Owen Sound / Billy Bishop Regional Airport,Owen Sound,Canada,0,0,0,1
+YPS,Port Hawkesbury Airport,Port Hawkesbury,Canada,0,0,0,1
+YQS,St Thomas Municipal Airport,St Thomas,Canada,0,0,0,1
+YRO,Ottawa / Rockcliffe Airport,Ottawa,Canada,0,0,0,1
+YSH,Smiths Falls-Montague (Russ Beach) Airport,Smiths Falls,Canada,0,0,0,1
+YSL,St Leonard Airport,St Leonard,Canada,0,0,0,1
+YVE,Vernon Airport,Vernon,Canada,0,0,0,1
+YXQ,Beaver Creek Airport,Beaver Creek,Canada,0,0,0,1
+YSN,Shuswap Regional Airport,Salmon Arm,Canada,0,0,0,1
+KES,Kelsey Airport,Kelsey,Canada,0,0,0,1
+XPK,Pukatawagan Airport,Pukatawagan,Canada,0,0,0,1
+ZGF,Grand Forks Airport,Grand Forks,Canada,0,0,0,1
+ZJG,Jenpeg Airport,Jenpeg,Canada,0,0,0,1
+YTD,Thicket Portage Airport,Thicket Portage,Canada,0,0,0,1
+PIW,Pikwitonei Airport,Pikwitonei,Canada,0,0,0,1
+XPP,Poplar River Airport,Poplar River,Canada,0,0,0,1
+WPC,Pincher Creek Airport,Pincher Creek,Canada,0,0,0,1
+ZST,Stewart Airport,Stewart,Canada,0,0,0,1
+ZUC,Ignace Municipal Airport,Ignace,Canada,0,0,0,1
+FNB,Neubrandenburg Airport,Neubrandenburg,Germany,0,0,0,1
+FSS,RAF Kinloss,Kinloss,United Kingdom,0,0,0,1
+BXP,Biała Podlaska Airfield,Biała Podlaska,Poland,0,0,0,1
+DGP,Daugavpils Intrenational Airport,Daugavpils,Latvia,0,0,0,1
+LMR,Lime Acres Finsch Mine Airport,Lime Acres,South Africa,0,0,0,1
+SXN,Sua Pan Airport,Sowa,Botswana,0,0,0,1
+NDD,Sumbe Airport,Sumbe,Angola,0,0,0,1
+MAI,Mangochi Airport,Mangochi,Malawi,0,0,0,1
+ADI,Arandis Airport,Arandis,Namibia,0,0,0,1
+MWE,Merowe New Airport,Merowe,Sudan,0,0,0,1
+ALN,St Louis Regional Airport,Alton/St Louis,United States,0,0,0,1
+AXN,Chandler Field,Alexandria,United States,0,0,0,1
+CLU,Columbus Municipal Airport,Columbus,United States,0,0,0,1
+BBD,Curtis Field,Brady,United States,0,0,0,1
+BIH,Eastern Sierra Regional Airport,Bishop,United States,0,0,0,1
+BKE,Baker City Municipal Airport,Baker City,United States,0,0,0,1
+BPI,Miley Memorial Field,Big Piney,United States,0,0,0,1
+WMH,Ozark Regional Airport,Mountain Home,United States,0,0,0,1
+BTL,W K Kellogg Airport,Battle Creek,United States,0,0,0,1
+BYI,Burley Municipal Airport,Burley,United States,0,0,0,1
+CCY,Northeast Iowa Regional Airport,Charles City,United States,0,0,0,1
+CNU,Chanute Martin Johnson Airport,Chanute,United States,0,0,0,1
+CRG,Jacksonville Executive at Craig Airport,Jacksonville,United States,0,0,0,1
+CSV,Crossville Memorial Whitson Field,Crossville,United States,0,0,0,1
+DAA,Davison Army Air Field,Fort Belvoir,United States,0,0,0,1
+DAG,Barstow Daggett Airport,Daggett,United States,0,0,0,1
+DMN,Deming Municipal Airport,Deming,United States,0,0,0,1
+DRA,Desert Rock Airport,Mercury,United States,0,0,0,1
+EED,Needles Airport,Needles,United States,0,0,0,1
+EGI,Duke Field,Crestview,United States,0,0,0,1
+EKA,Murray Field,Eureka,United States,0,0,0,1
+HYR,Sawyer County Airport,Hayward,United States,0,0,0,1
+JCT,Kimble County Airport,Junction,United States,0,0,0,1
+LOL,Derby Field,Lovelock,United States,0,0,0,1
+MBG,Mobridge Municipal Airport,Mobridge,United States,0,0,0,1
+MCB,Mc Comb/Pike County Airport/John E Lewis Field,Mc Comb,United States,0,0,0,1
+MDH,Southern Illinois Airport,Carbondale/Murphysboro,United States,0,0,0,1
+MMT,Mc Entire Joint National Guard Base,Eastover,United States,0,0,0,1
+NHZ,Brunswick Executive Airport,Brunswick,United States,0,0,0,1
+NRB,Naval Station Mayport (Admiral David L. Mcdonald Field),Mayport,United States,0,0,0,1
+OGB,Orangeburg Municipal Airport,Orangeburg,United States,0,0,0,1
+OTM,Ottumwa Regional Airport,Ottumwa,United States,0,0,0,1
+OZR,Cairns AAF (Fort Rucker) Air Field,Fort Rucker/Ozark,United States,0,0,0,1
+PWY,Ralph Wenz Field,Pinedale,United States,0,0,0,1
+POU,Dutchess County Airport,Poughkeepsie,United States,0,0,0,1
+RSL,Russell Municipal Airport,Russell,United States,0,0,0,1
+RWF,Redwood Falls Municipal Airport,Redwood Falls,United States,0,0,0,1
+SNS,Salinas Municipal Airport,Salinas,United States,0,0,0,1
+TPH,Tonopah Airport,Tonopah,United States,0,0,0,1
+UKI,Ukiah Municipal Airport,Ukiah,United States,0,0,0,1
+UOX,University Oxford Airport,Oxford,United States,0,0,0,1
+HTV,Huntsville Regional Airport,Huntsville,United States,0,0,0,1
+VTN,Miller Field,Valentine,United States,0,0,0,1
+WMC,Winnemucca Municipal Airport,Winnemucca,United States,0,0,0,1
+WWR,West Woodward Airport,Woodward,United States,0,0,0,1
+ZZV,Zanesville Municipal Airport,Zanesville,United States,0,0,0,1
+ECV,Cuatro Vientos Airport,Madrid,Spain,0,0,0,1
+CDT,Castellón-Costa Azahar Airport,Castellón de la Plana,Spain,0,0,0,1
+TEV,Teruel Airport,Teruel,Spain,0,0,0,1
+QLP,Sarzana-Luni Air Base,Sarzana (SP),Italy,0,0,0,1
+BJY,Batajnica Air Base,Batajnica,Serbia,0,0,0,1
+RUV,Rubelsanto Airport,Rubelsanto,Guatemala,0,0,0,1
+XPL,Coronel Enrique Soto Cano Air Base,Comayagua,Honduras,0,0,0,1
+UPL,Upala Airport,Upala,Costa Rica,0,0,0,1
+QSN,San Nicolas De Bari Airport,San Nicolás,Cuba,0,0,0,1
+SNJ,San Julian Air Base,Pinar Del Rio,Cuba,0,0,0,1
+KMX,King Khaled Air Base,,Saudi Arabia,0,0,0,1
+XXN,Riyadh Air Base,Riyadh,Saudi Arabia,0,0,0,1
+KNR,Jam Airport,Kangan,Iran,0,0,0,1
+PYK,Payam International Airport,Karaj,Iran,0,0,0,1
+XIJ,Ahmed Al Jaber Air Base,Ahmed Al Jaber AB,Kuwait,0,0,0,1
+ATG,Minhas Air Base,Kamra,Pakistan,0,0,0,1
+SGI,Mushaf Air Base,Sargodha,Pakistan,0,0,0,1
+RQW,Qayyarah West Airport,Qayyarah,Iraq,0,0,0,1
+ENN,Nenana Municipal Airport,Nenana,United States,0,0,0,1
+WWA,Wasilla Airport,Wasilla,United States,0,0,0,1
+IEJ,Ie Jima Airport,Ie,Japan,0,0,0,1
+AAV,Allah Valley Airport,Surallah,Philippines,0,0,0,1
+BPH,Bislig Airport,,Philippines,0,0,0,1
+MXI,Mati National Airport,,Philippines,0,0,0,1
+BAT,Chafei Amsei Airport,Barretos,Brazil,0,0,0,1
+QHP,Base de Aviação de Taubaté Airport,Taubaté,Brazil,0,0,0,1
+TOQ,Barriles Airport,Tocopilla,Chile,0,0,0,1
+CNR,Chañaral Airport,Chañaral,Chile,0,0,0,1
+TLX,Panguilemo Airport,Talca,Chile,0,0,0,1
+ZIC,Victoria Airport,Victoria,Chile,0,0,0,1
+TTC,Las Breas Airport,Taltal,Chile,0,0,0,1
+API,Gomez Nino Apiay Air Base,Apiay,Colombia,0,0,0,1
+CVE,Coveñas Airport,Coveñas,Colombia,0,0,0,1
+PAL,German Olano Air Base,La Dorada,Colombia,0,0,0,1
+PZA,Paz De Ariporo Airport,Paz De Ariporo,Colombia,0,0,0,1
+TQS,Tres Esquinas Air Base,Tres Esquinas,Colombia,0,0,0,1
+RIJ,Juan Simons Vela Airport,Rioja,Peru,0,0,0,1
+JAE,Shumba Airport,Jaén,Peru,0,0,0,1
+IKU,Issyk-Kul International Airport,Tamchy,Kyrgyzstan,0,0,0,1
+VYI,Vilyuisk Airport,Vilyuisk,Russia,0,0,0,1
+BGN,Belaya Gora Airport,,Russia,0,0,0,1
+GVN,Maygatka Airport.,Sovetskaya Gavan,Russia,0,0,0,1
+NLI,Nikolayevsk-na-Amure Airport,Nikolayevsk-na-Amure Airport,Russia,0,0,0,1
+VLK,Volgodonsk Airport,,Russia,0,0,0,1
+INA,Inta Airport,Inta,Russia,0,0,0,1
+ZIX,Zhigansk Airport,Zhigansk,Russia,0,0,0,1
+RTC,Ratnagiri Airport,,India,0,0,0,1
+HIM,Hingurakgoda Air Force Base,Polonnaruwa Town,Sri Lanka,0,0,0,1
+RDP,Kazi Nazrul Islam Airport,Durgapur,India,0,0,0,1
+PUT,Sri Sathya Sai Airport,Puttaparthi,India,0,0,0,1
+LNX,Smolensk North Airport,Smolensk,Russia,0,0,0,1
+ABH,Alpha Airport,Alpha,Australia,0,0,0,1
+ARY,Ararat Airport,,Australia,0,0,0,1
+BLN,Benalla Airport,,Australia,0,0,0,1
+BZD,Balranald Airport,,Australia,0,0,0,1
+BWQ,Brewarrina Airport,,Australia,0,0,0,1
+CVC,Cleve Airport,,Australia,0,0,0,1
+CWW,Corowa Airport,,Australia,0,0,0,1
+CYG,Corryong Airport,,Australia,0,0,0,1
+CMD,Cootamundra Airport,,Australia,0,0,0,1
+DRN,Dirranbandi Airport,,Australia,0,0,0,1
+DNQ,Deniliquin Airport,Deniliquin,Australia,0,0,0,1
+DYA,Dysart Airport,,Australia,0,0,0,1
+ECH,Echuca Airport,,Australia,0,0,0,1
+FRB,Forbes Airport,Forbes,Australia,0,0,0,1
+GUH,Gunnedah Airport,,Australia,0,0,0,1
+HXX,Hay Airport,,Australia,0,0,0,1
+HTU,Hopetoun Airport,,Australia,0,0,0,1
+KRA,Kerang Airport,,Australia,0,0,0,1
+KPS,Kempsey Airport,,Australia,0,0,0,1
+KGY,Kingaroy Airport,,Australia,0,0,0,1
+TGN,Latrobe Valley Airport,Morwell,Australia,0,0,0,1
+MRG,Mareeba Airport,,Australia,0,0,0,1
+RPM,Ngukurr Airport,,Australia,0,0,0,1
+QRM,Narromine Airport,,Australia,0,0,0,1
+PPI,Port Pirie Airport,,Australia,0,0,0,1
+SIO,Smithton Airport,,Australia,0,0,0,1
+SNB,Snake Bay Airport,,Australia,0,0,0,1
+SWC,Stawell Airport,,Australia,0,0,0,1
+TYB,Tibooburra Airport,,Australia,0,0,0,1
+TUM,Tumut Airport,,Australia,0,0,0,1
+WGT,Wangaratta Airport,,Australia,0,0,0,1
+WKB,Warracknabeal Airport,,Australia,0,0,0,1
+QRR,Warren Airport,,Australia,0,0,0,1
+SXE,West Sale Airport,Sale,Australia,0,0,0,1
+WWY,West Wyalong Airport,West Wyalong,Australia,0,0,0,1
+NGA,Young Airport,,Australia,0,0,0,1
+LHK,Guangzhou MR Air Base,Guanghua,China,0,0,0,1
+WDS,Shiyan Wudangshan Airport,Shiyan,China,0,0,0,1
+HTT,Huatugou Airport,Mengnai,China,0,0,0,1
+UUN,Baruun Urt Airport,,Mongolia,0,0,0,1
+BFU,Bengbu Airport,Bengbu,China,0,0,0,1
+RUG,Rugao Air Base,Rugao,China,0,0,0,1
+WHU,Wuhu Air Base,Wuhu,China,0,0,0,1
+SXJ,Shanshan Airport,Shanshan,China,0,0,0,1
+YKH,Yingkou Lanqi Airport,Yingkou,China,0,0,0,1
+BQG,Bogorodskoye Airport,Bogorodskoe,Russia,0,0,0,1
+PKO,Parakou Airport,Parakou,Benin,0,0,0,1
+KDC,Kandi Airport,Kandi,Benin,0,0,0,1
+HMG,Hermannsburg Airport,Hermannsburg,Australia,0,0,0,1
+BIB,Baidoa Airport,Baidoa,Somalia,0,0,0,1
+KCS,Kings Creek Airport,Petermann,Australia,0,0,0,1
+BMR,Baltrum Airport,Baltrum,Germany,0,0,0,1
+MVW,Skagit Regional Airport,Skagit,United States,0,0,0,1
+GOO,Goondiwindi Airport,Goondiwindi,Australia,0,0,0,1
+APT,Marion County Brown Field,Jasper,United States,0,0,0,1
+DCU,Pryor Field Regional Airport,Decatur,United States,0,0,0,1
+GLW,Glasgow Municipal Airport,Glasgow,United States,0,0,0,1
+DKV,Docker River Airport,Docker River,Australia,0,0,0,1
+RNZ,Jasper County Airport,Rensselaer,United States,0,0,0,1
+SBT,Sabetta International Airport,Sabetta,Russia,0,0,0,1
+AXF,Alxa Left Banner Bayanhot Airport,Alxa Left Banner,China,0,0,0,1
+NIS,Simberi Airport,Simberi Island,Papua New Guinea,0,0,0,1
+TBR,Statesboro Bulloch County Airport,Statesboro,United States,0,0,0,1
+AMT,Amata Airport,Amata,Australia,0,0,0,1
+EDD,Erldunda Airport,Erldunda,Australia,0,0,0,1
+FIK,Finke Airport,Finke,Australia,0,0,0,1
+JJG,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,Brazil,0,0,0,1
+WKI,Hwange (Town) Airport,Hwange,Zimbabwe,0,0,0,1
+KLJ,Klaipėda Airport,Klaipeda,Lithuania,0,0,0,1
+ETB,West Bend Municipal Airport,WEST BEND,United States,0,0,0,1
+GLR,Gaylord Regional Airport,GAYLORD,United States,0,0,0,1
+AID,Anderson Municipal Darlington Field,ANDERSON,United States,0,0,0,1
+QND,Cenej Airport,Novi Sad,Serbia,0,0,0,1
+GUU,Grundarfjörður Airport,Grundarfjordur,Iceland,0,0,0,1
+PCD,Prairie Du Chien Municipal Airport,Prairie du Chien,United States,0,0,0,1
+OTJ,Otjiwarongo Airport,Otjiwarongo,Namibia,0,0,0,1
+TSM,Taos Regional Airport,Taos,United States,0,0,0,1
+RTN,Raton Municipal-Crews Field,Raton,United States,0,0,0,1
+PPA,Perry Lefors Field,Pampa,United States,0,0,0,1
+FLP,Marion County Regional Airport,Flippin,United States,0,0,0,1
+BGD,Hutchinson County Airport,Borger,United States,0,0,0,1
+HLE,St. Helena Airport,Longwood,United Kingdom,0,0,0,1
+BNJ,Bonn-Hangelar Airport,Sankt-Augustin,Germany,0,0,0,1
+SQA,Santa Ynez Airport,Santa Ynez,United States,0,0,0,1
+HXD,Delingha Airport,Haixi,China,0,0,0,1
+BAR,Qionghai Bo'ao Airport,Qionghai,China,0,0,0,1
+ZBO,Bowen Airport,Bowen,Australia,0,0,0,1
+UCB,Ulanqab Jining Airport,Wulanchabu,China,0,0,0,1
+KEO,Odienne Airport,Odienne,Cote d'Ivoire,0,0,0,1
+GII,Siguiri Airport,Siguiri,Guinea,0,0,0,1
+NZE,Nzérékoré Airport,Nzerekore,Guinea,0,0,0,1
+OCM,Boolgeeda,Brockman,Australia,0,0,0,1
+WGN,Shaoyang Wugang Airport,Shaoyang,China,0,0,0,1
+TXF,9 de Maio - Teixeira de Freitas Airport,Teixeira de Freitas,Brazil,0,0,0,1
+SPA,Spartanburg Downtown Memorial Airport,Spartangurg,United States,0,0,0,1
+BJW,Bajawa Soa Airport,Bajawa,Indonesia,0,0,0,1
+NBN,Annobón Airport,San Antonio de Pale,Equatorial Guinea,0,0,0,1
+PPF,Tri-City Airport,Parsons,United States,0,0,0,1
+PCQ,Boun Neau Airport,Phongsaly,Laos,0,0,0,1
+AYS,Waycross Ware County Airport,Waycross,United States,0,0,0,1
+DSS,Blaise Diagne International Airport,Diass,Senegal,0,0,0,1
+PMH,Greater Portsmouth Regional Airport,Portsmouth,United States,0,0,0,1
+NAC,Naracoorte Airport,Naracoorte,Australia,0,0,0,1
+PGZ,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,Ponta Grossa,Brazil,0,0,0,1
+CUD,Caloundra Airport,Caloundra,Australia,0,0,0,1
+CLP,Clarks Point Airport,Clarks Point,United States,0,0,0,1
+JOJ,Doris Lake,Doris Lake,Canada,0,0,0,1
+ECI,Costa Esmeralda Airport,Tola,Nicaragua,0,0,0,1
+QGQ,Attu Heliport,Attu,Greenland,0,0,0,1
+QPW,Kangaatsiaq Heliport,Kangaatsiaq,Greenland,0,0,0,1
+QJE,Kitsissuarsuit Heliport,Kitsissuarsuit,Greenland,0,0,0,1
+XIQ,Ilimanaq Heliport,Ilimanaq,Greenland,0,0,0,1
+QQT,Qeqertaq Heliport,Qeqertaq,Greenland,0,0,0,1
+QJI,Ikamiut Heliport,Ikamiut,Greenland,0,0,0,1
+QRY,Ikerassaarsuk Heliport,Ikerasaarsuk,Greenland,0,0,0,1
+NPR,Novo Progresso Airport,Novo Progresso,Brazil,0,0,0,1
+SMT,Adolino Bedin Regional Airport,Sorriso,Brazil,0,0,0,1
+ENO,Encarnación Airport,Encarnacion,Paraguay,0,0,0,1
+UZR,Urzhar Airport,Urzhar,Kazakhstan,0,0,0,1
+NYR,Nyurba Airport,Nyurba,Russia,0,0,0,1
+UKG,Ust-Kuyga Airport,Ust-Kuyga,Russia,0,0,0,1
+VHV,Verkhnevilyuisk Airport,Verkhnevilyuysk,Russia,0,0,0,1
+TLK,Talakan Airport,Talakan,Russia,0,0,0,1
+RDB,Red Dog Airport,Red Dog,United States,0,0,0,1
+ION,Impfondo Airport,Impfondo,Congo (Brazzaville),0,0,0,1
+ZIS,Alzintan Airport,Zintan,Libya,0,0,0,1
+MYZ,Monkey Bay Airport,Monkey Bay,Malawi,0,0,0,1
+BCU,Sir Abubakar Tafawa Balewa International Airport,Bauchi,Nigeria,0,0,0,1
+KDA,Kolda North Airport,Kolda,Senegal,0,0,0,1
+SHO,King Mswati III International Airport,Manzini,Swaziland,0,0,0,1
+KIY,Kilwa Masoko Airport,Kilwa Masoko,Tanzania,0,0,0,1
+QSI,Moshi Airport,Moshi,Tanzania,0,0,0,1
+GZI,Ghazni Airport,Ghazni,Afghanistan,0,0,0,1
+DBC,Baicheng Chang'an Airport,Baicheng,China,0,0,0,1
+LNL,Longnan Chengzhou Airport,Longnan,China,0,0,0,1
+SQD,Shangrao Sanqingshan Airport,Shangrao,China,0,0,0,1
+YSQ,Songyuan Chaganhu Airport,Songyuan,China,0,0,0,1
+JSJ,Jiansanjiang Airport,Jiansanjiang,China,0,0,0,1
+WMT,Zunyi Maotai Airport,Zunyi,China,0,0,0,1
+CDE,Chengde Puning Airport,Chengde,China,0,0,0,1
+DTU,Wudalianchi Dedu Airport,Wudalianchi,China,0,0,0,1
+EJN,Ejin Banner-Taolai Airport,Ejin Banner,China,0,0,0,1
+RHT,Alxa Right Banner Badanjilin Airport,Alxa Right Banner,China,0,0,0,1
+HUO,Holingol Huolinhe Airport,Holingol,China,0,0,0,1
+GMQ,Golog Maqin Airport,Golog,China,0,0,0,1
+QSZ,Yeerqiang Airport,Yarkant,China,0,0,0,1
+TEI,Tezu Airport,Tezu,India,0,0,0,1
+CWJ,Cangyuan Washan Airport,Cangyuan,China,0,0,0,1
+JMJ,Lancang Jingmai Airport,Lancang Lahu,China,0,0,0,1
+NLH,Ninglang Luguhu Airport,Ninglang,China,0,0,0,1
+PBQ,Pimenta Bueno Airport,Pimenta Bueno,Brazil,0,0,0,1
+WUT,Xinzhou Wutaishan Airport,Xinzhou,China,0,0,0,1
+NZL,Chengjisihan Airport,Zhalantun,China,0,0,0,1
+AIP,Adampur Airport,Adampur,India,0,0,0,1
+VDY,Vijayanagar Aerodrome (JSW),Toranagallu,India,0,0,0,1
+SAG,Shirdi Airport,Shirdi,India,0,0,0,1
+PYB,Jeypore Airport,Jeypore,India,0,0,0,1
+SUP,Trunojoyo Airport,Sumenep,Indonesia,0,0,0,1
+RKO,Rokot Airport,Sipora,Indonesia,0,0,0,1
+PPR,Pasir Pangaraan Airport,Pasir Pangaraian,Indonesia,0,0,0,1
+TJB,Sei Bati Airport,Tanjung Balai Karimun,Indonesia,0,0,0,1
+KRC,Departi Parbo Airport,Kerinci Regency,Indonesia,0,0,0,1
+NRE,Namrole Airport,Buru Island,Indonesia,0,0,0,1
+NAM,Namlea Airport,Namlea,Indonesia,0,0,0,1
+SQN,Emalamo Sanana Airport,Sanana,Indonesia,0,0,0,1
+AYW,Ayawasi Airport,Ayawasi,Indonesia,0,0,0,1
+BYQ,Bunyu Airport,Bunyu,Indonesia,0,0,0,1
+UOL,Buol Airport,Buol,Indonesia,0,0,0,1
+RAQ,Sugimanuru Airport,Raha,Indonesia,0,0,0,1
+JSK,Jask Airport,Jask,Iran,0,0,0,1
+ZBY,Sayaboury Airport,Sainyabuli,Laos,0,0,0,1
+BGL,Baglung Airport,Baglung,Nepal,0,0,0,1
+RJB,Rajbiraj Airport,Rajbiraj,Nepal,0,0,0,1
+DQM,Duqm International Airport,Duqm,Oman,0,0,0,1
+CKI,Croker Island Airport,Croker Island,Australia,0,0,0,1
+BYP,Barimunya Airport,Barimunya,Australia,0,0,0,1
+LUC,Laucala Island Airport,Laucala,Fiji,0,0,0,1
+YAS,Yasawa Island Airport,Yasawa Island,Fiji,0,0,0,1
+WIK,Waiheke Reeve Airport,Waiheke Island,New Zealand,0,0,0,1
+DEX,Nop Goliat Airport,Dekai,Indonesia,0,0,0,1
+NAU,Napuka Island Airport,Napuka,French Polynesia,0,0,0,1
+FAC,Faaite Airport,Faaite,French Polynesia,0,0,0,1
+NUK,Nukutavake Airport,Nukutavake,French Polynesia,0,0,0,1
+VHZ,Vahitahi Airport,Vahitahi,French Polynesia,0,0,0,1
+HHZ,Hikueru Atoll Airport,Hikueru,French Polynesia,0,0,0,1
+RRR,Raroia Airport,Raroia,French Polynesia,0,0,0,1
+KHZ,Kauehi Airport,Kauehi,French Polynesia,0,0,0,1
+TKV,Tatakoto Airport,Tatakoto,French Polynesia,0,0,0,1
+TDS,Sasereme Airport,Sasereme,Papua New Guinea,0,0,0,1
+TMH,Tanah Merah Airport,Boven Digoel,Indonesia,0,0,0,1
+NKB,Noonkanbah Airport,Noonkanbah,Australia,0,0,0,1
+AEI,Algeciras Heliport,Algeciras,Spain,0,0,0,1
+NCJ,Sunchales Aeroclub Airport,Sunchales,Argentina,0,0,0,1
+SOV,Seldovia Airport,Seldovia,United States,0,0,0,1
+DWA,Dwangwa Airport,Dwangwa,Malawi,0,0,0,1
+HGI,"Paloich Airport, Heliport",Higleig,South Sudan,0,0,0,1
+KQH,Kishangarh Airport,Ajmer,India,0,0,0,1
+CNN,Kannur International Airport,Kannur,India,0,0,0,1
+ASS,Arathusa Safari Lodge Airport,Arathusa,South Africa,0,0,0,1
+VDI,Vidalia Regional Airport,Vidalia,United States,0,0,0,1
+MHE,Mitchell Municipal Airport,Mitchell,United States,0,0,0,1
+GIT,Mchauru Airport,Geita,Tanzania,0,0,0,1
+GID,Gitega Airport,Gitega,Burundi,0,0,0,1
+RMU,Región de Murcia International Airport,Murcia,Spain,0,0,0,1
+CQS,Costa Marques Airport,COSTA MARQUES,Brazil,0,0,0,1
+ZXT,Zabrat Airport,Baku,Azerbaijan,0,0,0,1
+JAM,Bezmer Air Base,Yambol,Bulgaria,0,0,0,1
+YUA,Yuanmou Air Base,Yuanmou,China,0,0,0,1
+XEN,Xingcheng Air Base,,China,0,0,0,1
+GEC,Lefkoniko Airport,Geçitkale,Cyprus,0,0,0,1
+UGU,Bilogai-Sugapa Airport,Sugapa-Papua Island,Indonesia,0,0,0,1
+ETM,Ramon Airport,Eilat,Israel,0,0,0,1
+MNH,Rustaq Airport,Al Masna'ah,Oman,0,0,0,1

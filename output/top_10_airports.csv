@@ -1,0 +1,11 @@
+IATA,Airport,City,Country,In_Degree,Out_Degree,Total_Degree,Weak_Component_Size
+FRA,Frankfurt am Main Airport,Frankfurt,Germany,238,239,477,3231
+CDG,Charles de Gaulle International Airport,Paris,France,233,237,470,3231
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,231,232,463,3231
+IST,Istanbul Airport,Istanbul,Turkey,229,226,455,3231
+ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,216,217,433,3231
+ORD,Chicago O'Hare International Airport,Chicago,United States,203,206,409,3231
+PEK,Beijing Capital International Airport,Beijing,China,204,204,408,3231
+MUC,Munich Airport,Munich,Germany,189,191,380,3231
+DME,Domodedovo International Airport,Moscow,Russia,188,188,376,3231
+DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,185,187,372,3231
