@@ -1,99 +1,141 @@
-# Global Airport & Flight Route Network Explorer
+<div align="center">
 
-An interactive graph-visualization project for exploring airport connectivity using geographic data and directed flight routes.
+# 🌍 Global Airport & Flight Route Network Explorer
 
-## Highlights
+**Explore the connections that link the world's airports.**
 
-- Interactive world map with airport markers and flight-route arcs.
-- Search airports by code, name, city, or country.
-- Filter by region and minimum connections; toggle routes and switch map styles.
-- Select an airport to inspect incoming/outgoing routes, connectivity, rank, and busiest links.
-- Linked hub ranking and map interactions.
-- Graph analysis: degree measures, density, connected components, isolated airports, and regional route patterns.
+An interactive graph-visualization project built to explore airport connectivity, identify major hubs, and understand the structure of a global route network.
 
-## How it works
+[✨ Features](#-features) · [🧭 How It Works](#-how-it-works) · [🚀 Run Locally](#-run-locally) · [📊 Graph Model--visual-encoding](#-graph-model--visual-encoding)
+
+</div>
+
+---
+
+## ✨ Features
+
+| Feature | What you can explore |
+|---|---|
+| 🗺️ **Interactive world map** | Explore airports at their geographic coordinates and zoom or pan around the network. |
+| 🔎 **Airport search** | Find airports by IATA code, name, city, or country. |
+| 🎛️ **Dynamic filters** | Filter by region or minimum connections, toggle routes, and change map style. |
+| 📍 **Airport details** | Select an airport to inspect incoming/outgoing connections, rank, and busiest links. |
+| 🔗 **Linked interactions** | Explore the relationship between the hub ranking and map selection. |
+| 📈 **Network analysis** | Calculate degree measures, density, connected components, isolated airports, and regional route patterns. |
+
+## 🧭 How It Works
 
 ```text
-OpenFlights data
-      ↓
-Clean airport and route records
-      ↓
-Build directed airport graph + calculate network metrics
-      ↓
-Map, hub ranking, filters, airport details, and graph insights
+        OpenFlights dataset
+                 │
+                 ▼
+      Clean airports and routes
+                 │
+                 ▼
+      Build a directed graph
+                 │
+                 ▼
+       Calculate graph metrics
+                 │
+                 ▼
+  Interactive map + hub ranking
+   filters + airport-level details
 ```
 
-**Visual encoding:** geographic coordinates determine position, region determines colour, connectivity influences marker size, and lines represent routes. Filtering and showing detailed routes on selection help reduce clutter.
+### 🎨 Visual Encoding
 
-## Tech stack
+- **Position** → airport latitude and longitude
+- **Colour** → airport region
+- **Marker size** → number of connected airports
+- **Lines** → directed airport-to-airport routes
+- **Highlight colour** → selected airport and its routes
 
-- **Python** — data loading, preprocessing, graph preparation
-- **NetworkX / Pandas** — graph analysis and data handling
-- **HTML, CSS, JavaScript** — interactive dashboard
-- **Leaflet** — map rendering
+Filtering and showing detailed routes on selection help keep the overview readable.
 
-## Run locally
+## 🧰 Tech Stack
 
-**Requirements:** Python 3.10+ and the project files below.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph_Analysis-444444?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactive_UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-Interactive_Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Dashboard-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-1. Install analysis dependencies:
+## 🚀 Run Locally
 
-   ```powershell
-   python -m pip install pandas networkx
-   ```
+### 1. Prerequisites
 
-2. From the project root, check the data and run the analysis:
+- Python 3.10+
+- `data/airports.dat` and `data/routes.dat`
+- Internet access for map background tiles
 
-   ```powershell
-   python check_data.py
-   python clean_data.py
-   python build_graph.py
-   python analyze_graph.py
-   ```
+### 2. Install dependencies
 
-3. Generate the dashboard:
+Run these commands from the project root:
 
-   ```powershell
-   python visualize_network.py
-   ```
+```powershell
+python -m pip install pandas networkx
+```
 
-4. Start a local server:
+### 3. Check, build, and analyse the data
 
-   ```powershell
-   python -m http.server 8000
-   ```
+```powershell
+python check_data.py
+python clean_data.py
+python build_graph.py
+python analyze_graph.py
+```
 
-5. Open **http://localhost:8000/airport_map.html** in your browser. Keep the terminal running while using the app.
+### 4. Generate and launch the dashboard
 
-The map background requires an internet connection for map tiles.
+```powershell
+python visualize_network.py
+python -m http.server 8000
+```
 
-## Project structure
+Open **http://localhost:8000/airport_map.html** in your browser. Keep the terminal running while using the app.
+
+> After changing `templates/dashboard.html`, run `python visualize_network.py` again and refresh the page.
+
+## 📊 Graph Model & Visual Encoding
+
+- **Vertices (nodes):** airports identified by IATA code.
+- **Directed edges:** route records from a source airport to a destination airport.
+- **In-degree / out-degree:** distinct incoming and outgoing neighbours.
+- **Density:** proportion of possible directed edges present.
+- **Connected components:** groups of airports connected through routes.
+- **Isolated airports:** airports with no valid route edges after preprocessing.
+
+## 📁 Project Structure
 
 ```text
 .
-├── data/                    # airports.dat, routes.dat
-├── templates/dashboard.html # Dashboard UI
+├── data/                    # Airport and route source files
+├── templates/
+│   └── dashboard.html       # Dashboard HTML/CSS/JavaScript
 ├── lib/leaflet/             # Leaflet assets
 ├── output/                  # Generated graph-analysis reports
-├── check_data.py
-├── clean_data.py
-├── build_graph.py
-├── analyze_graph.py
-├── visualize_network.py
+├── check_data.py            # Input-data checks
+├── clean_data.py            # Data cleaning and inspection
+├── build_graph.py           # Directed graph construction
+├── analyze_graph.py         # Network metrics and CSV/text reports
+├── visualize_network.py     # Generates the interactive dashboard
 ├── airport_map.html         # Generated dashboard
 └── README.md
 ```
 
-## Dataset & limitations
+## 🗃️ Dataset & Limitations
 
-Data source: [OpenFlights airport and route database](https://openflights.org/data).
+**Dataset:** [OpenFlights airport and route database](https://openflights.org/data)
 
-The dataset is historical (route data was last updated in 2014), so this project is for **network exploration**, not live flight tracking. The graph treats each unique source–destination pair as one directed edge; it does not count flight frequency or airline-specific duplicates.
+The route data is historical (last updated in 2014), so this project is intended for **network exploration, not live flight tracking**. Each unique source–destination pair is treated as one directed edge; the graph does not represent flight frequency or airline-specific duplicates.
 
-OpenFlights data is distributed under the Open Database License (ODbL). Review the source's attribution and share-alike requirements before redistributing derived data.
+OpenFlights data is distributed under the Open Database License (ODbL). Review its attribution and share-alike requirements before redistributing derived data.
 
-## Notes
+---
 
-- `airport_map.html` is generated by `visualize_network.py`; regenerate it after changing the dashboard template.
-- Graph metrics describe the cleaned dataset, not necessarily current real-world airline operations.
-- See the generated files in `output/` for detailed analysis results.
+<div align="center">
+
+**Built to turn raw route records into an explorable network.**
+
+</div>
