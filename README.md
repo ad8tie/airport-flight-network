@@ -59,6 +59,7 @@ Filtering and showing detailed routes on selection help keep the overview readab
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive_UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-Interactive_Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Dashboard-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ## 🚀 Run Locally
 
