@@ -56,7 +56,6 @@ Filtering and showing detailed routes on selection help keep the overview readab
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph_Analysis-444444?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive_UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-Interactive_Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Dashboard-E34F26?style=flat-square&logo=html5&logoColor=white)
